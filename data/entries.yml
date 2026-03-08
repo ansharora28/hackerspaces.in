@@ -1,0 +1,2301 @@
+# Community/Public spaces directory - India.
+# https://ooru.space
+
+- name: "Nongwah Nook"
+  city: "Mawsynram"
+  address: "Nongwah Village, East Khasi Hills, Meghalaya"
+  url: "https://projectdefy.org"
+  description: "A self-designed learning centre for remote agricultural and fruit-farming communities."
+  categories:
+    - Education
+    - Community
+  tags:
+    - project-defy
+    - rural
+    - free-entry
+
+- name: "Sathanur Nook"
+  city: "Sathanur"
+  address: "Sathanur, Ramanagara District, Karnataka"
+  url: "https://projectdefy.org"
+  description: "A rural makerspace focused on experiential learning and vocational tinkering."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - project-defy
+    - rural
+    - free-entry
+
+- name: "Wahlyngkhat Nook"
+  city: "Pynursla"
+  address: "East Khasi Hills, Meghalaya"
+  url: "https://projectdefy.org"
+  description: "A community-led hub for creative projects, science, and traditional crafts."
+  categories:
+    - Community
+    - Education
+  tags:
+    - project-defy
+    - rural
+    - craft
+    - free-entry
+
+- name: "Kashewadi Nook"
+  city: "Pune"
+  address: "Kashewadi, Pune, Maharashtra"
+  url: "https://projectdefy.org"
+  description: "Provides urban youth in marginalized areas a space for creative making."
+  categories:
+    - Makerspace
+    - Community
+  tags:
+    - project-defy
+    - youth
+    - social-justice
+
+- name: "Katchipedu Nook"
+  city: "Sriperumbudur"
+  address: "Katchipedu Village, Tamil Nadu"
+  url: "https://projectdefy.org"
+  description: "A hub for technical tinkering and project building in a peri-urban context."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - project-defy
+    - rural
+
+- name: "Loktantrashala — School For Democracy"
+  city: "Bhim"
+  address: "Rajsamand District, Rajasthan"
+  url: "https://fln.org.in"
+  description: "A centre for democratic learning and constitutional literacy for rural citizens, providing political and social education for villagers."
+  categories:
+    - Education
+    - Community
+  tags:
+    - rural
+    - social-justice
+    - free-entry
+
+- name: "1Shanthiroad Studio"
+  city: "Bengaluru"
+  address: "1, Shanthiroad, Shanthinagar, Bengaluru"
+  url: "http://1shanthiroad.com"
+  description: "An alternative art space providing residencies, mentorship, and workshops."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - residency
+
+- name: "Conflictorium"
+  city: "Ahmedabad"
+  address: "Gool Lodge, Mirzapur, Ahmedabad"
+  url: "http://www.conflictorium.org"
+  description: "A participatory museum addressing conflict and empathy through art and archives."
+  categories:
+    - Arts
+    - Culture
+    - Community
+  tags:
+    - social-justice
+    - heritage-building
+
+- name: "Khoj International Artists' Association"
+  city: "New Delhi"
+  address: "S-17, Khirkee Extension, New Delhi 110017"
+  url: "https://khojstudios.org"
+  description: "An autonomous non-profit contemporary arts organisation supporting experimental, interdisciplinary, and socially engaged art. The building includes exhibition spaces, studios, library, media lab, café, and terrace."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - residency
+    - cafe
+    - studios
+
+- name: "Sunaparanta Goa Centre for the Arts"
+  city: "Panaji"
+  address: "63/C-8, Near Army House, Altinho, Panaji, Goa 403001"
+  url: "https://www.sgcfa.org"
+  description: "A non-profit arts initiative with galleries, workshops, lectures, library, amphitheatre, and support for art students and exchange."
+  categories:
+    - Arts
+    - Culture
+    - Education
+  tags:
+    - outdoor-venue
+    - free-entry
+
+- name: "Sarmaya Arts"
+  city: "Mumbai"
+  address: "Fort, Mumbai, Maharashtra"
+  url: "https://sarmaya.in"
+  description: "A repository of South Asian art and living traditions focused on education."
+  categories:
+    - Arts
+    - Culture
+  tags: []
+
+- name: "Method Gallery"
+  city: "Mumbai"
+  address: "Kala Ghoda, Mumbai, Maharashtra"
+  url: "https://the-method.in"
+  description: "An art space hosting storytelling, poetry nights, and community dinners."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - literature
+
+- name: "Underline Centre"
+  city: "Bengaluru"
+  address: "Jayanagar, Bengaluru, Karnataka"
+  url: "https://theunderline.in"
+  description: "A multidisciplinary space for writing labs, poetry circles, and creative labs."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - literature
+
+- name: "Atta Galatta"
+  city: "Bengaluru"
+  address: "Indiranagar, Bengaluru, Karnataka"
+  url: "https://attagalatta.com"
+  description: "A bookstore-turned-cultural-hub for literature, poetry, and theatre workshops."
+  categories:
+    - Arts
+    - Performing Arts
+    - Library
+  tags:
+    - literature
+
+- name: "Pepper House"
+  city: "Kochi"
+  address: "Fort Kochi, Kerala"
+  url: "https://pepperhouse.org"
+  description: "A heritage waterfront cultural complex with studios, café, gallery, art library, residency, and exhibition space."
+  categories:
+    - Arts
+    - Culture
+    - Library
+  tags:
+    - heritage-building
+    - residency
+    - cafe
+    - studios
+
+- name: "David Hall"
+  city: "Kochi"
+  address: "Parade Ground, Fort Kochi, Kerala"
+  url: "https://kochimuzirisbiennale.org"
+  description: "A restored bungalow hosting contemporary art and cultural performances."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - heritage-building
+
+- name: "The Community Library Project"
+  city: "New Delhi"
+  address: "Multiple locations (Sikanderpur, Khirki), New Delhi"
+  url: "https://tclp.org"
+  description: "A free, community-led library movement serving the urban and rural poor."
+  categories:
+    - Library
+    - Education
+    - Community
+  tags:
+    - free-entry
+    - social-justice
+
+- name: "Bansa Community Library"
+  city: "Bansa"
+  address: "Bansa Village, Hardoi District, Uttar Pradesh"
+  url: "https://fln.org.in"
+  description: "A rural library providing educational resources and a safe gathering space for villagers."
+  categories:
+    - Library
+    - Community
+  tags:
+    - rural
+    - free-entry
+
+- name: "Akam Foundation"
+  city: "Various"
+  address: "Multiple locations in Assam"
+  url: "https://fln.org.in"
+  description: "Focuses on capacity building and literacy in rural Assamese communities."
+  categories:
+    - Education
+    - Library
+  tags:
+    - rural
+
+- name: "LECIN"
+  city: "New Delhi"
+  address: "Various communities, New Delhi"
+  url: "https://lecinindia.org"
+  description: "A library initiative focused on early childhood education and grassroots literacy."
+  categories:
+    - Education
+    - Library
+  tags:
+    - children
+    - free-entry
+
+- name: "Share A Book India"
+  city: "Various"
+  address: "Pan-India"
+  url: "https://shareabookindia.org"
+  description: "A foundation that sets up libraries in government schools and remote areas."
+  categories:
+    - Education
+    - Library
+  tags:
+    - rural
+    - children
+    - free-entry
+
+- name: "Adhvan"
+  city: "Mumbai"
+  address: "Childcare Institutions, Mumbai"
+  url: "https://fln.org.in"
+  description: "Creates libraries and spaces for expression for young people in institutions."
+  categories:
+    - Library
+    - Community
+  tags:
+    - youth
+    - social-justice
+
+- name: "Rafooghar"
+  city: "New Delhi"
+  address: "Shaheen Bagh, New Delhi"
+  url: "https://ficart.org"
+  description: "A community space for marginalized women to gather and share stories through art."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - women
+    - social-justice
+
+- name: "Makers Asylum"
+  city: "Moira"
+  address: "House No 661, Mapusa-Moira Road, Moira, Goa 403507"
+  url: "https://makersasylum.com"
+  description: "A globally recognized community makerspace and learning hub for innovation, prototyping, STEAM, and sustainable design. Artists, designers, engineers, and hobbyists build and share knowledge."
+  categories:
+    - Makerspace
+    - Innovation
+    - Community
+  tags:
+    - sustainability
+    - coworking
+
+- name: "Vigyan Ashram"
+  city: "Pabal"
+  address: "Pabal, Pune District, Maharashtra"
+  url: "https://vigyanashram.com"
+  description: "A pioneer in rural innovation, focusing on engineering, energy, and agri-tech."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - rural
+    - sustainability
+    - stem
+
+- name: "THE Workshop"
+  city: "Bengaluru"
+  address: "HAL 2nd Stage, Indiranagar, Bengaluru"
+  url: "https://the-workshop.in"
+  description: "A cross-disciplinary design research space for collaborative project-making."
+  categories:
+    - Makerspace
+    - Innovation
+  tags: []
+
+- name: "Fab Lab Kerala — Kochi"
+  city: "Kochi"
+  address: "Integrated Startup Complex, Kinfra Hi-Tech Park, Kalamassery, Kochi 683503"
+  url: "https://fablabkerala.in"
+  description: "Kerala Startup Mission fablab for advanced digital fabrication, prototyping, and entrepreneurship."
+  categories:
+    - Makerspace
+    - Innovation
+  tags:
+    - fablab
+    - government
+
+- name: "Workbench Projects"
+  city: "Bengaluru"
+  address: "Halasuru Metro Station, Bengaluru"
+  url: "https://workbenchprojects.com"
+  description: "A co-working and prototyping space focused on hardware and public engineering."
+  categories:
+    - Makerspace
+    - Innovation
+  tags:
+    - coworking
+
+- name: "Collab House"
+  city: "Hyderabad"
+  address: "Jubilee Hills, Hyderabad, Telangana"
+  url: "https://collab.house"
+  description: "Blurs the lines between a makerspace, co-working, and community hub."
+  categories:
+    - Makerspace
+    - Innovation
+    - Community
+  tags:
+    - coworking
+
+- name: "IKP-EDEN"
+  city: "Bengaluru"
+  address: "Koramangala, Bengaluru, Karnataka"
+  url: "https://ikpeden.com"
+  description: "A hardware incubator and makerspace focusing on medical devices and engineering."
+  categories:
+    - Makerspace
+    - Innovation
+  tags: []
+
+- name: "MakersBox"
+  city: "New Delhi"
+  address: "Multiple locations (Noida, Delhi, Karnal)"
+  url: "https://makersbox.in"
+  description: "Provides tools and mentorship for hands-on learning in STEM for all ages."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - stem
+    - children
+
+- name: "FabLab CEPT"
+  city: "Ahmedabad"
+  address: "FabLab CEPT, Workshop, CEPT University, University Road, Ahmedabad 380009"
+  url: "https://fablab.cept.ac.in"
+  description: "A digital fabrication lab hosted by CEPT that allows users to work for free if they bring materials. Serves makers, researchers, and creative thinkers."
+  categories:
+    - Makerspace
+    - Innovation
+  tags:
+    - fablab
+    - free-entry
+
+- name: "Heramb Maker Lab"
+  city: "Mumbai"
+  address: "Various locations, Mumbai"
+  url: "https://herambmakerlab.com"
+  description: "A budget-friendly makerspace providing student-level access to 3D printers."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - youth
+
+- name: "National Science Centre"
+  city: "New Delhi"
+  address: "Pragati Maidan, Bhairon Road, New Delhi"
+  url: "https://nscdelhi.org"
+  description: "A premier national science centre featuring an Innovation Hub and major galleries."
+  categories:
+    - Science
+    - Innovation
+  tags:
+    - ncsm
+    - government
+    - stem
+
+- name: "Science Gallery Bengaluru"
+  city: "Bengaluru"
+  address: "10–11, Bellary Road, Sanjaynagar, Bengaluru 560024"
+  url: "https://bengaluru.sciencegallery.com"
+  description: "A free-entry public gallery where science, art, and research meet through exhibitions, mediation, and programmes."
+  categories:
+    - Science
+    - Arts
+  tags:
+    - free-entry
+    - stem
+
+- name: "Nehru Science Centre"
+  city: "Mumbai"
+  address: "Dr. E. Moses Road, Worli, Mumbai"
+  url: "https://nehrusciencecentre.gov.in"
+  description: "India's largest interactive science centre with over 500 hands-on exhibits."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+    - stem
+
+- name: "Visvesvaraya Industrial and Technological Museum"
+  city: "Bengaluru"
+  address: "Kasturba Road, Bengaluru, Karnataka"
+  url: "https://vismuseum.gov.in"
+  description: "A landmark national centre focused on industrial history and modern technological innovation."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+    - stem
+
+- name: "Birla Industrial & Technological Museum"
+  city: "Kolkata"
+  address: "19A, Gurusaday Road, Kolkata"
+  url: "https://bitm.gov.in"
+  description: "The first science museum in India, featuring a specialized Innovation Hub."
+  categories:
+    - Science
+    - Innovation
+  tags:
+    - ncsm
+    - government
+    - stem
+
+- name: "Regional Science City"
+  city: "Lucknow"
+  address: "Aliganj, Lucknow, Uttar Pradesh"
+  url: "https://ncsm.gov.in"
+  description: "An expansive science park and innovation hub serving Northern India."
+  categories:
+    - Science
+    - Innovation
+  tags:
+    - ncsm
+    - government
+    - stem
+
+- name: "Pushpa Gujral Science City"
+  city: "Kapurthala"
+  address: "Jalandhar-Kapurthala Road, Kapurthala, Punjab"
+  url: "https://pgsciencecity.org"
+  description: "A massive science complex covering biotechnology, robotics, and space exploration."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+    - stem
+
+- name: "Vikram A Sarabhai Community Science Centre"
+  city: "Ahmedabad"
+  address: "Navrangpura, Ahmedabad, Gujarat"
+  url: "https://vascsc.org"
+  description: "A community science centre promoting scientific temper among students and the public."
+  categories:
+    - Science
+    - Community
+    - Education
+  tags:
+    - stem
+    - free-entry
+
+- name: "Manaskhand Science Centre"
+  city: "Almora"
+  address: "Syunrakot, Almora, Uttarakhand"
+  url: "https://ncsm.gov.in"
+  description: "A centre focusing on the ecology and science of the Himalayan region."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Goa Science Centre"
+  city: "Panaji"
+  address: "Marine Drive, Miramar, Panaji, Goa"
+  url: "https://sciencecentregoa.org"
+  description: "Focuses on oceanography and environmental sciences relevant to the coastal region."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Regional Science Centre"
+  city: "Guwahati"
+  address: "Jawaharnagar, Khanapara, Guwahati, Assam"
+  url: "https://rscguwahati.gov.in"
+  description: "The primary science education hub for the North Eastern states."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+    - stem
+
+- name: "Raman Science Centre & Planetarium"
+  city: "Nagpur"
+  address: "Opp. Gandhi Sagar, Nagpur, Maharashtra"
+  url: "https://nehrusciencecentre.gov.in"
+  description: "Focused on promoting scientific literacy in Central India through interactive exhibits."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+    - planetarium
+
+- name: "Nagaland Science Centre"
+  city: "Dimapur"
+  address: "Behind Super Market, Dimapur, Nagaland"
+  url: "https://ncsm.gov.in"
+  description: "A key centre for the promotion of science and technology in Nagaland."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Sikkim Science Centre"
+  city: "Gangtok"
+  address: "Marchak, East Sikkim"
+  url: "https://ncsm.gov.in"
+  description: "Focuses on high-altitude ecology and physical sciences for the Himalayas."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Pilikula Science Centre"
+  city: "Mangaluru"
+  address: "Vamanjoor, Mangaluru, Karnataka"
+  url: "https://ncsm.gov.in"
+  description: "Integrated within a biological park, focusing on biodiversity and physical science."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Science City"
+  city: "Kolkata"
+  address: "JBS Haldane Avenue, Kolkata, West Bengal"
+  url: "https://sciencecitykolkata.org.in"
+  description: "Major public science centre in the NCSM network with exhibitions and science-learning programming."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+    - stem
+
+- name: "ShriKrishna Science Centre"
+  city: "Patna"
+  address: "Patna, Bihar"
+  url: "https://sksciencecentre.org"
+  description: "Public science centre in the NCSM network."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "North Bengal Science Centre"
+  city: "Siliguri"
+  address: "Siliguri, West Bengal"
+  url: "https://nbscsiliguri.org"
+  description: "Regional public science centre under NCSM."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Bardhaman Science Centre"
+  city: "Bardhaman"
+  address: "Bardhaman, West Bengal"
+  url: "https://bardhamansciencecentre.org"
+  description: "District-level public science centre in the NCSM network."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "District Science Centre Purulia"
+  city: "Purulia"
+  address: "Purulia, West Bengal"
+  url: "https://dscpurulia.org"
+  description: "Public science centre serving local learning and exhibition functions."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Digha Science Centre"
+  city: "Digha"
+  address: "Digha, West Bengal"
+  url: "https://dighasciencecentre.org"
+  description: "Coastal public science centre in the NCSM network."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Central Research and Training Laboratory"
+  city: "Kolkata"
+  address: "Kolkata, West Bengal"
+  url: "https://crtl.in"
+  description: "NCSM's research and training hub; more institutional than public, but part of the national science-centre ecosystem."
+  categories:
+    - Science
+  tags:
+    - ncsm
+    - government
+    - institutional
+
+- name: "Regional Science Centre"
+  city: "Bhubaneswar"
+  address: "Bhubaneswar, Odisha"
+  url: "https://rscbhubaneswar.org"
+  description: "Public science centre under NCSM."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Dhenkanal Science Centre & Kapilas Science Park"
+  city: "Dhenkanal"
+  address: "Dhenkanal, Odisha"
+  url: "https://dhenkanalsciencecentre.org"
+  description: "Public science-learning centre in the NCSM system, with the adjoining Kapilas Science Park."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Regional Science Centre"
+  city: "Bhopal"
+  address: "Bhopal, Madhya Pradesh"
+  url: "https://rscbhopal.gov.in"
+  description: "Regional public science centre under NCSM."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "District Science Centre Dharampur"
+  city: "Dharampur"
+  address: "Dharampur, Gujarat"
+  url: "https://dscdharampur.org.in"
+  description: "District science centre in the NCSM network."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Kurukshetra Panorama and Science Centre"
+  city: "Kurukshetra"
+  address: "Kurukshetra, Haryana"
+  url: "https://kpsc.nscd.gov.in"
+  description: "Panorama-plus-science centre combining heritage interpretation and science education."
+  categories:
+    - Science
+    - Culture
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Palampur Science Centre"
+  city: "Palampur"
+  address: "Palampur, Himachal Pradesh"
+  url: "https://nscd.gov.in"
+  description: "Public science centre in Himachal Pradesh within the NCSM system."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Regional Science Centre"
+  city: "Tirupati"
+  address: "Tirupati, Andhra Pradesh"
+  url: "https://rsctirupati.org.in"
+  description: "Regional science centre serving the wider region."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "District Science Centre"
+  city: "Kalaburagi"
+  address: "Kalaburagi, Karnataka"
+  url: "https://sciencecentrekalaburagi.org.in"
+  description: "District science centre in Karnataka under NCSM."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "District Science Centre"
+  city: "Tirunelveli"
+  address: "Tirunelveli, Tamil Nadu"
+  url: "https://dsctirunelveli.org.in"
+  description: "Public district science centre in south Tamil Nadu."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+
+- name: "Regional Science Centre & Planetarium"
+  city: "Kozhikode"
+  address: "Kozhikode, Kerala"
+  url: "https://rscpcalicut.edu.in"
+  description: "Regional science centre and planetarium under NCSM."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+    - planetarium
+
+- name: "Innovation Hub, Periyar Science & Technology Centre"
+  city: "Chennai"
+  address: "Periyar Science and Technology Centre, Chennai"
+  url: "https://tnstc.gov.in"
+  description: "Public innovation hub inside the Tamil Nadu Science and Technology Centre network, focused on hands-on problem solving and science learning."
+  categories:
+    - Science
+    - Innovation
+    - Education
+  tags:
+    - government
+    - stem
+
+- name: "ParSEC Jayanagar"
+  city: "Bengaluru"
+  address: "4, 31st Cross, 16th Main, 4th Block, Jayanagar, Bengaluru 560011"
+  url: "https://paramfoundation.org"
+  description: "Immersive science gallery and living lab for hands-on learning, exhibits, workshops, and public engagement."
+  categories:
+    - Science
+    - Education
+  tags:
+    - stem
+
+- name: "T-Works"
+  city: "Hyderabad"
+  address: "Plot 1/D, 1/E, 1/F, Survey No. 83/1, Raidurgam, Ranga Reddy District, Hyderabad 500081"
+  url: "https://tworks.telangana.gov.in"
+  description: "Government-backed open-for-all prototyping centre designed to reduce barriers to hardware building and support innovators, students, startups, and makers."
+  categories:
+    - Makerspace
+    - Innovation
+  tags:
+    - government
+
+- name: "T-Hub"
+  city: "Hyderabad"
+  address: "Plot No 1/C, Sy No 83/1, Raidurgam Panmaktha, Hyderabad Knowledge City, Serilingampally, Hyderabad 500081"
+  url: "https://t-hub.co"
+  description: "Large innovation hub for startups, open innovation, community events, and entrepreneurial ecosystem building."
+  categories:
+    - Innovation
+    - Community
+  tags: []
+
+- name: "Samagata Space"
+  city: "Bengaluru"
+  address: "4th Floor, Cobalt Building (above Church Street Social), Church Street, Bengaluru"
+  url: "https://samagata.org/space"
+  description: "Non-profit community venue for meetups, workshops, and cross-disciplinary conversations spanning social sector, academia, science, arts, technology, and culture."
+  categories:
+    - Community
+    - Culture
+  tags:
+    - free-entry
+
+- name: "Bangalore International Centre"
+  city: "Bengaluru"
+  address: "7, 4th Main Road, Domlur II Stage, Bengaluru 560071"
+  url: "https://bangaloreinternationalcentre.org"
+  description: "Non-profit public institution for dialogue, culture, talks, screenings, and performances; many programmes are free and open to non-members."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - free-entry
+    - film
+
+- name: "Jaaga"
+  city: "Bengaluru"
+  address: "Bengaluru, Karnataka"
+  url: "https://jaaga.in"
+  description: "Collaborative community platform working across arts research, public arts, tech-arts, and urban/community issues."
+  categories:
+    - Arts
+    - Community
+    - Innovation
+  tags: []
+
+- name: "Bangalore Makespace"
+  city: "Bengaluru"
+  address: "Bengaluru, Karnataka (pop-up / distributed model)"
+  url: "https://bangaloremakespace.org"
+  description: "Community of makers running open workshops and activities around electronics, robotics, fabrication, and open-source creativity."
+  categories:
+    - Makerspace
+    - Education
+    - Community
+  tags:
+    - stem
+
+- name: "Dhi Artspace"
+  city: "Hyderabad"
+  address: "7-1-54/2/C, Sri Guru Krupa, Near Kanya Gurukul School, Opp. Servo Towers, Dharam Karan Road, Ameerpet, Hyderabad 500016"
+  url: "https://dhiart.com"
+  description: "Contemporary art space fostering exhibitions, discussion, mentorship, and cultural dialogue in Hyderabad."
+  categories:
+    - Arts
+    - Culture
+  tags: []
+
+- name: "Dhi Contemporary"
+  city: "Hyderabad"
+  address: "Bodhi House, Plot No 552, Road No 11, Kakatiya Hills, Madhapur, Hyderabad 500081"
+  url: "https://dhiart.com"
+  description: "Sister initiative of Dhi Artspace focused on younger artistic talent through exhibitions, performances, screenings, and commissions."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - youth
+    - film
+
+- name: "The Makerspace Initiative"
+  city: "Hyderabad"
+  address: "Hyderabad, Telangana"
+  url: "https://themakerspaceinitiative.com"
+  description: "Community-oriented makerspace initiative for learning and making."
+  categories:
+    - Makerspace
+    - Education
+    - Community
+  tags: []
+
+- name: "SPACE @ ICCI"
+  city: "Kochi"
+  address: "ICCI, Kochi, Kerala"
+  url: "https://iccicochin.com/space"
+  description: "Dedicated art, culture, and events platform created by ICCI as part of its culture-and-community focus."
+  categories:
+    - Arts
+    - Culture
+    - Community
+  tags: []
+
+- name: "Chavara Cultural Centre"
+  city: "Kochi"
+  address: "Kochi, Kerala"
+  url: "https://chavaraculturalcentre.com"
+  description: "Long-running cultural institution described as a secular space where art, faith, culture, and community come together."
+  categories:
+    - Culture
+    - Community
+  tags: []
+
+- name: "Pune International Centre"
+  city: "Pune"
+  address: "SN 34/A, Behind C-DAC, Panchavati, Pashan, Pune 411008"
+  url: "https://puneinternationalcentre.org"
+  description: "Public-facing centre for intellectual exchange, culture, dialogue, and interdisciplinary programming with auditorium, amphitheatre, library, and art gallery."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - outdoor-venue
+
+- name: "Raah — A Literacy & Cultural Centre"
+  city: "Pune"
+  address: "Office No. 730, 7th/8th Floor, Marvel Vista, Above PNG Brothers, Lullanagar Junction, Pune 411040"
+  url: "https://raah.org.in"
+  description: "Community platform for artistic and intellectual expression, literacy, events, and neighbourhood engagement."
+  categories:
+    - Culture
+    - Community
+    - Education
+  tags:
+    - literature
+
+- name: "IDAM — The Art & Cultural Space"
+  city: "Chennai"
+  address: "7, Viswanathapuram 2nd Street, Kodambakkam, Chennai 600024"
+  url: "https://idamthespace.com"
+  description: "Intimate art and cultural space for classes, workshops, performances, and community-oriented creative learning."
+  categories:
+    - Arts
+    - Culture
+    - Community
+  tags: []
+
+- name: "Lila Arts Centre"
+  city: "Chennai"
+  address: "5/6, Thirumalai Pillai Road, Satyamurthy Nagar, T. Nagar, Chennai 600017"
+  url: "https://lilaartscentre.com"
+  description: "Performance space and studio for dance, music, theatre, classes, and shared practice."
+  categories:
+    - Performing Arts
+    - Culture
+    - Education
+  tags:
+    - studios
+
+- name: "IFBE"
+  city: "Mumbai"
+  address: "10–12, Calicut Road, Ballard Estate, Fort, Mumbai 400001"
+  url: "https://ifbe.space"
+  description: "Repurposed ice-factory cultural centre for architecture, design, art, dialogue, and community-building."
+  categories:
+    - Arts
+    - Culture
+    - Community
+  tags:
+    - heritage-building
+
+- name: "India Habitat Centre"
+  city: "New Delhi"
+  address: "Lodhi Road, New Delhi 110003"
+  url: "https://indiahabitat.org"
+  description: "One of Delhi's major cultural hubs with regular programmes in music, theatre, film, talks, poetry, book launches, and exhibitions. Includes multiple performance venues such as the Stein Auditorium."
+  categories:
+    - Culture
+    - Performing Arts
+  tags:
+    - film
+    - literature
+    - outdoor-venue
+
+- name: "India International Centre"
+  city: "New Delhi"
+  address: "40, Max Mueller Marg, New Delhi 110003"
+  url: "https://iicdelhi.in"
+  description: "Premier cultural and intellectual institution where public lectures, seminars, conferences, and arts programmes are open to the wider city."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - membership-required
+
+- name: "Kolkata Centre for Creativity"
+  city: "Kolkata"
+  address: "777, Anandapur EM Bypass, Kolkata 700107"
+  url: "https://kolkatacentreforcreativity.org"
+  description: "Non-profit creativity centre with library, conservation lab, gallery store, talks, workshops, performances, and interdisciplinary arts programming."
+  categories:
+    - Arts
+    - Culture
+    - Library
+  tags: []
+
+- name: "TRI Art & Culture"
+  city: "Kolkata"
+  address: "53/2/2 Hazra Road, Ballygunge, Kolkata 700019"
+  url: "https://triartandculture.com"
+  description: "Nonprofit multidisciplinary centre with free public galleries, performances, public programmes, and exhibitions spanning visual, performing, literary, and research practices."
+  categories:
+    - Arts
+    - Culture
+    - Performing Arts
+  tags:
+    - free-entry
+
+- name: "Hutheesing Visual Art Centre"
+  city: "Ahmedabad"
+  address: "Kasturbhai Lalbhai Campus, Navrangpura, Ahmedabad 380009"
+  url: ""
+  description: "Visual-arts venue used for exhibitions and artistic programming on the CEPT/KL campus."
+  categories:
+    - Arts
+    - Culture
+  tags: []
+
+- name: "Goethe-Institut / Max Mueller Bhavan Bengaluru"
+  city: "Bengaluru"
+  address: "716, CMH Road, Indiranagar 1st Stage, Bengaluru 560038"
+  url: "https://goethe.de/bangalore"
+  description: "Cultural institute with library, courses, screenings, exhibitions, workshops, and collaborations in art, science, and media."
+  categories:
+    - Culture
+    - Arts
+    - Library
+  tags:
+    - goethe-institut
+    - film
+
+- name: "Goethe-Institut / Max Mueller Bhavan Chennai"
+  city: "Chennai"
+  address: "No. 4, 5th Street, Rutland Gate, Chennai 600006"
+  url: "https://goethe.de/chennai"
+  description: "Cultural institute with library, courses, and programmes across film, new media, arts, theatre, dance, music, literature, and architecture."
+  categories:
+    - Culture
+    - Arts
+    - Library
+  tags:
+    - goethe-institut
+    - film
+
+- name: "Goethe-Institut / Max Mueller Bhavan Mumbai"
+  city: "Mumbai"
+  address: "CSMVS, 159–161, Mahatma Gandhi Road, Fort, Mumbai 400023"
+  url: "https://goethe.de/mumbai"
+  description: "Cultural institute with gallery, library, courses, and interdisciplinary programmes in art, cinema, theatre, dance, and literature."
+  categories:
+    - Culture
+    - Arts
+    - Library
+  tags:
+    - goethe-institut
+    - film
+
+- name: "Goethe-Institut / Max Mueller Bhavan New Delhi"
+  city: "New Delhi"
+  address: "3, Kasturba Gandhi Marg, New Delhi 110001"
+  url: "https://goethe.de/delhi"
+  description: "Cultural institute with library, language programmes, and public cultural cooperation activities."
+  categories:
+    - Culture
+    - Library
+  tags:
+    - goethe-institut
+
+- name: "Goethe-Institut / Max Mueller Bhavan Kolkata"
+  city: "Kolkata"
+  address: "Park Mansions, Gate 4, 57A, Park Street, Kolkata 700016"
+  url: "https://goethe.de/kolkata"
+  description: "Cultural institute with library, exhibitions, courses, and ongoing cultural exchange programming."
+  categories:
+    - Culture
+    - Arts
+    - Library
+  tags:
+    - goethe-institut
+
+- name: "Goethe-Institut / Max Mueller Bhavan Pune"
+  city: "Pune"
+  address: "Pune, Maharashtra"
+  url: "https://goethe.de/ins/in/en/sta/pun.html"
+  description: "German cultural institute with library, courses, events, and cultural programming."
+  categories:
+    - Culture
+    - Library
+  tags:
+    - goethe-institut
+
+- name: "Alliance Française de Bombay"
+  city: "Mumbai"
+  address: "Mumbai, Maharashtra"
+  url: "https://bombay.afindia.org"
+  description: "Official French cultural centre in Mumbai with film screenings, classes, library/media resources, and cultural programming."
+  categories:
+    - Culture
+    - Library
+  tags:
+    - alliance-francaise
+    - film
+
+- name: "Alliance Française de Delhi"
+  city: "New Delhi"
+  address: "K.K. Birla Lane, 72, Lodi Estate, New Delhi 110003"
+  url: "https://afdelhi.org"
+  description: "Indo-French cultural centre with screenings, performances, exhibitions, classes, and a long-standing public cultural programme."
+  categories:
+    - Culture
+    - Performing Arts
+  tags:
+    - alliance-francaise
+    - film
+
+- name: "Alliance Française d'Ahmedabad"
+  city: "Ahmedabad"
+  address: "B/S Food Corporation of India, Himali Tower Lane, Manekbaug-Shyamal Road, Satellite, Ahmedabad 380015"
+  url: "https://ahmedabad.afindia.org"
+  description: "Official French cultural centre and language institute; part of the public-facing Alliance network in India."
+  categories:
+    - Culture
+    - Library
+    - Community
+  tags:
+    - alliance-francaise
+    - film
+
+- name: "Alliance Française Baroda Branch"
+  city: "Vadodara"
+  address: "Skip Floor-2, B Wing, Blue Diamond Complex, Behind Fatehgunj Petrol Pump, Fatehgunj, Vadodara 390002"
+  url: "https://ahmedabad.afindia.org"
+  description: "Vadodara branch of Alliance Française d'Ahmedabad; public cultural and language centre."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française de Bhopal"
+  city: "Bhopal"
+  address: "Bhopal, Madhya Pradesh"
+  url: "https://bhopal.afindia.org"
+  description: "Non-profit French cultural centre with library, events, screenings, exhibitions, and cultural partnerships."
+  categories:
+    - Culture
+    - Library
+  tags:
+    - alliance-francaise
+    - film
+
+- name: "Alliance Française d'Indore"
+  city: "Indore"
+  address: "Indore, Madhya Pradesh"
+  url: "https://bhopal.afindia.org"
+  description: "Branch of Alliance Française de Bhopal serving Indore with courses and cultural activities."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française de Chandigarh"
+  city: "Chandigarh"
+  address: "Chandigarh"
+  url: "https://afindia.org/about"
+  description: "Official Alliance Française centre in Chandigarh."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française of Madras"
+  city: "Chennai"
+  address: "Chennai, Tamil Nadu"
+  url: "https://afindia.org/about"
+  description: "Official Alliance Française centre in Chennai."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française de Goa"
+  city: "Panaji"
+  address: "Goa"
+  url: "https://afindia.org/about"
+  description: "Official Alliance Française centre in Goa."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française d'Hyderabad"
+  city: "Hyderabad"
+  address: "Hyderabad, Telangana"
+  url: "https://afindia.org/about"
+  description: "Official Alliance Française centre in Hyderabad."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française de Jaipur"
+  city: "Jaipur"
+  address: "Jaipur, Rajasthan"
+  url: "https://afindia.org/about"
+  description: "Official Alliance Française centre in Jaipur."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française Udaipur Branch"
+  city: "Udaipur"
+  address: "Udaipur, Rajasthan"
+  url: "https://afindia.org/about"
+  description: "Branch of Alliance Française under the Jaipur centre."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française du Bengale"
+  city: "Kolkata"
+  address: "Kolkata, West Bengal"
+  url: "https://bengale.afindia.org"
+  description: "Official French cultural centre serving Kolkata and surrounding region."
+  categories:
+    - Culture
+    - Library
+    - Community
+  tags:
+    - alliance-francaise
+    - film
+
+- name: "Alliance Française Bhubaneswar Branch"
+  city: "Bhubaneswar"
+  address: "Bhubaneswar, Odisha"
+  url: "https://bengale.afindia.org"
+  description: "Branch of Alliance Française under the Bengale centre."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française de Pondichéry"
+  city: "Puducherry"
+  address: "Puducherry"
+  url: "https://afindia.org/about"
+  description: "Official Alliance Française centre in Puducherry."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française de Karikal"
+  city: "Karaikal"
+  address: "Karaikal, Puducherry"
+  url: "https://afindia.org/about"
+  description: "Official Alliance Française centre in Karaikal."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française de Pune"
+  city: "Pune"
+  address: "Pune, Maharashtra"
+  url: "https://afindia.org/about"
+  description: "Official Alliance Française centre in Pune."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française de Trivandrum"
+  city: "Thiruvananthapuram"
+  address: "Thiruvananthapuram, Kerala"
+  url: "https://trivandrum.afindia.org"
+  description: "Non-profit French cultural centre with regular screenings, concerts, exhibitions, and workshops."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+    - film
+
+- name: "Alliance Française Kochi Annex"
+  city: "Kochi"
+  address: "Kochi, Kerala"
+  url: "https://trivandrum.afindia.org"
+  description: "Annex centre under Alliance Française de Trivandrum."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "Alliance Française de Bangalore"
+  city: "Bengaluru"
+  address: "Thimmaiah Road, Kaverappa Layout, Vasanth Nagar, Bengaluru 560001"
+  url: "https://bangalore.afindia.org"
+  description: "Official French centre with auditorium, gallery, media centre, classes, and cultural events."
+  categories:
+    - Culture
+    - Arts
+    - Library
+  tags:
+    - alliance-francaise
+    - film
+
+- name: "Alliance Française de Mahe"
+  city: "Mahe"
+  address: "Mahe, Puducherry"
+  url: "https://afindia.org/about"
+  description: "Official Alliance Française centre in Mahe."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - alliance-francaise
+
+- name: "British Council Library"
+  city: "New Delhi"
+  address: "17 Kasturba Gandhi Marg, New Delhi"
+  url: "https://www.britishcouncil.in"
+  description: "Public library and cultural programming venue operated by the British Council."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - british-council
+    - membership-required
+
+- name: "British Council Library"
+  city: "Kolkata"
+  address: "16 Camac Street, Kolkata"
+  url: "https://www.britishcouncil.in"
+  description: "Public library and cultural programming venue operated by the British Council."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - british-council
+    - membership-required
+
+- name: "British Council Library"
+  city: "Chennai"
+  address: "737 Anna Salai, Chennai"
+  url: "https://www.britishcouncil.in"
+  description: "Public library and cultural programming venue operated by the British Council."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - british-council
+    - membership-required
+
+- name: "British Council Library"
+  city: "Bengaluru"
+  address: "23, 1st Cross, Kasturba Road, Bengaluru"
+  url: "https://www.britishcouncil.in"
+  description: "Public library and cultural programming venue operated by the British Council."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - british-council
+    - membership-required
+
+- name: "British Council Library"
+  city: "Mumbai"
+  address: "Mittal Tower, Nariman Point, Mumbai"
+  url: "https://www.britishcouncil.in"
+  description: "Public library and cultural programming venue operated by the British Council."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - british-council
+    - membership-required
+
+- name: "British Council Library"
+  city: "Ahmedabad"
+  address: "Amrapali Lakeview Tower, Vastrapur, Ahmedabad"
+  url: "https://www.britishcouncil.in"
+  description: "Public library and cultural programming venue operated by the British Council."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - british-council
+    - membership-required
+
+- name: "British Council Library"
+  city: "Chandigarh"
+  address: "Elante Office, Industrial Area Phase 1, Chandigarh"
+  url: "https://www.britishcouncil.in"
+  description: "Public library and cultural programming venue operated by the British Council."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - british-council
+    - membership-required
+
+- name: "British Council Library"
+  city: "Hyderabad"
+  address: "SL Jubilee, Road No 36, Jubilee Hills, Hyderabad"
+  url: "https://www.britishcouncil.in"
+  description: "Public library and cultural programming venue operated by the British Council."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - british-council
+    - membership-required
+
+- name: "British Council Library"
+  city: "Pune"
+  address: "Ramsukh House, Ganeshkhind Road, Pune"
+  url: "https://www.britishcouncil.in"
+  description: "Public library and cultural programming venue operated by the British Council."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - british-council
+    - membership-required
+
+- name: "FABLAB Kerala — Trivandrum"
+  city: "Thiruvananthapuram"
+  address: "Kerala Startup Mission, Ground Floor, IIITM-K Building, Technopark Campus, Trivandrum, Kerala"
+  url: "https://fablabkerala.in"
+  description: "Public-facing fabrication lab created with Kerala Startup Mission to support entrepreneurship, learning, and innovation."
+  categories:
+    - Makerspace
+    - Innovation
+    - Education
+  tags:
+    - fablab
+    - government
+
+- name: "FabLab Trichy"
+  city: "Tiruchirappalli"
+  address: "Government College of Engineering, Sethurappatti, Srirangam, Trichy 620012"
+  url: "https://forgeforward.in"
+  description: "Fabrication lab and community innovation hub with workshops, training, and collaborative projects."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - fablab
+
+- name: "FabLab Nellai"
+  city: "Tirunelveli"
+  address: "Government College of Engineering, Trivandrum Road, Marshal Nagar, Tirunelveli 627007"
+  url: "https://forgeforward.in"
+  description: "Community innovation lab for hands-on learning, prototyping, and local maker activity."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - fablab
+
+- name: "FabLab Noida"
+  city: "Noida"
+  address: "C-56/47, Sector 62, Noida 201307"
+  url: "https://fablabs.io/labs/rentechnologies01"
+  description: "Digital fabrication lab aimed at engineering students and community innovation in NCR."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - fablab
+
+- name: "FabLab Mohali"
+  city: "Mohali"
+  address: "New Chandigarh, Punjab"
+  url: "https://fablabs.io/labs/mohali"
+  description: "Part of the Fab Lab Chandigarh network; focused on hardware development and startup prototyping."
+  categories:
+    - Makerspace
+    - Innovation
+  tags:
+    - fablab
+
+- name: "Fab Lab Chandigarh"
+  city: "Chandigarh"
+  address: "Chandigarh"
+  url: "https://fablabs.io/labs/fablabchandigarh"
+  description: "Fab lab intended to expand access to digital-fabrication technologies across the northern region."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - fablab
+
+- name: "FabLab Nagpur"
+  city: "Nagpur"
+  address: "36, Atrey Layout, Pratap Nagar, Nagpur 440022"
+  url: "https://fablabnagpur.com"
+  description: "Community digital fabrication lab and coworking-style maker environment open to varied age groups."
+  categories:
+    - Makerspace
+    - Community
+  tags:
+    - fablab
+    - coworking
+
+- name: "FabLab Narmadalaya"
+  city: "Kasrawad"
+  address: "Vivekananda Institute of Rural Technology, Lepa Punarvas, Kasrawad, Khargone 451228"
+  url: "https://narmadalaya.org"
+  description: "Rural fablab for tribal youth, local artisans, makers, and village-level problem solving."
+  categories:
+    - Makerspace
+    - Education
+    - Community
+  tags:
+    - fablab
+    - rural
+    - craft
+
+- name: "Makerspace@CMRIT"
+  city: "Bengaluru"
+  address: "CMR Institute of Technology, 132 AECS Layout, ITPL Main Road, Kundalahalli, Bengaluru 560037"
+  url: "https://cmrit.ac.in/makerspace"
+  description: "Large college-hosted makerspace with 3D printing, CNC, electronics, talks, hackathons, and makeathons."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - youth
+
+- name: "Fab Lab — AIC ADT Baramati Foundation"
+  city: "Baramati"
+  address: "Post Box No. 35, Malegaon Colony, Sharadanagar, Baramati, Pune district 413115"
+  url: "https://aicadtbaramatifoundation.org/fablab"
+  description: "Public/open-access digital fabrication workshop welcoming everyone from children to entrepreneurs."
+  categories:
+    - Makerspace
+    - Innovation
+    - Education
+  tags:
+    - fablab
+    - children
+
+- name: "Arthshila Delhi"
+  city: "New Delhi"
+  address: "B-19/1, Pocket B, Okhla Phase II, Okhla Industrial Estate, New Delhi 110020"
+  url: "https://arthshila.org"
+  description: "Multi-arts centre with galleries, auditorium, terrace, pop-up areas, and community programming across art, architecture, design, and craft."
+  categories:
+    - Arts
+    - Culture
+    - Community
+  tags:
+    - craft
+
+- name: "Triveni Kala Sangam"
+  city: "New Delhi"
+  address: "Mandi House, New Delhi"
+  url: "https://trivenikalasangam.org"
+  description: "Art institution with galleries, theatre, and open cultural programming."
+  categories:
+    - Arts
+    - Culture
+    - Education
+  tags: []
+
+- name: "KNMA Saket"
+  city: "New Delhi"
+  address: "Saket, New Delhi"
+  url: "https://knma.in"
+  description: "Contemporary art museum with exhibitions, lectures, and education programmes."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - knma
+    - free-entry
+
+- name: "KNMA Noida"
+  city: "Noida"
+  address: "Sector 126, Noida"
+  url: "https://knma.in"
+  description: "Second KNMA location hosting exhibitions and public events."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - knma
+    - free-entry
+
+- name: "Niv Art Centre"
+  city: "New Delhi"
+  address: "Neb Sarai, New Delhi"
+  url: "https://nivartcentre.com"
+  description: "Private art foundation and gallery space hosting exhibitions and residencies."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - residency
+
+- name: "India Islamic Cultural Centre"
+  city: "New Delhi"
+  address: "Lodhi Road area, New Delhi"
+  url: ""
+  description: "Cultural venue hosting talks, seminars, and exhibitions."
+  categories:
+    - Culture
+    - Community
+  tags: []
+
+- name: "Raza Foundation Space"
+  city: "New Delhi"
+  address: "New Delhi"
+  url: "https://razafoundation.org"
+  description: "Foundation promoting arts, lectures, and literary dialogues."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - literature
+
+- name: "Bikaner House Cultural Centre"
+  city: "New Delhi"
+  address: "Pandara Road, New Delhi"
+  url: "https://delhitourism.gov.in"
+  description: "Heritage building used for exhibitions, food festivals, and arts programming."
+  categories:
+    - Culture
+    - Arts
+  tags:
+    - heritage-building
+    - government
+
+- name: "Travancore House Cultural Venue"
+  city: "New Delhi"
+  address: "Kasturba Gandhi Marg, New Delhi"
+  url: "https://delhitourism.gov.in"
+  description: "Heritage cultural venue hosting exhibitions and cultural events."
+  categories:
+    - Culture
+  tags:
+    - heritage-building
+    - government
+
+- name: "Studio Safdar"
+  city: "New Delhi"
+  address: "Shadi Khampur, New Delhi"
+  url: "https://studiosafdar.com"
+  description: "Independent art and theatre space supporting political and experimental performance."
+  categories:
+    - Performing Arts
+    - Arts
+    - Community
+  tags:
+    - social-justice
+
+- name: "IGNCA"
+  city: "New Delhi"
+  address: "Janpath, New Delhi"
+  url: "https://ignca.gov.in"
+  description: "Indira Gandhi National Centre for the Arts — national cultural research centre with exhibitions, lectures, and performances."
+  categories:
+    - Culture
+    - Arts
+  tags:
+    - government
+
+- name: "Gandhi Smriti Cultural Programmes"
+  city: "New Delhi"
+  address: "Tees January Marg, New Delhi"
+  url: "https://gandhismriti.gov.in"
+  description: "Museum with workshops, dialogues, and cultural events."
+  categories:
+    - Culture
+    - Education
+  tags:
+    - government
+    - heritage-building
+
+- name: "National Crafts Museum & Hastkala Academy"
+  city: "New Delhi"
+  address: "Pragati Maidan, New Delhi"
+  url: "https://ncraftsmuseum.nic.in"
+  description: "Museum and craft hub with exhibitions, workshops, and festivals."
+  categories:
+    - Culture
+    - Arts
+  tags:
+    - government
+    - craft
+
+- name: "Rabindranath Tagore Centre (ICCR)"
+  city: "Kolkata"
+  address: "9A, Ho Chi Minh Sarani, Kolkata 700071"
+  url: "https://iccr.gov.in"
+  description: "ICCR's flagship cultural centre in Kolkata with galleries, auditorium, seminar rooms, cultural events, workshops, and theatre."
+  categories:
+    - Culture
+    - Performing Arts
+  tags:
+    - iccr
+    - government
+
+- name: "ICCR Ahmedabad Regional Centre"
+  city: "Ahmedabad"
+  address: "Beside PhD Facilitation Centre, Above University Canteen, Gujarat University Campus, Navrangpura, Ahmedabad 380009"
+  url: "https://iccr.gov.in"
+  description: "ICCR sub-zonal cultural centre supporting cultural programming and exchange in Ahmedabad and Gujarat."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - iccr
+    - government
+
+- name: "ICCR Guwahati at Shilpgram"
+  city: "Guwahati"
+  address: "Annexure Pavilion, Shilpgram, Panjabari Road, Guwahati 781037"
+  url: "https://iccr.gov.in"
+  description: "Cultural office embedded in the Shilpgram complex, with regular support for cultural organisations and monthly Horizon programmes."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - iccr
+    - government
+
+- name: "ICCR Shillong at Brookside Cottage"
+  city: "Shillong"
+  address: "Brookside Cottage, New Assembly Compound, Shillong 793004"
+  url: "https://iccr.gov.in"
+  description: "Cultural centre in Brookside Cottage, active in promoting folk festivals, local music and dance, and wider Northeast cultural programming."
+  categories:
+    - Culture
+    - Community
+    - Performing Arts
+  tags:
+    - iccr
+    - government
+
+- name: "ICCR Pune Regional Centre"
+  city: "Pune"
+  address: "Savitribai Phule University, Ganeshkhind, Pune 411007"
+  url: "https://iccr.gov.in"
+  description: "Public-facing ICCR regional centre coordinating exhibitions, seminars, performances, and collaborations with local cultural organisations."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - iccr
+    - government
+
+- name: "ICCR Mumbai Regional Centre"
+  city: "Mumbai"
+  address: "Videsh Bhavan, Plot No. C-45, Block G, Bandra-Kurla Complex, Mumbai 400051"
+  url: "https://iccr.gov.in"
+  description: "Mumbai ICCR regional centre coordinating exhibitions, cultural presentations, and exchange programmes."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - iccr
+    - government
+
+- name: "ICCR Patna Regional Centre"
+  city: "Patna"
+  address: "67-68/40, Officers Flat, Nehru Path, Opp. Suchna Bhavan, Patna 800001"
+  url: "https://iccr.gov.in"
+  description: "Regional cultural centre coordinating exhibitions, seminars, and cultural delegations in Bihar and Jharkhand."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - iccr
+    - government
+
+- name: "ICCR Bengaluru Regional Centre"
+  city: "Bengaluru"
+  address: "Ground Floor, Regional Passport Office, 8th Block, 80 Feet Road, Koramangala, Bengaluru 560095"
+  url: "https://iccr.gov.in"
+  description: "Regional cultural centre running recurring artist-platform programmes such as EFCEP and Horizon."
+  categories:
+    - Culture
+    - Performing Arts
+    - Community
+  tags:
+    - iccr
+    - government
+
+- name: "Kolkata International Foundation for Arts, Literature & Culture"
+  city: "Kolkata"
+  address: "Raja Basanta Roy Road, Kolkata"
+  url: "https://kolkatainternationalfoundation.org"
+  description: "Culture foundation operating a space with gallery, book corner, and space for seminars, readings, film shows, and creative activities."
+  categories:
+    - Culture
+    - Arts
+    - Community
+  tags:
+    - literature
+    - film
+
+- name: "Nita Mukesh Ambani Cultural Centre"
+  city: "Mumbai"
+  address: "G Block, Bandra Kurla Complex, Mumbai 400098"
+  url: "https://nmacc.com"
+  description: "Large multidisciplinary cultural centre with performing arts, visual arts, public art, and public-facing spaces including the Art House, Dhirubhai Ambani Square, and The Cube experimental performance venue."
+  categories:
+    - Culture
+    - Arts
+    - Performing Arts
+  tags: []
+
+- name: "Nehru Centre"
+  city: "Mumbai"
+  address: "Dr Annie Besant Road, Worli, Mumbai 400018"
+  url: "https://nehrucentremumbai.in"
+  description: "Major cultural centre with art gallery, library, exposition galleries, exhibitions, and a culture wing promoting music, dance, drama, and lectures."
+  categories:
+    - Culture
+    - Arts
+    - Library
+  tags:
+    - government
+
+- name: "Harkat Studios"
+  city: "Mumbai"
+  address: "Bungalow No. 17, Aram Nagar II, Off JP Road, Versova, Andheri West, Mumbai 400061"
+  url: "https://harkat.in"
+  description: "Alternative arts and performance space hosting film, theatre, music, movement, and experimental community programming."
+  categories:
+    - Performing Arts
+    - Arts
+    - Community
+  tags:
+    - film
+
+- name: "3 Art House"
+  city: "Mumbai"
+  address: "Unit 1, Mohini Heights, 5th Road, Govind Dham, Khar West, Mumbai 400052"
+  url: "https://3arthouse.com"
+  description: "Collaborative gallery-stage-living-room style cultural space for events, workshops, mural activities, and emerging artistic voices."
+  categories:
+    - Arts
+    - Culture
+    - Community
+  tags: []
+
+- name: "The Guild Art Gallery"
+  city: "Mumbai"
+  address: "Colaba, Mumbai"
+  url: "https://guildindia.com"
+  description: "Contemporary art gallery that hosts exhibitions and discussions."
+  categories:
+    - Arts
+    - Culture
+  tags: []
+
+- name: "Bhau Daji Lad Museum"
+  city: "Mumbai"
+  address: "Byculla East, Mumbai"
+  url: "https://bdlamuseum.org"
+  description: "Museum with active workshops, festivals, and community heritage programmes."
+  categories:
+    - Culture
+    - Education
+  tags:
+    - heritage-building
+    - government
+
+- name: "Prithvi House / Prithvi Theatre"
+  city: "Mumbai"
+  address: "Juhu, Mumbai"
+  url: "https://prithvitheatre.org"
+  description: "Historic theatre hub with festivals, cafés, workshops, and public programming."
+  categories:
+    - Performing Arts
+    - Culture
+    - Community
+  tags:
+    - cafe
+
+- name: "G5A Warehouse"
+  city: "Mumbai"
+  address: "Mahalaxmi, Mumbai"
+  url: "https://g5afoundation.org"
+  description: "Contemporary performance and arts space focused on experimental theatre and dance."
+  categories:
+    - Performing Arts
+    - Community
+  tags: []
+
+- name: "Sabha"
+  city: "Bengaluru"
+  address: "Bengaluru, Karnataka"
+  url: "https://sabhablr.in"
+  description: "Inclusive public cultural space in a restored heritage building, designed for art, craft, culture, creative voices, and community reflection."
+  categories:
+    - Culture
+    - Arts
+    - Community
+  tags:
+    - heritage-building
+    - craft
+
+- name: "Agamashaala"
+  city: "Bengaluru"
+  address: "Yelahanka New Town, Bengaluru"
+  url: "https://agamashaala.mobirisesite.com"
+  description: "Community-oriented creative hub positioning itself as a sanctuary for artists and curious learners through workshops, events, and gatherings."
+  categories:
+    - Arts
+    - Community
+    - Education
+  tags: []
+
+- name: "Jaipur Center of Culture and Arts"
+  city: "Jaipur"
+  address: "872, Gautam Marg, Rani Sati Nagar, Nirman Nagar, Jaipur 302019"
+  url: "https://jccaindia.com"
+  description: "Four-storey cultural centre created to support art engagement, exhibitions, workshops, and public cultural participation."
+  categories:
+    - Arts
+    - Culture
+    - Community
+  tags: []
+
+- name: "Jaipur Centre for Art"
+  city: "Jaipur"
+  address: "Gate No. 1, City Palace, Jaipur 302002"
+  url: "https://jaipurcentreforart.com"
+  description: "Contemporary art space in the City Palace precinct with platform programming for exhibitions and cross-disciplinary dialogue."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - heritage-building
+
+- name: "Jawahar Kala Kendra"
+  city: "Jaipur"
+  address: "Jawahar Lal Nehru Marg, Jaipur"
+  url: "https://jkk.artandculture.rajasthan.gov.in"
+  description: "Major cultural complex with theatres, galleries, and public arts events."
+  categories:
+    - Culture
+    - Arts
+    - Performing Arts
+  tags:
+    - government
+    - outdoor-venue
+
+- name: "Ravindra Manch"
+  city: "Jaipur"
+  address: "Ram Niwas Garden, Jaipur"
+  url: "https://artandculture.rajasthan.gov.in"
+  description: "Theatre and cultural venue used for festivals and performances."
+  categories:
+    - Performing Arts
+    - Culture
+  tags:
+    - government
+
+- name: "Hawa Mahal Cultural Programming Space"
+  city: "Jaipur"
+  address: "Hawa Mahal, Jaipur"
+  url: "https://rajasthan.gov.in"
+  description: "Heritage venue occasionally used for cultural programming."
+  categories:
+    - Culture
+  tags:
+    - heritage-building
+    - government
+    - limited-access
+
+- name: "Shilpgram"
+  city: "Udaipur"
+  address: "Udaipur, Rajasthan"
+  url: "https://westzoneculturecentre.gov.in"
+  description: "Crafts village and cultural hub hosting festivals and exhibitions."
+  categories:
+    - Culture
+    - Arts
+  tags:
+    - craft
+    - government
+    - outdoor-venue
+
+- name: "3AM Art House"
+  city: "Ahmedabad"
+  address: "A/39, Ground Floor, Celebration City Center, South Bopal, Ahmedabad 380058"
+  url: "https://3amarthouse.com"
+  description: "Community-friendly art house for workshops, student showcases, and creative learning for different age groups."
+  categories:
+    - Arts
+    - Community
+    - Education
+  tags:
+    - children
+
+- name: "Cholamandal Artists' Village"
+  city: "Chennai"
+  address: "Injambakkam / East Coast Road area, Chennai"
+  url: "https://cholamandalartistvillage.com"
+  description: "India's largest self-supporting artists' village, with galleries, resident artistic community, and open-air theatre for discussions and conferences."
+  categories:
+    - Arts
+    - Community
+    - Culture
+  tags:
+    - residency
+    - outdoor-venue
+    - studios
+
+- name: "DakshinaChitra Museum"
+  city: "Chennai"
+  address: "ECR Road, Chennai"
+  url: "https://dakshinachitra.net"
+  description: "Living heritage museum with workshops and cultural festivals."
+  categories:
+    - Culture
+    - Education
+  tags:
+    - heritage-building
+    - craft
+
+- name: "Kalakshetra Foundation"
+  city: "Chennai"
+  address: "Thiruvanmiyur, Chennai"
+  url: "https://kalakshetra.in"
+  description: "Campus for classical dance and music with regular performances."
+  categories:
+    - Performing Arts
+    - Education
+  tags:
+    - government
+
+- name: "Kerala Kalamandalam Fort Kochi Centre"
+  city: "Kochi"
+  address: "Fort Kochi, Kochi"
+  url: "https://keralasangeethanatakakademi.in"
+  description: "Outreach and cultural centre connecting traditional Kerala arts with schools, workshops, and weekend performances."
+  categories:
+    - Performing Arts
+    - Culture
+    - Education
+  tags: []
+
+- name: "Kochi-Muziris Biennale Pavilion Spaces"
+  city: "Kochi"
+  address: "Fort Kochi, Kerala"
+  url: "https://kochimuzirisbiennale.org"
+  description: "Network of exhibition venues activated during the biennale and residencies."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - limited-access
+    - residency
+
+- name: "Durbar Hall Art Gallery"
+  city: "Kochi"
+  address: "Kochi, Kerala"
+  url: "https://kochi.biennale.org"
+  description: "State gallery used for exhibitions and cultural programmes."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - government
+
+- name: "Serendipity Arts Foundation"
+  city: "Panaji"
+  address: "Campal, Panaji, Goa"
+  url: "https://serendipityarts.org"
+  description: "Cultural organisation behind the Serendipity Arts Festival; runs year-round arts initiatives and collaborations."
+  categories:
+    - Arts
+    - Culture
+    - Community
+  tags: []
+
+- name: "Museum of Goa"
+  city: "Pilerne"
+  address: "Pilerne Industrial Estate, Goa"
+  url: "https://museumofgoa.com"
+  description: "Contemporary art museum with workshops, talks, and community art programming."
+  categories:
+    - Arts
+    - Community
+    - Education
+  tags: []
+
+- name: "Bharat Bhavan"
+  city: "Bhopal"
+  address: "Shamla Hills, Bhopal"
+  url: "https://bharatbhavan.org"
+  description: "Landmark multi-arts complex with museums, theatre, and artist residencies."
+  categories:
+    - Arts
+    - Culture
+    - Performing Arts
+  tags:
+    - government
+    - residency
+
+- name: "Ravindra Bhavan"
+  city: "Bhopal"
+  address: "Bhopal, Madhya Pradesh"
+  url: "https://mp.gov.in"
+  description: "Cultural centre used for exhibitions and performing arts."
+  categories:
+    - Culture
+    - Performing Arts
+  tags:
+    - government
+
+- name: "Lalit Kala Akademi Regional Centre"
+  city: "Chennai"
+  address: "Greams Road, Chennai"
+  url: "https://lalitkala.gov.in"
+  description: "Government-run contemporary art centre and gallery with exhibitions and workshops."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - lalit-kala-akademi
+    - government
+
+- name: "Lalit Kala Akademi Regional Centre"
+  city: "Bhubaneswar"
+  address: "Bhubaneswar, Odisha"
+  url: "https://lalitkala.gov.in"
+  description: "National academy gallery hosting exhibitions, artists' events, and artist development."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - lalit-kala-akademi
+    - government
+
+- name: "Lalit Kala Akademi Regional Centre"
+  city: "Lucknow"
+  address: "Lucknow, Uttar Pradesh"
+  url: "https://lalitkala.gov.in"
+  description: "Public art gallery and workshop space."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - lalit-kala-akademi
+    - government
+
+- name: "Lalit Kala Akademi Regional Centre"
+  city: "Kolkata"
+  address: "Kolkata, West Bengal"
+  url: "https://lalitkala.gov.in"
+  description: "Art exhibitions and cultural programming."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - lalit-kala-akademi
+    - government
+
+- name: "Lalit Kala Akademi — Garhi Artists' Studios"
+  city: "New Delhi"
+  address: "Garhi Village, New Delhi"
+  url: "https://lalitkala.gov.in"
+  description: "Artist residency and studios supporting contemporary art practice."
+  categories:
+    - Arts
+  tags:
+    - lalit-kala-akademi
+    - government
+    - residency
+    - studios
+
+- name: "Heritage Transport Museum"
+  city: "Gurugram"
+  address: "Tauru Road, Gurugram, Haryana"
+  url: "https://heritagetransportmuseum.org"
+  description: "Museum with interactive exhibits and education programmes."
+  categories:
+    - Education
+    - Culture
+  tags: []
+
+- name: "Ravindra Bhavan"
+  city: "Guwahati"
+  address: "Guwahati, Assam"
+  url: "https://assam.gov.in"
+  description: "State cultural centre used for theatre and public events."
+  categories:
+    - Performing Arts
+    - Culture
+  tags:
+    - government
+
+- name: "Shilpgram"
+  city: "Guwahati"
+  address: "Panjabari Road, Guwahati, Assam"
+  url: "https://wzculturecentre.gov.in"
+  description: "Crafts and cultural complex hosting festivals and exhibitions."
+  categories:
+    - Culture
+    - Arts
+  tags:
+    - craft
+    - government
+    - outdoor-venue
+
+- name: "Kalagram"
+  city: "Chandigarh"
+  address: "Manimajra, Chandigarh"
+  url: "https://northzoneculturecentre.gov.in"
+  description: "Cultural complex hosting festivals, exhibitions, and craft fairs."
+  categories:
+    - Culture
+    - Arts
+  tags:
+    - craft
+    - government
+    - outdoor-venue
+
+- name: "American Center"
+  city: "New Delhi"
+  address: "KG Marg, New Delhi"
+  url: "https://in.usembassy.gov"
+  description: "Cultural space hosting talks, exhibitions, and community events."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - american-center
+
+- name: "American Center"
+  city: "Kolkata"
+  address: "Ho Chi Minh Sarani, Kolkata"
+  url: "https://in.usembassy.gov"
+  description: "Public programming space for lectures, arts, and cultural exchange."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - american-center
