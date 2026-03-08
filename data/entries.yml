@@ -3,7 +3,9 @@
 
 - name: "Nongwah Nook"
   city: "Mawsynram"
-  address: "Nongwah Village, East Khasi Hills, Meghalaya"
+  address: "Nongwah Village, East Khasi Hills, Māwsynrām, Meghalaya"
+  pincode: "793113"
+  coords: [25.2973, 91.5827]
   url: "https://projectdefy.org"
   description: "A self-designed learning centre for remote agricultural and fruit-farming communities."
   categories:
@@ -17,6 +19,8 @@
 - name: "Sathanur Nook"
   city: "Sathanur"
   address: "Sathanur, Ramanagara District, Karnataka"
+  pincode: "562126"
+  coords: [12.4478, 77.3171]
   url: "https://projectdefy.org"
   description: "A rural makerspace focused on experiential learning and vocational tinkering."
   categories:
@@ -29,7 +33,9 @@
 
 - name: "Wahlyngkhat Nook"
   city: "Pynursla"
-  address: "East Khasi Hills, Meghalaya"
+  address: "Wahlyngkhat, East Khasi Hills, Meghalaya"
+  pincode: "793110"
+  coords: [25.3097, 91.9036]
   url: "https://projectdefy.org"
   description: "A community-led hub for creative projects, science, and traditional crafts."
   categories:
@@ -44,6 +50,7 @@
 - name: "Kashewadi Nook"
   city: "Pune"
   address: "Kashewadi, Pune, Maharashtra"
+  coords: [18.5058, 73.8706]
   url: "https://projectdefy.org"
   description: "Provides urban youth in marginalized areas a space for creative making."
   categories:
@@ -56,7 +63,9 @@
 
 - name: "Katchipedu Nook"
   city: "Sriperumbudur"
-  address: "Katchipedu Village, Tamil Nadu"
+  address: "Katchipedu, Sriperumbudur, Tamil Nadu"
+  pincode: "602105"
+  coords: [12.9571, 79.9473]
   url: "https://projectdefy.org"
   description: "A hub for technical tinkering and project building in a peri-urban context."
   categories:
@@ -69,6 +78,8 @@
 - name: "Loktantrashala — School For Democracy"
   city: "Bhim"
   address: "Rajsamand District, Rajasthan"
+  pincode: "305921"
+  coords: [25.737, 74.0771]
   url: "https://fln.org.in"
   description: "A centre for democratic learning and constitutional literacy for rural citizens, providing political and social education for villagers."
   categories:
@@ -81,7 +92,9 @@
 
 - name: "1Shanthiroad Studio"
   city: "Bengaluru"
-  address: "1, Shanthiroad, Shanthinagar, Bengaluru"
+  address: "1, Shanthiroad, Shanthinagar, Shanti Nagar, Bengaluru, Karnataka"
+  pincode: "560027"
+  coords: [12.9606, 77.5949]
   url: "http://1shanthiroad.com"
   description: "An alternative art space providing residencies, mentorship, and workshops."
   categories:
@@ -92,7 +105,9 @@
 
 - name: "Conflictorium"
   city: "Ahmedabad"
-  address: "Gool Lodge, Mirzapur, Ahmedabad"
+  address: "Gool Lodge, Mirzapur, Bhadra, Ahmedabad, Gujarat"
+  pincode: "380001"
+  coords: [23.0325, 72.5837]
   url: "http://www.conflictorium.org"
   description: "A participatory museum addressing conflict and empathy through art and archives."
   categories:
@@ -105,7 +120,9 @@
 
 - name: "Khoj International Artists' Association"
   city: "New Delhi"
-  address: "S-17, Khirkee Extension, New Delhi 110017"
+  address: "S-17, Khirkee Extension, Malviya Nagar, New Delhi"
+  pincode: "110017"
+  coords: [28.5324, 77.2215]
   url: "https://khojstudios.org"
   description: "An autonomous non-profit contemporary arts organisation supporting experimental, interdisciplinary, and socially engaged art. The building includes exhibition spaces, studios, library, media lab, café, and terrace."
   categories:
@@ -118,7 +135,9 @@
 
 - name: "Sunaparanta Goa Centre for the Arts"
   city: "Panaji"
-  address: "63/C-8, Near Army House, Altinho, Panaji, Goa 403001"
+  address: "63/C-8, Near Army House, Altinho, Panaji, Goa"
+  pincode: "403001"
+  coords: [15.4905, 73.8272]
   url: "https://www.sgcfa.org"
   description: "A non-profit arts initiative with galleries, workshops, lectures, library, amphitheatre, and support for art students and exchange."
   categories:
@@ -132,6 +151,7 @@
 - name: "Sarmaya Arts"
   city: "Mumbai"
   address: "Fort, Mumbai, Maharashtra"
+  coords: [18.9345, 72.8371]
   url: "https://sarmaya.in"
   description: "A repository of South Asian art and living traditions focused on education."
   categories:
@@ -141,7 +161,9 @@
 
 - name: "Method Gallery"
   city: "Mumbai"
-  address: "Kala Ghoda, Mumbai, Maharashtra"
+  address: "Kala Ghoda, Fort, Mumbai, Maharashtra"
+  pincode: "400001"
+  coords: [18.9307, 72.8331]
   url: "https://the-method.in"
   description: "An art space hosting storytelling, poetry nights, and community dinners."
   categories:
@@ -153,6 +175,7 @@
 - name: "Underline Centre"
   city: "Bengaluru"
   address: "Jayanagar, Bengaluru, Karnataka"
+  coords: [12.9308, 77.5839]
   url: "https://theunderline.in"
   description: "A multidisciplinary space for writing labs, poetry circles, and creative labs."
   categories:
@@ -164,6 +187,7 @@
 - name: "Atta Galatta"
   city: "Bengaluru"
   address: "Indiranagar, Bengaluru, Karnataka"
+  coords: [12.9784, 77.6408]
   url: "https://attagalatta.com"
   description: "A bookstore-turned-cultural-hub for literature, poetry, and theatre workshops."
   categories:
@@ -176,6 +200,7 @@
 - name: "Pepper House"
   city: "Kochi"
   address: "Fort Kochi, Kerala"
+  coords: [9.9658, 76.2421]
   url: "https://pepperhouse.org"
   description: "A heritage waterfront cultural complex with studios, café, gallery, art library, residency, and exhibition space."
   categories:
@@ -191,6 +216,8 @@
 - name: "David Hall"
   city: "Kochi"
   address: "Parade Ground, Fort Kochi, Kerala"
+  pincode: "682001"
+  coords: [9.9649, 76.2405]
   url: "https://kochimuzirisbiennale.org"
   description: "A restored bungalow hosting contemporary art and cultural performances."
   categories:
@@ -202,6 +229,7 @@
 - name: "The Community Library Project"
   city: "New Delhi"
   address: "Multiple locations (Sikanderpur, Khirki), New Delhi"
+  coords: [28.6139, 77.2088]
   url: "https://tclp.org"
   description: "A free, community-led library movement serving the urban and rural poor."
   categories:
@@ -215,6 +243,7 @@
 - name: "Bansa Community Library"
   city: "Bansa"
   address: "Bansa Village, Hardoi District, Uttar Pradesh"
+  coords: [27.0845, 80.2154]
   url: "https://fln.org.in"
   description: "A rural library providing educational resources and a safe gathering space for villagers."
   categories:
@@ -227,6 +256,7 @@
 - name: "Akam Foundation"
   city: "Various"
   address: "Multiple locations in Assam"
+  coords: [26.2006, 92.9376]
   url: "https://fln.org.in"
   description: "Focuses on capacity building and literacy in rural Assamese communities."
   categories:
@@ -238,6 +268,7 @@
 - name: "LECIN"
   city: "New Delhi"
   address: "Various communities, New Delhi"
+  coords: [28.6139, 77.2088]
   url: "https://lecinindia.org"
   description: "A library initiative focused on early childhood education and grassroots literacy."
   categories:
@@ -250,6 +281,7 @@
 - name: "Share A Book India"
   city: "Various"
   address: "Pan-India"
+  coords: [28.6565, 77.2333]
   url: "https://shareabookindia.org"
   description: "A foundation that sets up libraries in government schools and remote areas."
   categories:
@@ -262,7 +294,9 @@
 
 - name: "Adhvan"
   city: "Mumbai"
-  address: "Childcare Institutions, Mumbai"
+  address: "Childcare Institutions, Godrej Hillside Colony, Vikhroli West, Mumbai, Maharashtra"
+  pincode: "400079"
+  coords: [19.1112, 72.9233]
   url: "https://fln.org.in"
   description: "Creates libraries and spaces for expression for young people in institutions."
   categories:
@@ -274,7 +308,9 @@
 
 - name: "Rafooghar"
   city: "New Delhi"
-  address: "Shaheen Bagh, New Delhi"
+  address: "Shaheen Bagh, Jamia Nagar, Okhla, New Delhi"
+  pincode: "110025"
+  coords: [28.5444, 77.3018]
   url: "https://ficart.org"
   description: "A community space for marginalized women to gather and share stories through art."
   categories:
@@ -286,7 +322,9 @@
 
 - name: "Makers Asylum"
   city: "Moira"
-  address: "House No 661, Mapusa-Moira Road, Moira, Goa 403507"
+  address: "House No 661, Mapusa-Moira Road, Moide, Goa"
+  pincode: "403507"
+  coords: [15.5945, 73.8394]
   url: "https://makersasylum.com"
   description: "A globally recognized community makerspace and learning hub for innovation, prototyping, STEAM, and sustainable design. Artists, designers, engineers, and hobbyists build and share knowledge."
   categories:
@@ -300,6 +338,8 @@
 - name: "Vigyan Ashram"
   city: "Pabal"
   address: "Pabal, Pune District, Maharashtra"
+  pincode: "412403"
+  coords: [18.8308, 74.052]
   url: "https://vigyanashram.com"
   description: "A pioneer in rural innovation, focusing on engineering, energy, and agri-tech."
   categories:
@@ -312,7 +352,8 @@
 
 - name: "THE Workshop"
   city: "Bengaluru"
-  address: "HAL 2nd Stage, Indiranagar, Bengaluru"
+  address: "HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka"
+  coords: [12.9673, 77.6433]
   url: "https://the-workshop.in"
   description: "A cross-disciplinary design research space for collaborative project-making."
   categories:
@@ -322,7 +363,9 @@
 
 - name: "Fab Lab Kerala — Kochi"
   city: "Kochi"
-  address: "Integrated Startup Complex, Kinfra Hi-Tech Park, Kalamassery, Kochi 683503"
+  address: "Integrated Startup Complex, Kinfra Hi-Tech Park, Kalamassery, Kochi, Kerala"
+  pincode: "683503"
+  coords: [10.0555, 76.3547]
   url: "https://fablabkerala.in"
   description: "Kerala Startup Mission fablab for advanced digital fabrication, prototyping, and entrepreneurship."
   categories:
@@ -334,7 +377,9 @@
 
 - name: "Workbench Projects"
   city: "Bengaluru"
-  address: "Halasuru Metro Station, Bengaluru"
+  address: "Halasuru Metro Station, Gupta Layout, Bengaluru, Karnataka"
+  pincode: "560008"
+  coords: [12.9764, 77.6267]
   url: "https://workbenchprojects.com"
   description: "A co-working and prototyping space focused on hardware and public engineering."
   categories:
@@ -346,6 +391,7 @@
 - name: "Collab House"
   city: "Hyderabad"
   address: "Jubilee Hills, Hyderabad, Telangana"
+  coords: [17.4326, 78.4071]
   url: "https://collab.house"
   description: "Blurs the lines between a makerspace, co-working, and community hub."
   categories:
@@ -358,6 +404,7 @@
 - name: "IKP-EDEN"
   city: "Bengaluru"
   address: "Koramangala, Bengaluru, Karnataka"
+  coords: [12.9352, 77.6245]
   url: "https://ikpeden.com"
   description: "A hardware incubator and makerspace focusing on medical devices and engineering."
   categories:
@@ -368,6 +415,7 @@
 - name: "MakersBox"
   city: "New Delhi"
   address: "Multiple locations (Noida, Delhi, Karnal)"
+  coords: [28.6139, 77.2088]
   url: "https://makersbox.in"
   description: "Provides tools and mentorship for hands-on learning in STEM for all ages."
   categories:
@@ -379,7 +427,9 @@
 
 - name: "FabLab CEPT"
   city: "Ahmedabad"
-  address: "FabLab CEPT, Workshop, CEPT University, University Road, Ahmedabad 380009"
+  address: "FabLab CEPT, Workshop, CEPT University, University Road, Navrangpura, Ahmedabad, Gujarat"
+  pincode: "380009"
+  coords: [23.0377, 72.5497]
   url: "https://fablab.cept.ac.in"
   description: "A digital fabrication lab hosted by CEPT that allows users to work for free if they bring materials. Serves makers, researchers, and creative thinkers."
   categories:
@@ -392,6 +442,7 @@
 - name: "Heramb Maker Lab"
   city: "Mumbai"
   address: "Various locations, Mumbai"
+  coords: [18.9582, 72.8321]
   url: "https://herambmakerlab.com"
   description: "A budget-friendly makerspace providing student-level access to 3D printers."
   categories:
@@ -403,6 +454,7 @@
 - name: "National Science Centre"
   city: "New Delhi"
   address: "Pragati Maidan, Bhairon Road, New Delhi"
+  coords: [28.6123, 77.2466]
   url: "https://nscdelhi.org"
   description: "A premier national science centre featuring an Innovation Hub and major galleries."
   categories:
@@ -415,7 +467,9 @@
 
 - name: "Science Gallery Bengaluru"
   city: "Bengaluru"
-  address: "10–11, Bellary Road, Sanjaynagar, Bengaluru 560024"
+  address: "10–11, Bellary Road, Sanjaynagar, Dena Bank Colony, Bengaluru, Karnataka"
+  pincode: "560024"
+  coords: [13.0205, 77.5842]
   url: "https://bengaluru.sciencegallery.com"
   description: "A free-entry public gallery where science, art, and research meet through exhibitions, mediation, and programmes."
   categories:
@@ -427,7 +481,9 @@
 
 - name: "Nehru Science Centre"
   city: "Mumbai"
-  address: "Dr. E. Moses Road, Worli, Mumbai"
+  address: "Dr. E. Moses Road, Worli, रॉयल वेस्टर्न इंडिया टर्फ क्लब, Mumbai, महाराष्ट्र"
+  pincode: "400034"
+  coords: [18.9803, 72.8165]
   url: "https://nehrusciencecentre.gov.in"
   description: "India's largest interactive science centre with over 500 hands-on exhibits."
   categories:
@@ -441,6 +497,8 @@
 - name: "Visvesvaraya Industrial and Technological Museum"
   city: "Bengaluru"
   address: "Kasturba Road, Bengaluru, Karnataka"
+  pincode: "560001"
+  coords: [12.9719, 77.5937]
   url: "https://vismuseum.gov.in"
   description: "A landmark national centre focused on industrial history and modern technological innovation."
   categories:
@@ -453,7 +511,9 @@
 
 - name: "Birla Industrial & Technological Museum"
   city: "Kolkata"
-  address: "19A, Gurusaday Road, Kolkata"
+  address: "19A, Gurusaday Road, Beck Bagan, Kolkata, West Bengal"
+  pincode: "700019"
+  coords: [22.5352, 88.3636]
   url: "https://bitm.gov.in"
   description: "The first science museum in India, featuring a specialized Innovation Hub."
   categories:
@@ -467,6 +527,7 @@
 - name: "Regional Science City"
   city: "Lucknow"
   address: "Aliganj, Lucknow, Uttar Pradesh"
+  coords: [26.8984, 80.9491]
   url: "https://ncsm.gov.in"
   description: "An expansive science park and innovation hub serving Northern India."
   categories:
@@ -479,7 +540,8 @@
 
 - name: "Pushpa Gujral Science City"
   city: "Kapurthala"
-  address: "Jalandhar-Kapurthala Road, Kapurthala, Punjab"
+  address: "Jalandhar-Kapurthala Road, Punjab"
+  coords: [31.3702, 75.4068]
   url: "https://pgsciencecity.org"
   description: "A massive science complex covering biotechnology, robotics, and space exploration."
   categories:
@@ -493,6 +555,7 @@
 - name: "Vikram A Sarabhai Community Science Centre"
   city: "Ahmedabad"
   address: "Navrangpura, Ahmedabad, Gujarat"
+  coords: [23.0365, 72.5611]
   url: "https://vascsc.org"
   description: "A community science centre promoting scientific temper among students and the public."
   categories:
@@ -505,7 +568,9 @@
 
 - name: "Manaskhand Science Centre"
   city: "Almora"
-  address: "Syunrakot, Almora, Uttarakhand"
+  address: "Syunrakot, Sunara Kot, Almora, Uttarakhand"
+  pincode: "263601"
+  coords: [29.6885, 79.6663]
   url: "https://ncsm.gov.in"
   description: "A centre focusing on the ecology and science of the Himalayan region."
   categories:
@@ -518,6 +583,8 @@
 - name: "Goa Science Centre"
   city: "Panaji"
   address: "Marine Drive, Miramar, Panaji, Goa"
+  pincode: "403001"
+  coords: [15.4964, 73.8178]
   url: "https://sciencecentregoa.org"
   description: "Focuses on oceanography and environmental sciences relevant to the coastal region."
   categories:
@@ -529,7 +596,9 @@
 
 - name: "Regional Science Centre"
   city: "Guwahati"
-  address: "Jawaharnagar, Khanapara, Guwahati, Assam"
+  address: "Jawaharnagar, Khanapara, Jawahar Nagar, Guwahati, Assam"
+  pincode: "781022"
+  coords: [26.1179, 91.821]
   url: "https://rscguwahati.gov.in"
   description: "The primary science education hub for the North Eastern states."
   categories:
@@ -543,6 +612,7 @@
 - name: "Raman Science Centre & Planetarium"
   city: "Nagpur"
   address: "Opp. Gandhi Sagar, Nagpur, Maharashtra"
+  coords: [21.1477, 79.1003]
   url: "https://nehrusciencecentre.gov.in"
   description: "Focused on promoting scientific literacy in Central India through interactive exhibits."
   categories:
@@ -555,7 +625,9 @@
 
 - name: "Nagaland Science Centre"
   city: "Dimapur"
-  address: "Behind Super Market, Dimapur, Nagaland"
+  address: "Behind Super Market, Half Nagarjan, Dimapur, Nagaland"
+  pincode: "797112"
+  coords: [25.9061, 93.7386]
   url: "https://ncsm.gov.in"
   description: "A key centre for the promotion of science and technology in Nagaland."
   categories:
@@ -568,6 +640,8 @@
 - name: "Sikkim Science Centre"
   city: "Gangtok"
   address: "Marchak, East Sikkim"
+  pincode: "737101"
+  coords: [27.284, 88.5931]
   url: "https://ncsm.gov.in"
   description: "Focuses on high-altitude ecology and physical sciences for the Himalayas."
   categories:
@@ -580,6 +654,7 @@
 - name: "Pilikula Science Centre"
   city: "Mangaluru"
   address: "Vamanjoor, Mangaluru, Karnataka"
+  coords: [12.919, 74.9033]
   url: "https://ncsm.gov.in"
   description: "Integrated within a biological park, focusing on biodiversity and physical science."
   categories:
@@ -592,6 +667,7 @@
 - name: "Science City"
   city: "Kolkata"
   address: "JBS Haldane Avenue, Kolkata, West Bengal"
+  coords: [22.5413, 88.3841]
   url: "https://sciencecitykolkata.org.in"
   description: "Major public science centre in the NCSM network with exhibitions and science-learning programming."
   categories:
@@ -605,6 +681,7 @@
 - name: "ShriKrishna Science Centre"
   city: "Patna"
   address: "Patna, Bihar"
+  coords: [25.5941, 85.1376]
   url: "https://sksciencecentre.org"
   description: "Public science centre in the NCSM network."
   categories:
@@ -617,6 +694,7 @@
 - name: "North Bengal Science Centre"
   city: "Siliguri"
   address: "Siliguri, West Bengal"
+  coords: [26.7271, 88.3953]
   url: "https://nbscsiliguri.org"
   description: "Regional public science centre under NCSM."
   categories:
@@ -629,6 +707,7 @@
 - name: "Bardhaman Science Centre"
   city: "Bardhaman"
   address: "Bardhaman, West Bengal"
+  coords: [23.2333, 87.8646]
   url: "https://bardhamansciencecentre.org"
   description: "District-level public science centre in the NCSM network."
   categories:
@@ -641,6 +720,7 @@
 - name: "District Science Centre Purulia"
   city: "Purulia"
   address: "Purulia, West Bengal"
+  coords: [23.2483, 86.4997]
   url: "https://dscpurulia.org"
   description: "Public science centre serving local learning and exhibition functions."
   categories:
@@ -653,6 +733,7 @@
 - name: "Digha Science Centre"
   city: "Digha"
   address: "Digha, West Bengal"
+  coords: [21.6222, 87.5066]
   url: "https://dighasciencecentre.org"
   description: "Coastal public science centre in the NCSM network."
   categories:
@@ -665,6 +746,7 @@
 - name: "Central Research and Training Laboratory"
   city: "Kolkata"
   address: "Kolkata, West Bengal"
+  coords: [22.5744, 88.3629]
   url: "https://crtl.in"
   description: "NCSM's research and training hub; more institutional than public, but part of the national science-centre ecosystem."
   categories:
@@ -677,6 +759,7 @@
 - name: "Regional Science Centre"
   city: "Bhubaneswar"
   address: "Bhubaneswar, Odisha"
+  coords: [20.296, 85.8246]
   url: "https://rscbhubaneswar.org"
   description: "Public science centre under NCSM."
   categories:
@@ -689,6 +772,7 @@
 - name: "Dhenkanal Science Centre & Kapilas Science Park"
   city: "Dhenkanal"
   address: "Dhenkanal, Odisha"
+  coords: [20.6584, 85.5965]
   url: "https://dhenkanalsciencecentre.org"
   description: "Public science-learning centre in the NCSM system, with the adjoining Kapilas Science Park."
   categories:
@@ -701,6 +785,7 @@
 - name: "Regional Science Centre"
   city: "Bhopal"
   address: "Bhopal, Madhya Pradesh"
+  coords: [23.2599, 77.4126]
   url: "https://rscbhopal.gov.in"
   description: "Regional public science centre under NCSM."
   categories:
@@ -713,6 +798,8 @@
 - name: "District Science Centre Dharampur"
   city: "Dharampur"
   address: "Dharampur, Gujarat"
+  pincode: "396050"
+  coords: [20.5436, 73.1821]
   url: "https://dscdharampur.org.in"
   description: "District science centre in the NCSM network."
   categories:
@@ -725,6 +812,7 @@
 - name: "Kurukshetra Panorama and Science Centre"
   city: "Kurukshetra"
   address: "Kurukshetra, Haryana"
+  coords: [29.9695, 76.8783]
   url: "https://kpsc.nscd.gov.in"
   description: "Panorama-plus-science centre combining heritage interpretation and science education."
   categories:
@@ -738,6 +826,7 @@
 - name: "Palampur Science Centre"
   city: "Palampur"
   address: "Palampur, Himachal Pradesh"
+  coords: [32.1109, 76.5363]
   url: "https://nscd.gov.in"
   description: "Public science centre in Himachal Pradesh within the NCSM system."
   categories:
@@ -750,6 +839,7 @@
 - name: "Regional Science Centre"
   city: "Tirupati"
   address: "Tirupati, Andhra Pradesh"
+  coords: [13.6288, 79.4192]
   url: "https://rsctirupati.org.in"
   description: "Regional science centre serving the wider region."
   categories:
@@ -762,6 +852,7 @@
 - name: "District Science Centre"
   city: "Kalaburagi"
   address: "Kalaburagi, Karnataka"
+  coords: [17.3297, 76.8343]
   url: "https://sciencecentrekalaburagi.org.in"
   description: "District science centre in Karnataka under NCSM."
   categories:
@@ -774,6 +865,7 @@
 - name: "District Science Centre"
   city: "Tirunelveli"
   address: "Tirunelveli, Tamil Nadu"
+  coords: [8.715, 77.7656]
   url: "https://dsctirunelveli.org.in"
   description: "Public district science centre in south Tamil Nadu."
   categories:
@@ -786,6 +878,7 @@
 - name: "Regional Science Centre & Planetarium"
   city: "Kozhikode"
   address: "Kozhikode, Kerala"
+  coords: [11.2488, 75.7839]
   url: "https://rscpcalicut.edu.in"
   description: "Regional science centre and planetarium under NCSM."
   categories:
@@ -798,7 +891,9 @@
 
 - name: "Innovation Hub, Periyar Science & Technology Centre"
   city: "Chennai"
-  address: "Periyar Science and Technology Centre, Chennai"
+  address: "Periyar Science and Technology Centre, Surya Nagar, Kotturpuram, Chennai, Tamil Nadu"
+  pincode: "600025"
+  coords: [13.0127, 80.2438]
   url: "https://tnstc.gov.in"
   description: "Public innovation hub inside the Tamil Nadu Science and Technology Centre network, focused on hands-on problem solving and science learning."
   categories:
@@ -811,7 +906,9 @@
 
 - name: "ParSEC Jayanagar"
   city: "Bengaluru"
-  address: "4, 31st Cross, 16th Main, 4th Block, Jayanagar, Bengaluru 560011"
+  address: "4, 31st Cross, 16th Main, 4th Block, Jayanagar, Bengaluru, Karnataka"
+  pincode: "560011"
+  coords: [12.9278, 77.5909]
   url: "https://paramfoundation.org"
   description: "Immersive science gallery and living lab for hands-on learning, exhibits, workshops, and public engagement."
   categories:
@@ -822,7 +919,9 @@
 
 - name: "T-Works"
   city: "Hyderabad"
-  address: "Plot 1/D, 1/E, 1/F, Survey No. 83/1, Raidurgam, Ranga Reddy District, Hyderabad 500081"
+  address: "Plot 1/D, 1/E, 1/F, Survey No. 83/1, Raidurgam, Ranga Reddy District, Bhagyalaxmi Nagar, Hyderabad, Telangana"
+  pincode: "500081"
+  coords: [17.5043, 78.4604]
   url: "https://tworks.telangana.gov.in"
   description: "Government-backed open-for-all prototyping centre designed to reduce barriers to hardware building and support innovators, students, startups, and makers."
   categories:
@@ -833,7 +932,9 @@
 
 - name: "T-Hub"
   city: "Hyderabad"
-  address: "Plot No 1/C, Sy No 83/1, Raidurgam Panmaktha, Hyderabad Knowledge City, Serilingampally, Hyderabad 500081"
+  address: "Plot No 1/C, Sy No 83/1, Raidurgam Panmaktha, Hyderabad Knowledge City, Serilingampally, Prashant Hills, Telangana"
+  pincode: "500081"
+  coords: [17.4214, 78.3814]
   url: "https://t-hub.co"
   description: "Large innovation hub for startups, open innovation, community events, and entrepreneurial ecosystem building."
   categories:
@@ -843,7 +944,9 @@
 
 - name: "Samagata Space"
   city: "Bengaluru"
-  address: "4th Floor, Cobalt Building (above Church Street Social), Church Street, Bengaluru"
+  address: "4th Floor, Cobalt Building (above Church Street Social), Shanthala Nagar, Bengaluru, Karnataka"
+  pincode: "560001"
+  coords: [12.9756, 77.6027]
   url: "https://samagata.org/space"
   description: "Non-profit community venue for meetups, workshops, and cross-disciplinary conversations spanning social sector, academia, science, arts, technology, and culture."
   categories:
@@ -854,7 +957,9 @@
 
 - name: "Bangalore International Centre"
   city: "Bengaluru"
-  address: "7, 4th Main Road, Domlur II Stage, Bengaluru 560071"
+  address: "7, 4th Main Road, Domlur II Stage, Saraswathipura, Bengaluru, Karnataka"
+  pincode: "560071"
+  coords: [13.0095, 77.5398]
   url: "https://bangaloreinternationalcentre.org"
   description: "Non-profit public institution for dialogue, culture, talks, screenings, and performances; many programmes are free and open to non-members."
   categories:
@@ -867,6 +972,7 @@
 - name: "Jaaga"
   city: "Bengaluru"
   address: "Bengaluru, Karnataka"
+  coords: [12.9629, 77.5775]
   url: "https://jaaga.in"
   description: "Collaborative community platform working across arts research, public arts, tech-arts, and urban/community issues."
   categories:
@@ -878,6 +984,7 @@
 - name: "Bangalore Makespace"
   city: "Bengaluru"
   address: "Bengaluru, Karnataka (pop-up / distributed model)"
+  coords: [12.9629, 77.5775]
   url: "https://bangaloremakespace.org"
   description: "Community of makers running open workshops and activities around electronics, robotics, fabrication, and open-source creativity."
   categories:
@@ -889,7 +996,9 @@
 
 - name: "Dhi Artspace"
   city: "Hyderabad"
-  address: "7-1-54/2/C, Sri Guru Krupa, Near Kanya Gurukul School, Opp. Servo Towers, Dharam Karan Road, Ameerpet, Hyderabad 500016"
+  address: "7-1-54/2/C, Sri Guru Krupa, Near Kanya Gurukul School, Opp. Servo Towers, Dharam Karan Road, Ameerpet, Hyderabad, Telangana"
+  pincode: "500016"
+  coords: [17.4383, 78.4518]
   url: "https://dhiart.com"
   description: "Contemporary art space fostering exhibitions, discussion, mentorship, and cultural dialogue in Hyderabad."
   categories:
@@ -899,7 +1008,9 @@
 
 - name: "Dhi Contemporary"
   city: "Hyderabad"
-  address: "Bodhi House, Plot No 552, Road No 11, Kakatiya Hills, Madhapur, Hyderabad 500081"
+  address: "Bodhi House, Plot No 552, Road No 11, Kakatiya Hills, Madhapur, Hyderabad, Telangana"
+  pincode: "500081"
+  coords: [17.4475, 78.3977]
   url: "https://dhiart.com"
   description: "Sister initiative of Dhi Artspace focused on younger artistic talent through exhibitions, performances, screenings, and commissions."
   categories:
@@ -912,6 +1023,7 @@
 - name: "The Makerspace Initiative"
   city: "Hyderabad"
   address: "Hyderabad, Telangana"
+  coords: [17.4065, 78.4772]
   url: "https://themakerspaceinitiative.com"
   description: "Community-oriented makerspace initiative for learning and making."
   categories:
@@ -922,7 +1034,9 @@
 
 - name: "SPACE @ ICCI"
   city: "Kochi"
-  address: "ICCI, Kochi, Kerala"
+  address: "ICCI, Chullickal, Kochi, Kerala"
+  pincode: "682002"
+  coords: [9.9467, 76.2535]
   url: "https://iccicochin.com/space"
   description: "Dedicated art, culture, and events platform created by ICCI as part of its culture-and-community focus."
   categories:
@@ -934,6 +1048,7 @@
 - name: "Chavara Cultural Centre"
   city: "Kochi"
   address: "Kochi, Kerala"
+  coords: [9.9312, 76.2673]
   url: "https://chavaraculturalcentre.com"
   description: "Long-running cultural institution described as a secular space where art, faith, culture, and community come together."
   categories:
@@ -943,7 +1058,9 @@
 
 - name: "Pune International Centre"
   city: "Pune"
-  address: "SN 34/A, Behind C-DAC, Panchavati, Pashan, Pune 411008"
+  address: "SN 34/A, Behind C-DAC, Panchavati, Pashan, N.C.L, Pune, Maharashtra"
+  pincode: "411008"
+  coords: [18.5296, 73.8126]
   url: "https://puneinternationalcentre.org"
   description: "Public-facing centre for intellectual exchange, culture, dialogue, and interdisciplinary programming with auditorium, amphitheatre, library, and art gallery."
   categories:
@@ -954,7 +1071,9 @@
 
 - name: "Raah — A Literacy & Cultural Centre"
   city: "Pune"
-  address: "Office No. 730, 7th/8th Floor, Marvel Vista, Above PNG Brothers, Lullanagar Junction, Pune 411040"
+  address: "Office No. 730, 7th/8th Floor, Marvel Vista, Above PNG Brothers, Lullanagar Junction, Pune, Maharashtra"
+  pincode: "411040"
+  coords: [18.4858, 73.8885]
   url: "https://raah.org.in"
   description: "Community platform for artistic and intellectual expression, literacy, events, and neighbourhood engagement."
   categories:
@@ -966,7 +1085,9 @@
 
 - name: "IDAM — The Art & Cultural Space"
   city: "Chennai"
-  address: "7, Viswanathapuram 2nd Street, Kodambakkam, Chennai 600024"
+  address: "7, Viswanathapuram 2nd Street, Kodambakkam, Viswanatha Puram, Chennai, Tamil Nadu"
+  pincode: "600024"
+  coords: [13.0482, 80.2258]
   url: "https://idamthespace.com"
   description: "Intimate art and cultural space for classes, workshops, performances, and community-oriented creative learning."
   categories:
@@ -977,7 +1098,9 @@
 
 - name: "Lila Arts Centre"
   city: "Chennai"
-  address: "5/6, Thirumalai Pillai Road, Satyamurthy Nagar, T. Nagar, Chennai 600017"
+  address: "5/6, Thirumalai Pillai Road, Satyamurthy Nagar, T. Nagar, Chennai, Tamil Nadu"
+  pincode: "600017"
+  coords: [13.0495, 80.2403]
   url: "https://lilaartscentre.com"
   description: "Performance space and studio for dance, music, theatre, classes, and shared practice."
   categories:
@@ -989,7 +1112,9 @@
 
 - name: "IFBE"
   city: "Mumbai"
-  address: "10–12, Calicut Road, Ballard Estate, Fort, Mumbai 400001"
+  address: "10–12, Calicut Road, Ballard Estate, Fort, Mumbai, Maharashtra"
+  pincode: "400001"
+  coords: [18.9354, 72.8375]
   url: "https://ifbe.space"
   description: "Repurposed ice-factory cultural centre for architecture, design, art, dialogue, and community-building."
   categories:
@@ -1001,7 +1126,9 @@
 
 - name: "India Habitat Centre"
   city: "New Delhi"
-  address: "Lodhi Road, New Delhi 110003"
+  address: "Lodhi Road, New Delhi"
+  pincode: "110003"
+  coords: [28.5911, 77.228]
   url: "https://indiahabitat.org"
   description: "One of Delhi's major cultural hubs with regular programmes in music, theatre, film, talks, poetry, book launches, and exhibitions. Includes multiple performance venues such as the Stein Auditorium."
   categories:
@@ -1014,7 +1141,9 @@
 
 - name: "India International Centre"
   city: "New Delhi"
-  address: "40, Max Mueller Marg, New Delhi 110003"
+  address: "40, Max Mueller Marg, Lodhi Gardens, New Delhi"
+  pincode: "110003"
+  coords: [28.5924, 77.2228]
   url: "https://iicdelhi.in"
   description: "Premier cultural and intellectual institution where public lectures, seminars, conferences, and arts programmes are open to the wider city."
   categories:
@@ -1025,7 +1154,9 @@
 
 - name: "Kolkata Centre for Creativity"
   city: "Kolkata"
-  address: "777, Anandapur EM Bypass, Kolkata 700107"
+  address: "777, Anandapur EM Bypass, Sector I, Kolkata, West Bengal"
+  pincode: "700107"
+  coords: [22.5132, 88.4028]
   url: "https://kolkatacentreforcreativity.org"
   description: "Non-profit creativity centre with library, conservation lab, gallery store, talks, workshops, performances, and interdisciplinary arts programming."
   categories:
@@ -1036,7 +1167,9 @@
 
 - name: "TRI Art & Culture"
   city: "Kolkata"
-  address: "53/2/2 Hazra Road, Ballygunge, Kolkata 700019"
+  address: "53/2/2 Hazra Road, Ballygunge, Kolkata, West Bengal"
+  pincode: "700019"
+  coords: [22.5268, 88.365]
   url: "https://triartandculture.com"
   description: "Nonprofit multidisciplinary centre with free public galleries, performances, public programmes, and exhibitions spanning visual, performing, literary, and research practices."
   categories:
@@ -1048,7 +1181,9 @@
 
 - name: "Hutheesing Visual Art Centre"
   city: "Ahmedabad"
-  address: "Kasturbhai Lalbhai Campus, Navrangpura, Ahmedabad 380009"
+  address: "Kasturbhai Lalbhai Campus, Navrangpura, Ahmedabad, Gujarat"
+  pincode: "380009"
+  coords: [23.0377, 72.5497]
   url: ""
   description: "Visual-arts venue used for exhibitions and artistic programming on the CEPT/KL campus."
   categories:
@@ -1058,7 +1193,9 @@
 
 - name: "Goethe-Institut / Max Mueller Bhavan Bengaluru"
   city: "Bengaluru"
-  address: "716, CMH Road, Indiranagar 1st Stage, Bengaluru 560038"
+  address: "716, CMH Road, Indiranagar 1st Stage, Bengaluru, Karnataka"
+  pincode: "560038"
+  coords: [12.9784, 77.6446]
   url: "https://goethe.de/bangalore"
   description: "Cultural institute with library, courses, screenings, exhibitions, workshops, and collaborations in art, science, and media."
   categories:
@@ -1071,7 +1208,9 @@
 
 - name: "Goethe-Institut / Max Mueller Bhavan Chennai"
   city: "Chennai"
-  address: "No. 4, 5th Street, Rutland Gate, Chennai 600006"
+  address: "No. 4, 5th Street, Rutland Gate, Thousand Lights West, Chennai, Tamil Nadu"
+  pincode: "600006"
+  coords: [13.0592, 80.2521]
   url: "https://goethe.de/chennai"
   description: "Cultural institute with library, courses, and programmes across film, new media, arts, theatre, dance, music, literature, and architecture."
   categories:
@@ -1084,7 +1223,9 @@
 
 - name: "Goethe-Institut / Max Mueller Bhavan Mumbai"
   city: "Mumbai"
-  address: "CSMVS, 159–161, Mahatma Gandhi Road, Fort, Mumbai 400023"
+  address: "CSMVS, 159–161, Mahatma Gandhi Road, Fort, Kala Ghoda, Mumbai, Maharashtra"
+  pincode: "400023"
+  coords: [18.9269, 72.8316]
   url: "https://goethe.de/mumbai"
   description: "Cultural institute with gallery, library, courses, and interdisciplinary programmes in art, cinema, theatre, dance, and literature."
   categories:
@@ -1097,7 +1238,9 @@
 
 - name: "Goethe-Institut / Max Mueller Bhavan New Delhi"
   city: "New Delhi"
-  address: "3, Kasturba Gandhi Marg, New Delhi 110001"
+  address: "3, Kasturba Gandhi Marg, Vakil Lane, New Delhi"
+  pincode: "110001"
+  coords: [28.6239, 77.2243]
   url: "https://goethe.de/delhi"
   description: "Cultural institute with library, language programmes, and public cultural cooperation activities."
   categories:
@@ -1108,7 +1251,9 @@
 
 - name: "Goethe-Institut / Max Mueller Bhavan Kolkata"
   city: "Kolkata"
-  address: "Park Mansions, Gate 4, 57A, Park Street, Kolkata 700016"
+  address: "Park Mansions, Gate 4, 57A, Park Street, Taltala, Kolkata, West Bengal"
+  pincode: "700016"
+  coords: [22.5525, 88.3533]
   url: "https://goethe.de/kolkata"
   description: "Cultural institute with library, exhibitions, courses, and ongoing cultural exchange programming."
   categories:
@@ -1121,6 +1266,7 @@
 - name: "Goethe-Institut / Max Mueller Bhavan Pune"
   city: "Pune"
   address: "Pune, Maharashtra"
+  coords: [18.5246, 73.8786]
   url: "https://goethe.de/ins/in/en/sta/pun.html"
   description: "German cultural institute with library, courses, events, and cultural programming."
   categories:
@@ -1132,6 +1278,7 @@
 - name: "Alliance Française de Bombay"
   city: "Mumbai"
   address: "Mumbai, Maharashtra"
+  coords: [18.9582, 72.8321]
   url: "https://bombay.afindia.org"
   description: "Official French cultural centre in Mumbai with film screenings, classes, library/media resources, and cultural programming."
   categories:
@@ -1143,7 +1290,9 @@
 
 - name: "Alliance Française de Delhi"
   city: "New Delhi"
-  address: "K.K. Birla Lane, 72, Lodi Estate, New Delhi 110003"
+  address: "K.K. Birla Lane, 72, Lodi Estate, Lodhi Gardens, New Delhi"
+  pincode: "110003"
+  coords: [28.5921, 77.2225]
   url: "https://afdelhi.org"
   description: "Indo-French cultural centre with screenings, performances, exhibitions, classes, and a long-standing public cultural programme."
   categories:
@@ -1155,7 +1304,9 @@
 
 - name: "Alliance Française d'Ahmedabad"
   city: "Ahmedabad"
-  address: "B/S Food Corporation of India, Himali Tower Lane, Manekbaug-Shyamal Road, Satellite, Ahmedabad 380015"
+  address: "B/S Food Corporation of India, Himali Tower Lane, Manekbaug-Shyamal Road, Satellite, Ahmedabad, Gujarat"
+  pincode: "380015"
+  coords: [23.0133, 72.5308]
   url: "https://ahmedabad.afindia.org"
   description: "Official French cultural centre and language institute; part of the public-facing Alliance network in India."
   categories:
@@ -1168,7 +1319,9 @@
 
 - name: "Alliance Française Baroda Branch"
   city: "Vadodara"
-  address: "Skip Floor-2, B Wing, Blue Diamond Complex, Behind Fatehgunj Petrol Pump, Fatehgunj, Vadodara 390002"
+  address: "Skip Floor-2, B Wing, Blue Diamond Complex, Behind Fatehgunj Petrol Pump, Vadodara, Gujarat"
+  pincode: "390002"
+  coords: [22.3244, 73.1888]
   url: "https://ahmedabad.afindia.org"
   description: "Vadodara branch of Alliance Française d'Ahmedabad; public cultural and language centre."
   categories:
@@ -1180,6 +1333,7 @@
 - name: "Alliance Française de Bhopal"
   city: "Bhopal"
   address: "Bhopal, Madhya Pradesh"
+  coords: [23.2599, 77.4126]
   url: "https://bhopal.afindia.org"
   description: "Non-profit French cultural centre with library, events, screenings, exhibitions, and cultural partnerships."
   categories:
@@ -1192,6 +1346,7 @@
 - name: "Alliance Française d'Indore"
   city: "Indore"
   address: "Indore, Madhya Pradesh"
+  coords: [22.7196, 75.8577]
   url: "https://bhopal.afindia.org"
   description: "Branch of Alliance Française de Bhopal serving Indore with courses and cultural activities."
   categories:
@@ -1203,6 +1358,7 @@
 - name: "Alliance Française de Chandigarh"
   city: "Chandigarh"
   address: "Chandigarh"
+  coords: [30.7333, 76.7794]
   url: "https://afindia.org/about"
   description: "Official Alliance Française centre in Chandigarh."
   categories:
@@ -1214,6 +1370,7 @@
 - name: "Alliance Française of Madras"
   city: "Chennai"
   address: "Chennai, Tamil Nadu"
+  coords: [13.0843, 80.2705]
   url: "https://afindia.org/about"
   description: "Official Alliance Française centre in Chennai."
   categories:
@@ -1225,6 +1382,7 @@
 - name: "Alliance Française de Goa"
   city: "Panaji"
   address: "Goa"
+  coords: [15.501, 73.8294]
   url: "https://afindia.org/about"
   description: "Official Alliance Française centre in Goa."
   categories:
@@ -1236,6 +1394,7 @@
 - name: "Alliance Française d'Hyderabad"
   city: "Hyderabad"
   address: "Hyderabad, Telangana"
+  coords: [17.4065, 78.4772]
   url: "https://afindia.org/about"
   description: "Official Alliance Française centre in Hyderabad."
   categories:
@@ -1247,6 +1406,7 @@
 - name: "Alliance Française de Jaipur"
   city: "Jaipur"
   address: "Jaipur, Rajasthan"
+  coords: [26.9124, 75.7873]
   url: "https://afindia.org/about"
   description: "Official Alliance Française centre in Jaipur."
   categories:
@@ -1258,6 +1418,7 @@
 - name: "Alliance Française Udaipur Branch"
   city: "Udaipur"
   address: "Udaipur, Rajasthan"
+  coords: [24.5854, 73.7125]
   url: "https://afindia.org/about"
   description: "Branch of Alliance Française under the Jaipur centre."
   categories:
@@ -1269,6 +1430,7 @@
 - name: "Alliance Française du Bengale"
   city: "Kolkata"
   address: "Kolkata, West Bengal"
+  coords: [22.5744, 88.3629]
   url: "https://bengale.afindia.org"
   description: "Official French cultural centre serving Kolkata and surrounding region."
   categories:
@@ -1282,6 +1444,7 @@
 - name: "Alliance Française Bhubaneswar Branch"
   city: "Bhubaneswar"
   address: "Bhubaneswar, Odisha"
+  coords: [20.296, 85.8246]
   url: "https://bengale.afindia.org"
   description: "Branch of Alliance Française under the Bengale centre."
   categories:
@@ -1293,6 +1456,7 @@
 - name: "Alliance Française de Pondichéry"
   city: "Puducherry"
   address: "Puducherry"
+  coords: [11.9416, 79.8083]
   url: "https://afindia.org/about"
   description: "Official Alliance Française centre in Puducherry."
   categories:
@@ -1304,6 +1468,7 @@
 - name: "Alliance Française de Karikal"
   city: "Karaikal"
   address: "Karaikal, Puducherry"
+  coords: [10.9254, 79.838]
   url: "https://afindia.org/about"
   description: "Official Alliance Française centre in Karaikal."
   categories:
@@ -1315,6 +1480,7 @@
 - name: "Alliance Française de Pune"
   city: "Pune"
   address: "Pune, Maharashtra"
+  coords: [18.5246, 73.8786]
   url: "https://afindia.org/about"
   description: "Official Alliance Française centre in Pune."
   categories:
@@ -1326,6 +1492,7 @@
 - name: "Alliance Française de Trivandrum"
   city: "Thiruvananthapuram"
   address: "Thiruvananthapuram, Kerala"
+  coords: [8.5241, 76.9366]
   url: "https://trivandrum.afindia.org"
   description: "Non-profit French cultural centre with regular screenings, concerts, exhibitions, and workshops."
   categories:
@@ -1338,6 +1505,7 @@
 - name: "Alliance Française Kochi Annex"
   city: "Kochi"
   address: "Kochi, Kerala"
+  coords: [9.9312, 76.2673]
   url: "https://trivandrum.afindia.org"
   description: "Annex centre under Alliance Française de Trivandrum."
   categories:
@@ -1348,7 +1516,9 @@
 
 - name: "Alliance Française de Bangalore"
   city: "Bengaluru"
-  address: "Thimmaiah Road, Kaverappa Layout, Vasanth Nagar, Bengaluru 560001"
+  address: "Thimmaiah Road, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka"
+  pincode: "560001"
+  coords: [12.9928, 77.5964]
   url: "https://bangalore.afindia.org"
   description: "Official French centre with auditorium, gallery, media centre, classes, and cultural events."
   categories:
@@ -1361,7 +1531,9 @@
 
 - name: "Alliance Française de Mahe"
   city: "Mahe"
-  address: "Mahe, Puducherry"
+  address: "Mahé, Mahe, Puducherry"
+  pincode: "673310"
+  coords: [11.7002, 75.5343]
   url: "https://afindia.org/about"
   description: "Official Alliance Française centre in Mahe."
   categories:
@@ -1372,7 +1544,9 @@
 
 - name: "British Council Library"
   city: "New Delhi"
-  address: "17 Kasturba Gandhi Marg, New Delhi"
+  address: "17 Kasturba Gandhi Marg, Janpath, Connaught Place, New Delhi"
+  pincode: "110001"
+  coords: [28.627, 77.2224]
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
@@ -1384,7 +1558,9 @@
 
 - name: "British Council Library"
   city: "Kolkata"
-  address: "16 Camac Street, Kolkata"
+  address: "16 Camac Street, Kankaria Estates, Kolkata, West Bengal"
+  pincode: "700016"
+  coords: [22.5494, 88.3539]
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
@@ -1396,7 +1572,9 @@
 
 - name: "British Council Library"
   city: "Chennai"
-  address: "737 Anna Salai, Chennai"
+  address: "737 Anna Salai, Chennai, Tamil Nadu"
+  pincode: "600006"
+  coords: [13.0594, 80.2578]
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
@@ -1408,7 +1586,9 @@
 
 - name: "British Council Library"
   city: "Bengaluru"
-  address: "23, 1st Cross, Kasturba Road, Bengaluru"
+  address: "23, 1st Cross, Kasturba Road, Shanthala Nagar, Bengaluru, Karnataka"
+  pincode: "560001"
+  coords: [12.9735, 77.5981]
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
@@ -1420,7 +1600,9 @@
 
 - name: "British Council Library"
   city: "Mumbai"
-  address: "Mittal Tower, Nariman Point, Mumbai"
+  address: "Mittal Tower, Nariman Point, Mumbai, Maharashtra"
+  pincode: "400005"
+  coords: [18.9252, 72.8248]
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
@@ -1432,7 +1614,9 @@
 
 - name: "British Council Library"
   city: "Ahmedabad"
-  address: "Amrapali Lakeview Tower, Vastrapur, Ahmedabad"
+  address: "Amrapali Lakeview Tower, Vastrapur, Ahmedabad, Gujarat"
+  pincode: "380054"
+  coords: [23.0398, 72.5294]
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
@@ -1445,6 +1629,8 @@
 - name: "British Council Library"
   city: "Chandigarh"
   address: "Elante Office, Industrial Area Phase 1, Chandigarh"
+  pincode: "160002"
+  coords: [30.704, 76.8015]
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
@@ -1456,7 +1642,9 @@
 
 - name: "British Council Library"
   city: "Hyderabad"
-  address: "SL Jubilee, Road No 36, Jubilee Hills, Hyderabad"
+  address: "SL Jubilee, Road No 36, Jubilee Hills, Hyderabad, Telangana"
+  pincode: "500033"
+  coords: [17.4292, 78.41]
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
@@ -1468,7 +1656,9 @@
 
 - name: "British Council Library"
   city: "Pune"
-  address: "Ramsukh House, Ganeshkhind Road, Pune"
+  address: "Ramsukh House, Ganeshkhind Road, Narveer Tanaji Wadi, Pune, Maharashtra"
+  pincode: "411005"
+  coords: [18.53, 73.8516]
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
@@ -1480,7 +1670,9 @@
 
 - name: "FABLAB Kerala — Trivandrum"
   city: "Thiruvananthapuram"
-  address: "Kerala Startup Mission, Ground Floor, IIITM-K Building, Technopark Campus, Trivandrum, Kerala"
+  address: "Kerala Startup Mission, Ground Floor, IIITM-K Building, Technopark Campus, Trivandrum, Karyavattom"
+  pincode: "695581"
+  coords: [8.5566, 76.882]
   url: "https://fablabkerala.in"
   description: "Public-facing fabrication lab created with Kerala Startup Mission to support entrepreneurship, learning, and innovation."
   categories:
@@ -1493,7 +1685,9 @@
 
 - name: "FabLab Trichy"
   city: "Tiruchirappalli"
-  address: "Government College of Engineering, Sethurappatti, Srirangam, Trichy 620012"
+  address: "Government College of Engineering, Sethurappatti, Srirangam, Trichy, Sethurapatti, Tamil Nadu"
+  pincode: "620012"
+  coords: [10.6785, 78.5996]
   url: "https://forgeforward.in"
   description: "Fabrication lab and community innovation hub with workshops, training, and collaborative projects."
   categories:
@@ -1504,7 +1698,9 @@
 
 - name: "FabLab Nellai"
   city: "Tirunelveli"
-  address: "Government College of Engineering, Trivandrum Road, Marshal Nagar, Tirunelveli 627007"
+  address: "Government College of Engineering, Trivandrum Road, Marshal Nagar, Tirunelveli, Tamil Nadu"
+  pincode: "627007"
+  coords: [8.6861, 77.7258]
   url: "https://forgeforward.in"
   description: "Community innovation lab for hands-on learning, prototyping, and local maker activity."
   categories:
@@ -1515,7 +1711,9 @@
 
 - name: "FabLab Noida"
   city: "Noida"
-  address: "C-56/47, Sector 62, Noida 201307"
+  address: "C-56/47, Sector 62, Industrial Area, Noida, Uttar Pradesh"
+  pincode: "201307"
+  coords: [28.6154, 77.3623]
   url: "https://fablabs.io/labs/rentechnologies01"
   description: "Digital fabrication lab aimed at engineering students and community innovation in NCR."
   categories:
@@ -1527,6 +1725,8 @@
 - name: "FabLab Mohali"
   city: "Mohali"
   address: "New Chandigarh, Punjab"
+  pincode: "140901"
+  coords: [30.8088, 76.7264]
   url: "https://fablabs.io/labs/mohali"
   description: "Part of the Fab Lab Chandigarh network; focused on hardware development and startup prototyping."
   categories:
@@ -1538,6 +1738,7 @@
 - name: "Fab Lab Chandigarh"
   city: "Chandigarh"
   address: "Chandigarh"
+  coords: [30.7333, 76.7794]
   url: "https://fablabs.io/labs/fablabchandigarh"
   description: "Fab lab intended to expand access to digital-fabrication technologies across the northern region."
   categories:
@@ -1548,7 +1749,9 @@
 
 - name: "FabLab Nagpur"
   city: "Nagpur"
-  address: "36, Atrey Layout, Pratap Nagar, Nagpur 440022"
+  address: "36, Atrey Layout, Pratap Nagar, Nagpur, Maharashtra"
+  pincode: "440022"
+  coords: [21.1149, 79.0605]
   url: "https://fablabnagpur.com"
   description: "Community digital fabrication lab and coworking-style maker environment open to varied age groups."
   categories:
@@ -1560,7 +1763,9 @@
 
 - name: "FabLab Narmadalaya"
   city: "Kasrawad"
-  address: "Vivekananda Institute of Rural Technology, Lepa Punarvas, Kasrawad, Khargone 451228"
+  address: "Vivekananda Institute of Rural Technology, Lepa Punarvas, Kasrawad, Khargone, Madhya Pradesh"
+  pincode: "451228"
+  coords: [22.1209, 75.6111]
   url: "https://narmadalaya.org"
   description: "Rural fablab for tribal youth, local artisans, makers, and village-level problem solving."
   categories:
@@ -1574,7 +1779,9 @@
 
 - name: "Makerspace@CMRIT"
   city: "Bengaluru"
-  address: "CMR Institute of Technology, 132 AECS Layout, ITPL Main Road, Kundalahalli, Bengaluru 560037"
+  address: "CMR Institute of Technology, 132 AECS Layout, ITPL Main Road, Kundalahalli, Brookefield, Bengaluru, Karnataka"
+  pincode: "560037"
+  coords: [12.9676, 77.7141]
   url: "https://cmrit.ac.in/makerspace"
   description: "Large college-hosted makerspace with 3D printing, CNC, electronics, talks, hackathons, and makeathons."
   categories:
@@ -1585,7 +1792,9 @@
 
 - name: "Fab Lab — AIC ADT Baramati Foundation"
   city: "Baramati"
-  address: "Post Box No. 35, Malegaon Colony, Sharadanagar, Baramati, Pune district 413115"
+  address: "Post Box No. 35, Malegaon Colony, Sharadanagar, Baramati, Pune district, Maharashtra"
+  pincode: "413115"
+  coords: [18.1792, 74.6078]
   url: "https://aicadtbaramatifoundation.org/fablab"
   description: "Public/open-access digital fabrication workshop welcoming everyone from children to entrepreneurs."
   categories:
@@ -1598,7 +1807,9 @@
 
 - name: "Arthshila Delhi"
   city: "New Delhi"
-  address: "B-19/1, Pocket B, Okhla Phase II, Okhla Industrial Estate, New Delhi 110020"
+  address: "B-19/1, Pocket B, Okhla Phase II, Okhla Industrial Estate, New Delhi"
+  pincode: "110020"
+  coords: [28.5357, 77.2761]
   url: "https://arthshila.org"
   description: "Multi-arts centre with galleries, auditorium, terrace, pop-up areas, and community programming across art, architecture, design, and craft."
   categories:
@@ -1610,7 +1821,9 @@
 
 - name: "Triveni Kala Sangam"
   city: "New Delhi"
-  address: "Mandi House, New Delhi"
+  address: "Mandi House, Mahatma Jyoti Rao Phule Marg Area, New Delhi"
+  pincode: "110001"
+  coords: [28.6248, 77.2323]
   url: "https://trivenikalasangam.org"
   description: "Art institution with galleries, theatre, and open cultural programming."
   categories:
@@ -1622,6 +1835,7 @@
 - name: "KNMA Saket"
   city: "New Delhi"
   address: "Saket, New Delhi"
+  coords: [28.5221, 77.2102]
   url: "https://knma.in"
   description: "Contemporary art museum with exhibitions, lectures, and education programmes."
   categories:
@@ -1633,7 +1847,9 @@
 
 - name: "KNMA Noida"
   city: "Noida"
-  address: "Sector 126, Noida"
+  address: "Sector 126, Noida, Uttar Pradesh"
+  pincode: "201313"
+  coords: [28.5389, 77.3396]
   url: "https://knma.in"
   description: "Second KNMA location hosting exhibitions and public events."
   categories:
@@ -1645,7 +1861,8 @@
 
 - name: "Niv Art Centre"
   city: "New Delhi"
-  address: "Neb Sarai, New Delhi"
+  address: "Neb Sarai, Sainik Farm, New Delhi"
+  coords: [28.505, 77.2089]
   url: "https://nivartcentre.com"
   description: "Private art foundation and gallery space hosting exhibitions and residencies."
   categories:
@@ -1657,6 +1874,7 @@
 - name: "India Islamic Cultural Centre"
   city: "New Delhi"
   address: "Lodhi Road area, New Delhi"
+  coords: [28.5911, 77.228]
   url: ""
   description: "Cultural venue hosting talks, seminars, and exhibitions."
   categories:
@@ -1667,6 +1885,7 @@
 - name: "Raza Foundation Space"
   city: "New Delhi"
   address: "New Delhi"
+  coords: [28.6139, 77.2088]
   url: "https://razafoundation.org"
   description: "Foundation promoting arts, lectures, and literary dialogues."
   categories:
@@ -1677,7 +1896,9 @@
 
 - name: "Bikaner House Cultural Centre"
   city: "New Delhi"
-  address: "Pandara Road, New Delhi"
+  address: "Pandara Road, India Gate, New Delhi"
+  pincode: "110003"
+  coords: [28.606, 77.2307]
   url: "https://delhitourism.gov.in"
   description: "Heritage building used for exhibitions, food festivals, and arts programming."
   categories:
@@ -1690,6 +1911,8 @@
 - name: "Travancore House Cultural Venue"
   city: "New Delhi"
   address: "Kasturba Gandhi Marg, New Delhi"
+  pincode: "110001"
+  coords: [28.6229, 77.2254]
   url: "https://delhitourism.gov.in"
   description: "Heritage cultural venue hosting exhibitions and cultural events."
   categories:
@@ -1700,7 +1923,8 @@
 
 - name: "Studio Safdar"
   city: "New Delhi"
-  address: "Shadi Khampur, New Delhi"
+  address: "Shadi Khampur, Shadipur, New Delhi"
+  coords: [28.651, 77.1562]
   url: "https://studiosafdar.com"
   description: "Independent art and theatre space supporting political and experimental performance."
   categories:
@@ -1712,7 +1936,9 @@
 
 - name: "IGNCA"
   city: "New Delhi"
-  address: "Janpath, New Delhi"
+  address: "Janpath, Connaught Place, New Delhi"
+  pincode: "110001"
+  coords: [28.6278, 77.219]
   url: "https://ignca.gov.in"
   description: "Indira Gandhi National Centre for the Arts — national cultural research centre with exhibitions, lectures, and performances."
   categories:
@@ -1724,6 +1950,8 @@
 - name: "Gandhi Smriti Cultural Programmes"
   city: "New Delhi"
   address: "Tees January Marg, New Delhi"
+  pincode: "110011"
+  coords: [28.6024, 77.2145]
   url: "https://gandhismriti.gov.in"
   description: "Museum with workshops, dialogues, and cultural events."
   categories:
@@ -1736,6 +1964,7 @@
 - name: "National Crafts Museum & Hastkala Academy"
   city: "New Delhi"
   address: "Pragati Maidan, New Delhi"
+  coords: [28.6126, 77.2434]
   url: "https://ncraftsmuseum.nic.in"
   description: "Museum and craft hub with exhibitions, workshops, and festivals."
   categories:
@@ -1747,7 +1976,9 @@
 
 - name: "Rabindranath Tagore Centre (ICCR)"
   city: "Kolkata"
-  address: "9A, Ho Chi Minh Sarani, Kolkata 700071"
+  address: "9A, Ho Chi Minh Sarani, Kankaria Estates, Kolkata, West Bengal"
+  pincode: "700071"
+  coords: [22.5474, 88.3517]
   url: "https://iccr.gov.in"
   description: "ICCR's flagship cultural centre in Kolkata with galleries, auditorium, seminar rooms, cultural events, workshops, and theatre."
   categories:
@@ -1759,7 +1990,9 @@
 
 - name: "ICCR Ahmedabad Regional Centre"
   city: "Ahmedabad"
-  address: "Beside PhD Facilitation Centre, Above University Canteen, Gujarat University Campus, Navrangpura, Ahmedabad 380009"
+  address: "Beside PhD Facilitation Centre, Above University Canteen, Gujarat University Campus, Navrangpura, Ahmedabad"
+  pincode: "380009"
+  coords: [23.0372, 72.5466]
   url: "https://iccr.gov.in"
   description: "ICCR sub-zonal cultural centre supporting cultural programming and exchange in Ahmedabad and Gujarat."
   categories:
@@ -1771,7 +2004,9 @@
 
 - name: "ICCR Guwahati at Shilpgram"
   city: "Guwahati"
-  address: "Annexure Pavilion, Shilpgram, Panjabari Road, Guwahati 781037"
+  address: "Annexure Pavilion, Shilpgram, Panjabari Road, Khanapara, Guwahati, Assam"
+  pincode: "781037"
+  coords: [26.1333, 91.8212]
   url: "https://iccr.gov.in"
   description: "Cultural office embedded in the Shilpgram complex, with regular support for cultural organisations and monthly Horizon programmes."
   categories:
@@ -1783,7 +2018,9 @@
 
 - name: "ICCR Shillong at Brookside Cottage"
   city: "Shillong"
-  address: "Brookside Cottage, New Assembly Compound, Shillong 793004"
+  address: "Brookside Cottage, New Assembly Compound, Laitumkhrah, Shillong, Meghalaya"
+  pincode: "793004"
+  coords: [25.5663, 91.9008]
   url: "https://iccr.gov.in"
   description: "Cultural centre in Brookside Cottage, active in promoting folk festivals, local music and dance, and wider Northeast cultural programming."
   categories:
@@ -1796,7 +2033,9 @@
 
 - name: "ICCR Pune Regional Centre"
   city: "Pune"
-  address: "Savitribai Phule University, Ganeshkhind, Pune 411007"
+  address: "Savitribai Phule University, Ganeshkhind, Pune, Maharashtra"
+  pincode: "411007"
+  coords: [18.553, 73.8265]
   url: "https://iccr.gov.in"
   description: "Public-facing ICCR regional centre coordinating exhibitions, seminars, performances, and collaborations with local cultural organisations."
   categories:
@@ -1808,7 +2047,9 @@
 
 - name: "ICCR Mumbai Regional Centre"
   city: "Mumbai"
-  address: "Videsh Bhavan, Plot No. C-45, Block G, Bandra-Kurla Complex, Mumbai 400051"
+  address: "Videsh Bhavan, Plot No. C-45, Block G, Bandra-Kurla Complex, Bandra East, Mumbai, Maharashtra"
+  pincode: "400051"
+  coords: [19.0632, 72.8692]
   url: "https://iccr.gov.in"
   description: "Mumbai ICCR regional centre coordinating exhibitions, cultural presentations, and exchange programmes."
   categories:
@@ -1820,7 +2061,9 @@
 
 - name: "ICCR Patna Regional Centre"
   city: "Patna"
-  address: "67-68/40, Officers Flat, Nehru Path, Opp. Suchna Bhavan, Patna 800001"
+  address: "67-68/40, Officers Flat, Nehru Path, Opp. Suchna Bhavan, Rajbansi Nagar, Patna, Bihar"
+  pincode: "800001"
+  coords: [25.6071, 85.1084]
   url: "https://iccr.gov.in"
   description: "Regional cultural centre coordinating exhibitions, seminars, and cultural delegations in Bihar and Jharkhand."
   categories:
@@ -1832,7 +2075,9 @@
 
 - name: "ICCR Bengaluru Regional Centre"
   city: "Bengaluru"
-  address: "Ground Floor, Regional Passport Office, 8th Block, 80 Feet Road, Koramangala, Bengaluru 560095"
+  address: "Ground Floor, Regional Passport Office, 8th Block, 80 Feet Road, Koramangala, Bengaluru, Karnataka"
+  pincode: "560095"
+  coords: [12.946, 77.6191]
   url: "https://iccr.gov.in"
   description: "Regional cultural centre running recurring artist-platform programmes such as EFCEP and Horizon."
   categories:
@@ -1845,7 +2090,8 @@
 
 - name: "Kolkata International Foundation for Arts, Literature & Culture"
   city: "Kolkata"
-  address: "Raja Basanta Roy Road, Kolkata"
+  address: "Raja Basanta Roy Road, Kolkata, West Bengal"
+  coords: [22.5139, 88.3531]
   url: "https://kolkatainternationalfoundation.org"
   description: "Culture foundation operating a space with gallery, book corner, and space for seminars, readings, film shows, and creative activities."
   categories:
@@ -1858,7 +2104,9 @@
 
 - name: "Nita Mukesh Ambani Cultural Centre"
   city: "Mumbai"
-  address: "G Block, Bandra Kurla Complex, Mumbai 400098"
+  address: "G Block, Bandra Kurla Complex, Mumbai, Maharashtra"
+  pincode: "400098"
+  coords: [19.0685, 72.8703]
   url: "https://nmacc.com"
   description: "Large multidisciplinary cultural centre with performing arts, visual arts, public art, and public-facing spaces including the Art House, Dhirubhai Ambani Square, and The Cube experimental performance venue."
   categories:
@@ -1869,7 +2117,9 @@
 
 - name: "Nehru Centre"
   city: "Mumbai"
-  address: "Dr Annie Besant Road, Worli, Mumbai 400018"
+  address: "Dr Annie Besant Road, Worli, Mumbai, Maharashtra"
+  pincode: "400018"
+  coords: [18.9991, 72.8173]
   url: "https://nehrucentremumbai.in"
   description: "Major cultural centre with art gallery, library, exposition galleries, exhibitions, and a culture wing promoting music, dance, drama, and lectures."
   categories:
@@ -1881,7 +2131,9 @@
 
 - name: "Harkat Studios"
   city: "Mumbai"
-  address: "Bungalow No. 17, Aram Nagar II, Off JP Road, Versova, Andheri West, Mumbai 400061"
+  address: "Bungalow No. 17, Aram Nagar II, Off JP Road, Versova, Andheri West, Mumbai, Maharashtra"
+  pincode: "400061"
+  coords: [19.1275, 72.816]
   url: "https://harkat.in"
   description: "Alternative arts and performance space hosting film, theatre, music, movement, and experimental community programming."
   categories:
@@ -1893,7 +2145,9 @@
 
 - name: "3 Art House"
   city: "Mumbai"
-  address: "Unit 1, Mohini Heights, 5th Road, Govind Dham, Khar West, Mumbai 400052"
+  address: "Unit 1, Mohini Heights, 5th Road, Govind Dham, Khar West, Ram Krishna Nagar, Mumbai, Maharashtra"
+  pincode: "400052"
+  coords: [19.0665, 72.8382]
   url: "https://3arthouse.com"
   description: "Collaborative gallery-stage-living-room style cultural space for events, workshops, mural activities, and emerging artistic voices."
   categories:
@@ -1904,7 +2158,8 @@
 
 - name: "The Guild Art Gallery"
   city: "Mumbai"
-  address: "Colaba, Mumbai"
+  address: "Colaba, Mumbai, Maharashtra"
+  coords: [18.9067, 72.8147]
   url: "https://guildindia.com"
   description: "Contemporary art gallery that hosts exhibitions and discussions."
   categories:
@@ -1914,7 +2169,8 @@
 
 - name: "Bhau Daji Lad Museum"
   city: "Mumbai"
-  address: "Byculla East, Mumbai"
+  address: "Byculla East, Mumbai, Maharashtra"
+  coords: [18.9822, 72.8383]
   url: "https://bdlamuseum.org"
   description: "Museum with active workshops, festivals, and community heritage programmes."
   categories:
@@ -1926,7 +2182,8 @@
 
 - name: "Prithvi House / Prithvi Theatre"
   city: "Mumbai"
-  address: "Juhu, Mumbai"
+  address: "Juhu, Mumbai, Maharashtra"
+  coords: [19.1048, 72.8267]
   url: "https://prithvitheatre.org"
   description: "Historic theatre hub with festivals, cafés, workshops, and public programming."
   categories:
@@ -1938,7 +2195,8 @@
 
 - name: "G5A Warehouse"
   city: "Mumbai"
-  address: "Mahalaxmi, Mumbai"
+  address: "Mahalaxmi, Mahalakshmi, Mumbai, Maharashtra"
+  coords: [18.9865, 72.8183]
   url: "https://g5afoundation.org"
   description: "Contemporary performance and arts space focused on experimental theatre and dance."
   categories:
@@ -1949,6 +2207,7 @@
 - name: "Sabha"
   city: "Bengaluru"
   address: "Bengaluru, Karnataka"
+  coords: [12.9629, 77.5775]
   url: "https://sabhablr.in"
   description: "Inclusive public cultural space in a restored heritage building, designed for art, craft, culture, creative voices, and community reflection."
   categories:
@@ -1961,7 +2220,8 @@
 
 - name: "Agamashaala"
   city: "Bengaluru"
-  address: "Yelahanka New Town, Bengaluru"
+  address: "Yelahanka New Town, Bengaluru, Karnataka"
+  coords: [13.1042, 77.5713]
   url: "https://agamashaala.mobirisesite.com"
   description: "Community-oriented creative hub positioning itself as a sanctuary for artists and curious learners through workshops, events, and gatherings."
   categories:
@@ -1972,7 +2232,9 @@
 
 - name: "Jaipur Center of Culture and Arts"
   city: "Jaipur"
-  address: "872, Gautam Marg, Rani Sati Nagar, Nirman Nagar, Jaipur 302019"
+  address: "872, Gautam Marg, Rani Sati Nagar, Nirman Nagar, Brijlalpura, Jaipur, Rajasthan"
+  pincode: "302019"
+  coords: [26.884, 75.7422]
   url: "https://jccaindia.com"
   description: "Four-storey cultural centre created to support art engagement, exhibitions, workshops, and public cultural participation."
   categories:
@@ -1983,7 +2245,9 @@
 
 - name: "Jaipur Centre for Art"
   city: "Jaipur"
-  address: "Gate No. 1, City Palace, Jaipur 302002"
+  address: "Gate No. 1, City Palace, Tripolia Bazar, Jaipur, Rajasthan"
+  pincode: "302002"
+  coords: [26.9256, 75.819]
   url: "https://jaipurcentreforart.com"
   description: "Contemporary art space in the City Palace precinct with platform programming for exhibitions and cross-disciplinary dialogue."
   categories:
@@ -1994,7 +2258,8 @@
 
 - name: "Jawahar Kala Kendra"
   city: "Jaipur"
-  address: "Jawahar Lal Nehru Marg, Jaipur"
+  address: "Jawahar Lal Nehru Marg, Jaipur, Rajasthan"
+  coords: [26.8757, 75.8103]
   url: "https://jkk.artandculture.rajasthan.gov.in"
   description: "Major cultural complex with theatres, galleries, and public arts events."
   categories:
@@ -2007,7 +2272,8 @@
 
 - name: "Ravindra Manch"
   city: "Jaipur"
-  address: "Ram Niwas Garden, Jaipur"
+  address: "Ram Niwas Garden, Kailash Puri, Adarsh Nagar, Jaipur, Rajasthan"
+  coords: [26.9134, 75.8207]
   url: "https://artandculture.rajasthan.gov.in"
   description: "Theatre and cultural venue used for festivals and performances."
   categories:
@@ -2018,7 +2284,9 @@
 
 - name: "Hawa Mahal Cultural Programming Space"
   city: "Jaipur"
-  address: "Hawa Mahal, Jaipur"
+  address: "Hawa Mahal, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan"
+  pincode: "302002"
+  coords: [26.924, 75.8267]
   url: "https://rajasthan.gov.in"
   description: "Heritage venue occasionally used for cultural programming."
   categories:
@@ -2031,6 +2299,7 @@
 - name: "Shilpgram"
   city: "Udaipur"
   address: "Udaipur, Rajasthan"
+  coords: [24.5854, 73.7125]
   url: "https://westzoneculturecentre.gov.in"
   description: "Crafts village and cultural hub hosting festivals and exhibitions."
   categories:
@@ -2043,7 +2312,9 @@
 
 - name: "3AM Art House"
   city: "Ahmedabad"
-  address: "A/39, Ground Floor, Celebration City Center, South Bopal, Ahmedabad 380058"
+  address: "A/39, Ground Floor, Celebration City Center, South Bopal, Ahmedabad, Gujarat"
+  pincode: "380058"
+  coords: [23.0236, 72.4712]
   url: "https://3amarthouse.com"
   description: "Community-friendly art house for workshops, student showcases, and creative learning for different age groups."
   categories:
@@ -2055,7 +2326,8 @@
 
 - name: "Cholamandal Artists' Village"
   city: "Chennai"
-  address: "Injambakkam / East Coast Road area, Chennai"
+  address: "Injambakkam / East Coast Road area, Chennai, Tamil Nadu"
+  coords: [12.9164, 80.2505]
   url: "https://cholamandalartistvillage.com"
   description: "India's largest self-supporting artists' village, with galleries, resident artistic community, and open-air theatre for discussions and conferences."
   categories:
@@ -2069,7 +2341,8 @@
 
 - name: "DakshinaChitra Museum"
   city: "Chennai"
-  address: "ECR Road, Chennai"
+  address: "ECR Road, Chennai, Tamil Nadu"
+  coords: [12.9245, 80.2511]
   url: "https://dakshinachitra.net"
   description: "Living heritage museum with workshops and cultural festivals."
   categories:
@@ -2081,7 +2354,8 @@
 
 - name: "Kalakshetra Foundation"
   city: "Chennai"
-  address: "Thiruvanmiyur, Chennai"
+  address: "Thiruvanmiyur, Chennai, Tamil Nadu"
+  coords: [12.983, 80.2594]
   url: "https://kalakshetra.in"
   description: "Campus for classical dance and music with regular performances."
   categories:
@@ -2092,7 +2366,8 @@
 
 - name: "Kerala Kalamandalam Fort Kochi Centre"
   city: "Kochi"
-  address: "Fort Kochi, Kochi"
+  address: "Fort Kochi, Kerala"
+  coords: [9.9658, 76.2421]
   url: "https://keralasangeethanatakakademi.in"
   description: "Outreach and cultural centre connecting traditional Kerala arts with schools, workshops, and weekend performances."
   categories:
@@ -2104,6 +2379,7 @@
 - name: "Kochi-Muziris Biennale Pavilion Spaces"
   city: "Kochi"
   address: "Fort Kochi, Kerala"
+  coords: [9.9658, 76.2421]
   url: "https://kochimuzirisbiennale.org"
   description: "Network of exhibition venues activated during the biennale and residencies."
   categories:
@@ -2116,6 +2392,7 @@
 - name: "Durbar Hall Art Gallery"
   city: "Kochi"
   address: "Kochi, Kerala"
+  coords: [9.9312, 76.2673]
   url: "https://kochi.biennale.org"
   description: "State gallery used for exhibitions and cultural programmes."
   categories:
@@ -2127,6 +2404,8 @@
 - name: "Serendipity Arts Foundation"
   city: "Panaji"
   address: "Campal, Panaji, Goa"
+  pincode: "403001"
+  coords: [15.4936, 73.8192]
   url: "https://serendipityarts.org"
   description: "Cultural organisation behind the Serendipity Arts Festival; runs year-round arts initiatives and collaborations."
   categories:
@@ -2138,6 +2417,8 @@
 - name: "Museum of Goa"
   city: "Pilerne"
   address: "Pilerne Industrial Estate, Goa"
+  pincode: "403511"
+  coords: [15.5277, 73.7919]
   url: "https://museumofgoa.com"
   description: "Contemporary art museum with workshops, talks, and community art programming."
   categories:
@@ -2148,7 +2429,8 @@
 
 - name: "Bharat Bhavan"
   city: "Bhopal"
-  address: "Shamla Hills, Bhopal"
+  address: "Shamla Hills, Bhopal, Madhya Pradesh"
+  coords: [23.241, 77.3855]
   url: "https://bharatbhavan.org"
   description: "Landmark multi-arts complex with museums, theatre, and artist residencies."
   categories:
@@ -2162,6 +2444,7 @@
 - name: "Ravindra Bhavan"
   city: "Bhopal"
   address: "Bhopal, Madhya Pradesh"
+  coords: [23.2599, 77.4126]
   url: "https://mp.gov.in"
   description: "Cultural centre used for exhibitions and performing arts."
   categories:
@@ -2172,7 +2455,9 @@
 
 - name: "Lalit Kala Akademi Regional Centre"
   city: "Chennai"
-  address: "Greams Road, Chennai"
+  address: "Greams Road, Thousand Lights, Chennai, Tamil Nadu"
+  pincode: "600006"
+  coords: [13.0614, 80.2546]
   url: "https://lalitkala.gov.in"
   description: "Government-run contemporary art centre and gallery with exhibitions and workshops."
   categories:
@@ -2185,6 +2470,7 @@
 - name: "Lalit Kala Akademi Regional Centre"
   city: "Bhubaneswar"
   address: "Bhubaneswar, Odisha"
+  coords: [20.296, 85.8246]
   url: "https://lalitkala.gov.in"
   description: "National academy gallery hosting exhibitions, artists' events, and artist development."
   categories:
@@ -2197,6 +2483,7 @@
 - name: "Lalit Kala Akademi Regional Centre"
   city: "Lucknow"
   address: "Lucknow, Uttar Pradesh"
+  coords: [26.8467, 80.9462]
   url: "https://lalitkala.gov.in"
   description: "Public art gallery and workshop space."
   categories:
@@ -2209,6 +2496,7 @@
 - name: "Lalit Kala Akademi Regional Centre"
   city: "Kolkata"
   address: "Kolkata, West Bengal"
+  coords: [22.5744, 88.3629]
   url: "https://lalitkala.gov.in"
   description: "Art exhibitions and cultural programming."
   categories:
@@ -2220,7 +2508,9 @@
 
 - name: "Lalit Kala Akademi — Garhi Artists' Studios"
   city: "New Delhi"
-  address: "Garhi Village, New Delhi"
+  address: "Garhi Village, East of Kailash, New Delhi"
+  pincode: "110065"
+  coords: [28.557, 77.2513]
   url: "https://lalitkala.gov.in"
   description: "Artist residency and studios supporting contemporary art practice."
   categories:
@@ -2234,6 +2524,7 @@
 - name: "Heritage Transport Museum"
   city: "Gurugram"
   address: "Tauru Road, Gurugram, Haryana"
+  coords: [28.2604, 76.916]
   url: "https://heritagetransportmuseum.org"
   description: "Museum with interactive exhibits and education programmes."
   categories:
@@ -2244,6 +2535,7 @@
 - name: "Ravindra Bhavan"
   city: "Guwahati"
   address: "Guwahati, Assam"
+  coords: [26.1158, 91.7086]
   url: "https://assam.gov.in"
   description: "State cultural centre used for theatre and public events."
   categories:
@@ -2255,6 +2547,7 @@
 - name: "Shilpgram"
   city: "Guwahati"
   address: "Panjabari Road, Guwahati, Assam"
+  coords: [26.1336, 91.8247]
   url: "https://wzculturecentre.gov.in"
   description: "Crafts and cultural complex hosting festivals and exhibitions."
   categories:
@@ -2267,7 +2560,8 @@
 
 - name: "Kalagram"
   city: "Chandigarh"
-  address: "Manimajra, Chandigarh"
+  address: "Manimajra, Sector 13, Chandigarh"
+  coords: [30.7202, 76.8375]
   url: "https://northzoneculturecentre.gov.in"
   description: "Cultural complex hosting festivals, exhibitions, and craft fairs."
   categories:
@@ -2281,6 +2575,8 @@
 - name: "American Center"
   city: "New Delhi"
   address: "KG Marg, New Delhi"
+  pincode: "110001"
+  coords: [28.6229, 77.2254]
   url: "https://in.usembassy.gov"
   description: "Cultural space hosting talks, exhibitions, and community events."
   categories:
@@ -2291,7 +2587,9 @@
 
 - name: "American Center"
   city: "Kolkata"
-  address: "Ho Chi Minh Sarani, Kolkata"
+  address: "Ho Chi Minh Sarani, Kankaria Estates, Park Street area, Kolkata, West Bengal"
+  pincode: "700071"
+  coords: [22.5472, 88.3509]
   url: "https://in.usembassy.gov"
   description: "Public programming space for lectures, arts, and cultural exchange."
   categories:
