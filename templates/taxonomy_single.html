@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+{% import "macros.html" as m %}
+
+{% block title %}{{ term.name }} / {{ config.title }}{% endblock %}
+
+{% block meta %}<meta name="description" content="{{ term.name }} - {{ config.description }}">{% endblock %}
+
+{% block subtitle %}
+  {% if taxonomy.name == "categories" %}
+    <p><strong>{{ term.name }}</strong> spaces</p>
+  {% else %}
+    <p>Spaces in <strong>{{ term.name }}</strong></p>
+  {% endif %}
+{% endblock %}
+
+{% block sidebar %}
+  {{ m::sidebar(pages=term.pages, current_taxonomy=taxonomy.name) }}
+{% endblock %}
+
+{% block results %}
+  {{ m::results(pages=term.pages) }}
+{% endblock %}

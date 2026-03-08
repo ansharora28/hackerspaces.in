@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% import "macros.html" as m %}
+
+{% block meta %}<meta name="description" content="{{ config.description }}">{% endblock %}
+
+{% block subtitle %}<p>{{ config.description }}</p>{% endblock %}
+
+{% block sidebar %}
+  {% set spaces = section.pages %}
+  {{ m::sidebar(pages=spaces, current_taxonomy="none") }}
+{% endblock %}
+
+{% block results %}
+  {% set spaces = section.pages %}
+  {{ m::results(pages=spaces) }}
+{% endblock %}

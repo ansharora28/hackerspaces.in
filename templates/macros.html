@@ -1,0 +1,84 @@
+{% macro filter_group(name, label, values, taxonomy) %}
+<fieldset>
+  <legend>{{ label }} <a class="light" data-toggle="{{ name }}">Unselect all</a></legend>
+  {% for v in values | sort %}
+    <label><input type="checkbox" name="{{ name }}" value="{{ v }}" data-filter checked> {{ v }}<a class="filter-link light" href="{{ get_taxonomy_url(kind=taxonomy, name=v) }}">View</a></label>
+  {% endfor %}
+</fieldset>
+{% endmacro %}
+
+{% macro filters(pages, current_taxonomy) %}
+  {% if current_taxonomy != "categories" %}
+    {% set_global cat_set = [] %}
+    {% for page in pages %}
+      {% for c in page.taxonomies.categories %}
+        {% if c not in cat_set %}
+          {% set_global cat_set = cat_set | concat(with=c) %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {{ self::filter_group(name="category", label="Categories", values=cat_set, taxonomy="categories") }}
+  {% endif %}
+
+  {% if current_taxonomy != "states" %}
+    {% set_global state_set = [] %}
+    {% for page in pages %}
+      {% for s in page.taxonomies.states %}
+        {% if s not in state_set %}
+          {% set_global state_set = state_set | concat(with=s) %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {{ self::filter_group(name="state", label="States", values=state_set, taxonomy="states") }}
+  {% endif %}
+
+  {% if current_taxonomy != "cities" %}
+    {% set_global city_set = [] %}
+    {% for page in pages %}
+      {% for c in page.taxonomies.cities %}
+        {% if c not in city_set %}
+          {% set_global city_set = city_set | concat(with=c) %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {{ self::filter_group(name="city", label="Cities", values=city_set, taxonomy="cities") }}
+  {% endif %}
+{% endmacro %}
+
+{% macro sidebar(pages, current_taxonomy) %}
+  <a href="#" class="filter-toggle" id="filter-toggle">Show filters</a>
+  <div class="filter-groups">
+  <div class="search">
+    <input type="search" id="search" placeholder="Search spaces..." aria-label="Search spaces">
+  </div>
+  <label class="show-map-toggle"><input type="checkbox" id="show-map" checked> Show map</label>
+  {{ self::filters(pages=pages, current_taxonomy=current_taxonomy) }}
+  <footer class="sidebar-footer">
+    <p><a href="{{ get_url(path='spaces.csv') }}">Download data (CSV)</a><br /><a class="light" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a> License</p>
+    <p>Maintained by <a class="light" href="https://samagata.org">Samagata Foundation</a></p>
+    <p><a href="https://gitea.samagata.org/ooru.space/ooru.space">git source</a></p>
+  </footer>
+  </div>
+{% endmacro %}
+
+{% macro results(pages) %}
+  <h3 class="count"><span id="count">{{ pages | length }}</span> space(s)</h3>
+  {% for page in pages %}
+  <article data-space
+    data-state="{{ page.taxonomies.states | first }}"
+    data-city="{{ page.taxonomies.cities | first }}"
+    data-categories="{{ page.taxonomies.categories | join(sep=',') }}"
+    data-lat="{{ page.extra.lat }}"
+    data-lng="{{ page.extra.lng }}"
+    data-name="{{ page.title }}"
+    data-address="{{ page.extra.address | default(value='') }}{% if page.extra.pincode %}, {{ page.extra.pincode }}{% endif %}"
+  >
+    <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+    <p class="meta">
+      <span class="meta-categories">{% for cat in page.taxonomies.categories %}<a class="light" href="{{ get_taxonomy_url(kind='categories', name=cat) }}">{{ cat }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</span>
+    </p>
+    {{ page.content | safe }}
+    {% if page.extra.address %}<p class="address">{{ page.extra.address }}{% if page.extra.pincode %}, {{ page.extra.pincode }}{% endif %}<span class="meta-location"><a class="light" href="{{ get_taxonomy_url(kind='cities', name=page.taxonomies.cities | first) }}">{{ page.taxonomies.cities | first }}</a>, <a class="light" href="{{ get_taxonomy_url(kind='states', name=page.taxonomies.states | first) }}">{{ page.taxonomies.states | first }}</a></span></p>{% endif %}
+  </article>
+  {% endfor %}
+{% endmacro %}

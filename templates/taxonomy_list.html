@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}{{ taxonomy.name | title }} / {{ config.title }}{% endblock %}
+
+{% block meta %}<meta name="description" content="Browse by {{ taxonomy.name }} - {{ config.description }}">{% endblock %}
+
+{% block subtitle %}
+  <p>Browse by
+    {% if taxonomy.name == "categories" %}category
+    {% elif taxonomy.name == "cities" %}city
+    {% else %}state{% endif %}
+  </p>
+{% endblock %}
+
+{% block content %}
+  <main>
+    <ul class="taxonomy-list">
+      {% for term in terms %}
+        <li><a href="{{ term.permalink }}">{{ term.name }}</a> ({{ term.pages | length }})</li>
+      {% endfor %}
+    </ul>
+  </main>
+{% endblock %}

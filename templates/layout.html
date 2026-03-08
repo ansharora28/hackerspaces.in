@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+  <div class="layout">
+    <aside class="filters" {% block filters_attrs %}data-filters{% endblock %}>
+      {% block sidebar %}{% endblock %}
+    </aside>
+
+    <div class="results" id="results">
+      {% block results %}{% endblock %}
+    </div>
+
+    <aside class="map-aside" data-map>
+      <div id="map"></div>
+    </aside>
+  </div>
+{% endblock %}

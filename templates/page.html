@@ -1,0 +1,43 @@
+{% extends "layout.html" %}
+
+{% block title %}{{ page.title }} / {{ config.title }}{% endblock %}
+
+{% block meta %}<meta name="description" content="{{ page.description }}">{% endblock %}
+
+{% block subtitle %}<p>{{ page.title }}, {{ page.taxonomies.cities | join(sep=", ") }}</p>{% endblock %}
+
+{% block filters_attrs %}{% endblock %}
+
+{% block sidebar %}
+  <p>View public community spaces across
+    {% for cat in page.taxonomies.categories %}<a href="{{ get_taxonomy_url(kind='categories', name=cat) }}">{{ cat }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+
+    or spaces in <a href="{{ get_taxonomy_url(kind='cities', name=page.taxonomies.cities | first) }}">{{ page.taxonomies.cities | first }}</a>, <a href="{{ get_taxonomy_url(kind='states', name=page.taxonomies.states | first) }}">{{ page.taxonomies.states | first }}</a>.</p>
+  <br />
+  <p><a href="{{ get_url(path='/') }}">&larr; All spaces</a></p>
+{% endblock %}
+
+{% block results %}
+  <article data-space
+    data-state="{{ page.taxonomies.states | first }}"
+    data-city="{{ page.taxonomies.cities | first }}"
+    data-categories="{{ page.taxonomies.categories | join(sep=',') }}"
+    data-lat="{{ page.extra.lat }}"
+    data-lng="{{ page.extra.lng }}"
+    data-name="{{ page.title }}"
+    data-address="{{ page.extra.address | default(value='') }}{% if page.extra.pincode %}, {{ page.extra.pincode }}{% endif %}"
+  >
+    <h3>{{ page.title }}</h3>
+    <p class="meta">
+      <span class="meta-categories">{% for cat in page.taxonomies.categories %}<a class="light" href="{{ get_taxonomy_url(kind='categories', name=cat) }}">{{ cat }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</span>
+    </p>
+    {{ page.content | safe }}
+    {% if page.extra.address %}<p class="address">{{ page.extra.address }}{% if page.extra.pincode %}, {{ page.extra.pincode }}{% endif %}<span class="meta-location"><a class="light" href="{{ get_taxonomy_url(kind='cities', name=page.taxonomies.cities | first) }}">{{ page.taxonomies.cities | first }}</a>, <a class="light" href="{{ get_taxonomy_url(kind='states', name=page.taxonomies.states | first) }}">{{ page.taxonomies.states | first }}</a></span></p>{% endif %}
+
+    <br />
+
+    {% if page.extra.url %}
+      <p>Visit <a href="{{ page.extra.url }}" rel="noopener">{{ page.extra.url | replace(from="https://", to="") | replace(from="http://", to="") | trim_end_matches(pat="/") }}</a></p>
+    {% endif %}
+  </article>
+{% endblock %}
