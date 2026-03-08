@@ -516,7 +516,7 @@
 
 - name: "Nehru Science Centre"
   city: "Mumbai"
-  state: "महाराष्ट्र"
+  state: "Maharashtra"
   address: "Dr. E. Moses Road, Worli, रॉयल वेस्टर्न इंडिया टर्फ क्लब, Mumbai"
   pincode: "400034"
   coords: [18.9803, 72.8165]
