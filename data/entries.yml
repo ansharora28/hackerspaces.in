@@ -3419,3 +3419,50 @@
     - Education
   tags:
     - children
+
+- name: "Shaheedi Park"
+  city: "New Delhi"
+  state: "Delhi"
+  address: "Bahadur Shah Zafar Marg, Vikram Nagar"
+  pincode: "110002"
+  coords: [28.6340, 77.2412]
+  url: "https://en.wikipedia.org/wiki/Shaheedi_Park"
+  description: "India's first outdoor museum park featuring waste-to-art sculptures and installations depicting Indian freedom fighters and historical eras, built from 250 tonnes of scrap."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - outdoor-venue
+    - government
+
+- name: "Srijan Art Gallery"
+  city: "New Delhi"
+  state: "Delhi"
+  address: "Nehru Park, Chanakyapuri"
+  pincode: "110021"
+  coords: [28.5910, 77.1932]
+  url: "https://www.ndmc.gov.in"
+  description: "An open-air art gallery and creative platform at Nehru Park, featuring curated exhibitions, live demos, workshops, and community art events with free public entry."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - outdoor-venue
+    - free-entry
+    - government
+
+- name: "Baansera Park"
+  city: "New Delhi"
+  state: "Delhi"
+  address: "Yamuna Floodplains, Sarai Kale Khan"
+  pincode: "110013"
+  coords: [28.5940, 77.2616]
+  url: "https://lg.delhi.gov.in/swachh-delhi/baansera"
+  description: "Delhi's first bamboo-themed park spanning 10 hectares on the Yamuna floodplains, with over 30,000 bamboo plants of 15 varieties and a musical fountain."
+  categories:
+    - Community
+    - Culture
+  tags:
+    - outdoor-venue
+    - sustainability
+    - government
