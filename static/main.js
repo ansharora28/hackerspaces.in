@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const elChk = $$('[data-filter]');
   const elMap = $('[data-map]'), elShowMap = $('#show-map'), elToggles = $$('[data-toggle]');
   const isMobile = matchMedia('(max-width: 900px)').matches;
-  let map, isMapLoaded = false, selItem = null;
+  let map, isMapLoaded = false, selItem = null, mapTimer = 0;
   const markers = [], markerItems = new Map();
 
   // Build city+state mappings for filtering.
@@ -207,7 +207,8 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
     elCount.textContent = n;
-    updateMap();
+    clearTimeout(mapTimer);
+    mapTimer = setTimeout(updateMap, 500);
   }
 
   // Bind various control events.
