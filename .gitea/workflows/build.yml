@@ -30,5 +30,7 @@ jobs:
 
       - name: Build site
         run: |
+          rm -rf /tmp/site-output
+          zola build -o /tmp/site-output
           rm -rf /site-output/*
-          zola build --force -o /site-output
+          cp -a /tmp/site-output/. /site-output/
