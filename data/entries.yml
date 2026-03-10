@@ -3466,3 +3466,263 @@
     - outdoor-venue
     - sustainability
     - government
+
+- name: "Anna Centenary Library"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "Gandhi Mandapam Road, Kotturpuram"
+  pincode: "600085"
+  coords: [13.0171, 80.2400]
+  url: "https://www.annacentenarylibrary.org"
+  description: "One of Asia's largest public libraries with over 1.2 million books across multiple floors, established by the Government of Tamil Nadu."
+  categories:
+    - Library
+    - Education
+  tags:
+    - government
+    - free-entry
+
+- name: "Kalaignar Centenary Library"
+  city: "Madurai"
+  state: "Tamil Nadu"
+  address: "Natham Road, Race Course Colony"
+  pincode: "625002"
+  coords: [9.9415, 78.1361]
+  url: "https://kalaignarcentenarylibrary.tn.gov.in"
+  description: "A modern public library inaugurated in 2023, one of the largest in South India, named after former Chief Minister M. Karunanidhi."
+  categories:
+    - Library
+    - Education
+  tags:
+    - government
+    - free-entry
+
+- name: "Connemara Public Library"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "Pantheon Road, Egmore"
+  pincode: "600008"
+  coords: [13.0704, 80.2568]
+  url: "https://www.connemarapubliclibrary.org"
+  description: "Established in 1890, one of India's four National Depository Libraries housed in a heritage building, receiving a copy of all publications in India."
+  categories:
+    - Library
+    - Education
+  tags:
+    - government
+    - heritage-building
+    - free-entry
+
+- name: "Roja Muthiah Research Library"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "3rd Cross Street, CIT Campus, Taramani"
+  pincode: "600113"
+  coords: [12.9978, 80.2460]
+  url: "https://rmrl.in"
+  description: "A research library specializing in Tamil studies, housing over 500,000 items across the humanities, social sciences, and sciences."
+  categories:
+    - Library
+    - Education
+  tags:
+    - free-entry
+
+- name: "Maraimalai Adigal Library"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "Connemara Public Library Campus, Pantheon Road, Egmore"
+  pincode: "600008"
+  coords: [13.0705, 80.2569]
+  description: "A government research library within the Connemara campus, named after Tamil scholar and social reformer Maraimalai Adigal."
+  categories:
+    - Library
+    - Education
+  tags:
+    - government
+    - heritage-building
+    - free-entry
+
+- name: "Dr. U.Ve. Swaminatha Iyer Library"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "Arundale Beach Road, Kalakshetra Colony, Besant Nagar"
+  pincode: "600090"
+  coords: [12.9923, 80.2649]
+  url: "https://uvesalibrary.org"
+  description: "Established in 1943 in memory of the eminent Tamil scholar, housing his personal collection of rare manuscripts, diaries, and classical Tamil literature."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - heritage-building
+
+- name: "Adyar Library and Research Centre"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "The Theosophical Society, Besant Avenue Road, Adyar"
+  pincode: "600020"
+  coords: [13.0081, 80.2671]
+  url: "https://adyarlibrary.org"
+  description: "A premier research centre for Eastern philosophy, religion, and culture within the Theosophical Society campus, holding rare manuscripts and palm-leaf collections."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - heritage-building
+
+- name: "Madras Literary Society"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "College Road, DPI Campus, Thousand Lights"
+  pincode: "600006"
+  coords: [13.0682, 80.2507]
+  description: "Founded in 1817, one of India's oldest literary societies and functioning libraries, housed in a heritage red sandstone building with around 50,000 books."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - heritage-building
+    - membership-required
+
+- name: "InKo Centre"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "18, Adyar Club Gate Road, Raja Annamalaipuram"
+  pincode: "600028"
+  coords: [13.0267, 80.2485]
+  url: "https://www.inkocentre.org"
+  description: "A nonprofit cultural centre fostering Indo-Korean artistic exchange through visual and performing arts exhibitions, workshops, and language classes."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - free-entry
+
+- name: "Apparao Galleries"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "7, Wallace Gardens 3rd Street, Nungambakkam"
+  pincode: "600006"
+  coords: [13.0611, 80.2501]
+  description: "One of India's leading contemporary art galleries, founded in 1983, promoting established and emerging artists through exhibitions and public art interventions."
+  categories:
+    - Arts
+  tags:
+    - free-entry
+
+- name: "Forum Art Gallery"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "57, 5th Street, Padmanabha Nagar, Adyar"
+  pincode: "600020"
+  coords: [13.0051, 80.2609]
+  url: "https://www.forumartgallery.com"
+  description: "Contemporary art gallery founded in 1997, offering exhibitions, art education, and art therapy programmes including outreach to underserved communities."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - free-entry
+
+- name: "Focus Art Gallery"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "11, Kasturi Estate 2nd Street, Alwarpet"
+  pincode: "600086"
+  coords: [13.0448, 80.2558]
+  url: "https://focusartgallery.in"
+  description: "Contemporary art gallery showcasing original paintings, prints, sculptures, and photographs by senior and emerging Indian and international artists."
+  categories:
+    - Arts
+  tags:
+    - free-entry
+
+- name: "Art Houz"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "123, Sterling Road, Nungambakkam"
+  pincode: "600034"
+  coords: [13.0653, 80.2359]
+  description: "A leading South Indian contemporary art gallery spanning 7,200 sq ft, focused on emerging artists with experimental practices."
+  categories:
+    - Arts
+  tags:
+    - free-entry
+
+- name: "Gallery Veda"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "4/22, Rutland Gate 5th Street, Nungambakkam"
+  pincode: "600006"
+  coords: [13.0594, 80.2511]
+  url: "https://www.galleryveda.com"
+  description: "Contemporary art gallery established in 2012, making art accessible through exhibitions of established and emerging artists."
+  categories:
+    - Arts
+  tags:
+    - free-entry
+
+- name: "The Faraway Tree"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "Sterling Road 3rd Cross Street, Nungambakkam"
+  pincode: "600034"
+  coords: [13.0649, 80.2368]
+  url: "https://thefarawaytree.com"
+  description: "Boutique gallery dealing in modern and contemporary Indian art, offering paintings, sculptures, and limited edition prints. Open by appointment."
+  categories:
+    - Arts
+  tags:
+    - limited-access
+
+- name: "Cholamandal Centre for Contemporary Art"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "Cholamandal Artists' Village, East Coast Road, Injambakkam"
+  pincode: "600115"
+  coords: [12.9227, 80.2513]
+  url: "https://www.cholamandalartistvillage.com"
+  description: "Exhibition complex within the historic artists' village, housing the Museum of the Madras Movement, two commercial galleries, and a sculpture park."
+  categories:
+    - Arts
+    - Culture
+
+- name: "Backyard"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "53/23, 3rd Main Road, Gandhi Nagar, Adyar"
+  pincode: "600020"
+  coords: [13.0084, 80.2526]
+  url: "https://www.thebackyardclan.com"
+  description: "A creative hub and anti-café in Adyar hosting live music, open mics, comedy shows, art workshops, and community gatherings with a pay-per-time model."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - cafe
+    - coworking
+
+- name: "Medai — The Stage"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "3rd Floor, 16, 1st Cross Street, Sri Ram Nagar, Alwarpet"
+  pincode: "600018"
+  coords: [13.0330, 80.2509]
+  url: "https://medaithestage.com"
+  description: "A black box theatre dedicated to performing arts, hosting dance, music, theatre, comedy, and workshops with capacity for 200–300 people."
+  categories:
+    - Performing Arts
+    - Arts
+    - Community
+
+- name: "Spaces"
+  city: "Chennai"
+  state: "Tamil Nadu"
+  address: "1, Elliot's Beach Road, Besant Nagar"
+  pincode: "600090"
+  coords: [12.9994, 80.2709]
+  description: "An experimental arts foundation set up in 2000 by dancer Chandralekha, artist Dashrath Patel, and writer Sadanand Menon, hosting performances, activism, and Kalarippayattu classes."
+  categories:
+    - Arts
+    - Performing Arts
+    - Community
