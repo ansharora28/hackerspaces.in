@@ -29,4 +29,6 @@ jobs:
           sudo mv zola /usr/local/bin/
 
       - name: Build site
-        run: zola build -o /site-output
+        run: |
+          rm -rf /site-output/*
+          zola build -o /site-output
