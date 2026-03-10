@@ -1025,7 +1025,7 @@
   tags:
     - free-entry
 
-- name: "Bangalore International Centre"
+- name: "Bangalore International Centre (BIC)"
   city: "Bengaluru"
   state: "Karnataka"
   address: "7, 4th Main Road, Domlur II Stage, Saraswathipura, Bengaluru"
@@ -2853,3 +2853,285 @@
     - Community
   tags:
     - heritage-building
+
+- name: "Ranga Shankara"
+  city: "Bengaluru"
+  state: "Karnataka"
+  address: "36/2, 8th Cross Rd, 2nd Phase, J. P. Nagar"
+  pincode: "560078"
+  coords: [12.9115, 77.587]
+  url: "https://rangashankara.org"
+  description: "A dedicated theatre space hosting 400+ plays a year, with a 320-seat auditorium and outreach programmes."
+  categories:
+    - Performing Arts
+    - Community
+  tags:
+    - cafe
+
+- name: "Local Sustainable Living"
+  city: "Kochi"
+  state: "Kerala"
+  address: "Tharavadu, Mangayil Ave, Poonithura, Maradu"
+  pincode: "682304"
+  coords: [9.9377, 76.3302]
+  url: "https://www.facebook.com/localsustainablestore"
+  description: "A community store offering local, affordable and sustainable products from food and art to lifestyle goods."
+  categories:
+    - Community
+  tags:
+    - sustainability
+
+- name: "Kerala Lalithakala Akademi Art Gallery"
+  city: "Thiruvananthapuram"
+  state: "Kerala"
+  address: "Vyloppilli Samskrithi Bhavan, Nalanda Ln, Plammoodu"
+  pincode: "695003"
+  coords: [8.5149, 76.9494]
+  url: "https://lalithkala.org"
+  description: "State art gallery in a Laurie Baker-designed building, hosting year-round exhibitions and workshops."
+  categories:
+    - Arts
+  tags:
+    - government
+    - lalithakala-akademi
+
+- name: "Kerala Lalithakala Akademi Art Gallery"
+  city: "Kozhikode"
+  state: "Kerala"
+  address: "Town Hall Rd, Mananchira"
+  pincode: "673001"
+  coords: [11.2539, 75.779]
+  url: "https://lalithkala.org"
+  description: "Regional art gallery with twin exhibition halls for paintings, photography, and literary events."
+  categories:
+    - Arts
+  tags:
+    - government
+    - lalithakala-akademi
+
+- name: "Cochin Cultural Centre"
+  city: "Kochi"
+  state: "Kerala"
+  address: "KB Jacob Rd, Fort Kochi"
+  pincode: "682001"
+  coords: [9.9602, 76.2429]
+  url: "https://cochinculturalcentre.org"
+  description: "Award-winning performing arts centre with daily Kathakali, Kalaripayattu, and Mohiniyattam shows."
+  categories:
+    - Performing Arts
+    - Culture
+  tags: []
+
+- name: "Kerala Kalamandalam"
+  city: "Cheruthuruthy"
+  state: "Kerala"
+  address: "Vallathol Nagar, Thrissur-Shoranur Rd"
+  pincode: "679531"
+  coords: [10.7366, 76.2785]
+  url: "https://kalamandalam.edu.in"
+  description: "Deemed university of art and culture founded in 1930, training students in Kathakali, Mohiniyattam, and other Kerala performing arts."
+  categories:
+    - Performing Arts
+    - Education
+    - Culture
+  tags:
+    - institutional
+    - heritage-building
+
+- name: "Sargaalaya Kerala Arts and Crafts Village"
+  city: "Iringal"
+  state: "Kerala"
+  address: "Sargalaya Rd, Kottakkal"
+  pincode: "673521"
+  coords: [11.5601, 75.6059]
+  url: "https://sargaalaya.in"
+  description: "A 20-acre riverside crafts village with 60 artisan cottages, live workshops, and an annual international crafts festival."
+  categories:
+    - Arts
+    - Community
+    - Culture
+  tags:
+    - craft
+    - government
+    - outdoor-venue
+
+- name: "KPAC — Kerala People's Arts Club"
+  city: "Kayamkulam"
+  state: "Kerala"
+  address: "Kallummoodu Junction, NH 47"
+  pincode: "690502"
+  coords: [9.1613, 76.5069]
+  url: "https://kpacdrama.com"
+  description: "Kerala's oldest theatre organisation with the Thoppil Bhasi Auditorium, pioneering socially conscious drama since the 1950s."
+  categories:
+    - Performing Arts
+    - Community
+  tags: []
+
+- name: "Lokadharmi Nadakaveedu"
+  city: "Kochi"
+  state: "Kerala"
+  address: "Nayarambalam, Vypin"
+  pincode: "682509"
+  coords: [10.0541, 76.2202]
+  url: "https://lokadharmi.org"
+  description: "A theatre campus with rehearsal halls, open-air stages, and residential facilities for a 500-member artist community."
+  categories:
+    - Performing Arts
+    - Community
+    - Education
+  tags:
+    - residency
+
+- name: "Space of ACT Theater Collective"
+  city: "Kochi"
+  state: "Kerala"
+  address: "Post Office Rd, Vaduthala, Pachalam"
+  pincode: "682023"
+  coords: [10.016, 76.2773]
+  url: "https://www.justdial.com/Ernakulam/Space-Of-ACT-Theater-Collective-Near-Vaduthala-Pachalam/0484PX484-X484-230917163614-V5A7_BZDET"
+  description: "A community theatre space offering drama training, workshops, and performances."
+  categories:
+    - Performing Arts
+    - Community
+  tags: []
+
+- name: "A Ware Community Space"
+  city: "Bengaluru"
+  state: "Karnataka"
+  address: "3rd Floor, Gurudev Chambers, 7th Cross, 3rd Main, Indiranagar 1st Stage, Binnamangala"
+  pincode: "560038"
+  coords: [12.9816, 77.6396]
+  url: "https://www.awarestudio.in/pages/community-space"
+  description: "A membership-based pottery and ceramics studio space for creators to work collaboratively."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - membership-required
+    - craft
+    - studios
+
+- name: "Indian Music Experience Museum"
+  city: "Bengaluru"
+  state: "Karnataka"
+  address: "Brigade Millennium Avenue, JP Nagar 7th Phase"
+  pincode: "560078"
+  coords: [12.8918, 77.5837]
+  url: "https://indianmusicexperience.org"
+  description: "India's first interactive music museum with nine galleries, a sound garden, and a learning centre."
+  categories:
+    - Culture
+    - Education
+  tags: []
+
+- name: "Indian Institute of World Culture"
+  city: "Bengaluru"
+  state: "Karnataka"
+  address: "6, BP Wadia Road, Basavanagudi"
+  pincode: "560004"
+  coords: [12.9441, 77.5761]
+  url: "https://iiwc.in"
+  description: "A cultural institution with a library, art gallery, and lecture hall hosting ~150 programs annually."
+  categories:
+    - Culture
+    - Library
+    - Arts
+  tags:
+    - heritage-building
+
+- name: "Champaca Bookstore, Library & Cafe"
+  city: "Bengaluru"
+  state: "Karnataka"
+  address: "7/1, Edward Road, off Queens Road, Vasanth Nagar"
+  pincode: "560001"
+  coords: [12.9872, 77.596]
+  url: "https://champaca.in"
+  description: "An independent bookstore, lending library, and cafe with a curated collection and regular literary events."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - cafe
+    - literature
+
+- name: "Freedom Park"
+  city: "Bengaluru"
+  state: "Karnataka"
+  address: "Seshadri Road, Gandhi Nagar"
+  pincode: "560009"
+  coords: [12.9779, 77.5822]
+  url: "https://blrhubba.in/venues/freedom-park"
+  description: "A 21-acre public park and former colonial prison with a jail museum, book museum, and space for public gatherings."
+  categories:
+    - Community
+    - Culture
+  tags:
+    - free-entry
+    - outdoor-venue
+    - heritage-building
+    - government
+
+- name: "Paper Crane Lab"
+  city: "Bengaluru"
+  state: "Karnataka"
+  address: "6th Cross, 10th Main, Indiranagar"
+  pincode: "560038"
+  coords: [12.976, 77.6384]
+  url: "https://pclprojects.wordpress.com"
+  description: "A nonprofit STEM makerspace with 3D printers, laser cutters, and tools, open to the public via day passes."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - stem
+    - children
+
+- name: "KaTTe - The Creative Community"
+  city: "Bengaluru"
+  state: "Karnataka"
+  address: "545, 4th Cross, 6th Main Road, HAL 2nd Stage, Indiranagar"
+  pincode: "560008"
+  coords: [12.9728, 77.6433]
+  url: "https://www.facebook.com/kattethecreativecommunity/"
+  description: "A nonprofit creative arts space in a duplex house, hosting performances, art events, and coworking."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - coworking
+    - film
+
+- name: "Bangalore Creative Circus"
+  city: "Bengaluru"
+  state: "Karnataka"
+  address: "12/2, Yeshwanthpur Industrial Suburb"
+  pincode: "560086"
+  coords: [13.0139, 77.5481]
+  url: "https://www.blrcreativecircus.com"
+  description: "A 20,000 sqft repurposed warehouse with a sustainability museum, edible gardens, and arts and community event space."
+  categories:
+    - Arts
+    - Community
+    - Innovation
+  tags:
+    - sustainability
+    - craft
+
+- name: "Design Ashram"
+  city: "Kozhikode"
+  state: "Kerala"
+  address: "Gujarathi Street, Kuttichira"
+  pincode: "673001"
+  coords: [11.2472, 75.7741]
+  url: "https://www.designashram.org"
+  description: "A 100-year-old heritage house turned community space with an art gallery, library, coworking studio, and regular cultural events."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - coworking
+    - heritage-building
+    - literature
+    - film
+  
