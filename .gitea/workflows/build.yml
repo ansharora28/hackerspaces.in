@@ -31,4 +31,4 @@ jobs:
       - name: Build site
         run: |
           rm -rf /site-output/*
-          zola build -o /site-output
+          zola build --force -o /site-output
