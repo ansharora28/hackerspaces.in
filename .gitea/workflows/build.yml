@@ -25,4 +25,4 @@ jobs:
           sudo mv zola /usr/local/bin/
 
       - name: Build site
-        run: zola build -o /tmp/public
+        run: zola build -o /site-output
