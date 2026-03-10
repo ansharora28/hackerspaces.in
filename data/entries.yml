@@ -2791,3 +2791,65 @@
     - Community
   tags:
     - american-center
+
+- name: "TinkerSpace"
+  city: "Kochi"
+  state: "Kerala"
+  address: "21/258, Seaport-Airport Rd, Vidya Nagar Colony, Kalamassery"
+  pincode: "682022"
+  coords: [10.047, 76.3352]
+  url: "https://tinkerhub.org/tinkerspace"
+  description: "Kerala's first 24/7 public makerspace, a community-funded hub for hands-on learning and future technologies."
+  categories:
+    - Makerspace
+    - Community
+  tags:
+    - free-entry
+    - stem
+    - youth
+
+- name: "Courtyard Koota"
+  city: "Bengaluru"
+  state: "Karnataka"
+  address: "GoodEarth Tarana, Malhar Road, Kengeri"
+  pincode: "560074"
+  coords: [12.8854, 77.4664]
+  url: "https://courtyardkoota.com"
+  description: "An intimate arts and community space hosting theatre, music, film screenings, and literary events."
+  categories:
+    - Arts
+    - Community
+    - Performing Arts
+  tags:
+    - literature
+    - film
+
+- name: "The Courtyard"
+  city: "Bengaluru"
+  state: "Karnataka"
+  address: "105, Kengal Hanumanthaiah Rd, Shanti Nagar"
+  pincode: "560027"
+  coords: [12.9584, 77.5929]
+  url: "https://linktr.ee/thecourtyardcommunity"
+  description: "A family-run cultural courtyard hosting live music, theatre, pop-up food, flea markets, and community gatherings."
+  categories:
+    - Arts
+    - Community
+    - Culture
+  tags:
+    - cafe
+    - film
+
+- name: "The Long House Collective"
+  city: "Kozhikode"
+  state: "Kerala"
+  address: "9/288, Coconut Bazaar, South Beach Rd, Mananchira"
+  pincode: "673001"
+  coords: [11.2491, 75.773]
+  url: "https://www.instagram.com/thelonghousecollective/"
+  description: "A community art space in a repurposed godown near the beach, hosting exhibitions, performances, and flea markets."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - heritage-building
