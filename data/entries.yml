@@ -3135,3 +3135,287 @@
     - literature
     - film
   
+- name: "TARQ"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "Ground Floor, KK Navsari Chambers, 39, AK Nayak Marg, Fort"
+  pincode: "400001"
+  coords: [18.9359, 72.8330]
+  url: "https://www.tarq.in"
+  description: "A contemporary art gallery founded in 2010, serving as an incubator for young South Asian artists with regular public exhibitions and events."
+  categories:
+    - Arts
+    - Culture
+
+- name: "Chemould Prescott Road"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "3rd Floor, Queens Mansion, Ghanshyam Talwatkar Marg, Fort"
+  pincode: "400001"
+  coords: [18.9353, 72.8324]
+  url: "https://www.gallerychemould.com"
+  description: "One of India's oldest contemporary art galleries, founded in 1963, instrumental in building the careers of major Indian artists."
+  categories:
+    - Arts
+    - Culture
+
+- name: "Chatterjee & Lal"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "Kamal Mansion, Arthur Bunder Road, Colaba"
+  pincode: "400001"
+  coords: [18.9327, 72.8354]
+  url: "https://chatterjeeandlal.com"
+  description: "A Colaba gallery founded in 2003, focusing on emerging and mid-career artists with strong conceptual practices."
+  categories:
+    - Arts
+    - Culture
+
+- name: "Jhaveri Contemporary"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "3rd Floor, Devidas Mansion, B K Boman Behram Marg, Colaba"
+  pincode: "400001"
+  coords: [18.9230, 72.8329]
+  url: "https://jhavericontemporary.com"
+  description: "A gallery representing artists across generations whose practices are informed by South Asian connections and traditions."
+  categories:
+    - Arts
+    - Culture
+
+- name: "Akara Art"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "Amarchand Mansion, Madame Cama Road, Colaba"
+  pincode: "400001"
+  coords: [18.9254, 72.8307]
+  url: "https://akaraart.com"
+  description: "Two gallery spaces — Akara Modern and Akara Contemporary — showcasing modern Indian art and next-generation South Asian artists."
+  categories:
+    - Arts
+    - Culture
+
+- name: "Project 88"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "Ground Floor, BMP Building, Narayan A Sawant Road, Colaba"
+  pincode: "400005"
+  coords: [18.9144, 72.8263]
+  url: "https://www.project88.in"
+  description: "A gallery in a restored century-old metal printing press, specialising in experimental and conceptually rigorous contemporary art."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - heritage-building
+
+- name: "Sakshi Gallery"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "3rd Pasta Lane, Colaba"
+  pincode: "400005"
+  coords: [18.9181, 72.8274]
+  url: "https://sakshigallery.com"
+  description: "One of Mumbai's longest-running contemporary art galleries, founded in 1986, with a record of showing major Indian artists."
+  categories:
+    - Arts
+    - Culture
+
+- name: "Gallery Maskara"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "6/7, 3rd Pasta Lane, Colaba"
+  pincode: "400005"
+  coords: [18.9181, 72.8276]
+  url: "https://gallerymaskara.com"
+  description: "A contemporary art gallery in a restored pre-independence cotton warehouse, exhibiting Indian and international artists."
+  categories:
+    - Arts
+    - Culture
+  tags:
+    - heritage-building
+
+- name: "Clark House Initiative"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "Ground Floor, 8 Nathalal Parekh Marg, Wodehouse Road, Colaba"
+  pincode: "400001"
+  coords: [18.9249, 72.8315]
+  url: "http://clarkhouseinitiative.org"
+  description: "A curatorial collaborative and union of artists hosting exhibitions, residencies, and discursive programmes rooted in communitarianism."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - residency
+
+- name: "ARTISANS' Centre"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "52-56, Dr Forbes Street, Kala Ghoda, Fort"
+  pincode: "400001"
+  coords: [18.9283, 72.8325]
+  url: "https://artisanscentre.com"
+  description: "India's first gallery at the intersection of art, craft, and design, hosting exhibitions, workshops, talks, and artisan marketplaces."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - craft
+
+- name: "Hackerspace Mumbai"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "Bandra Kurla Complex, Bandra East"
+  pincode: "400051"
+  coords: [19.0688, 72.8703]
+  url: "https://hackmum.in"
+  description: "Mumbai's largest open-source tech community, bringing together developers, designers, and makers for meetups, workshops, and hackathons."
+  categories:
+    - Innovation
+    - Community
+
+- name: "Somaiya RiiDL"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "Bhaskaracharya Building, Somaiya Vidyavihar, Vidyavihar East"
+  pincode: "400077"
+  coords: [19.0745, 72.9012]
+  url: "https://riidl.org"
+  description: "A multidisciplinary innovation hub and FabLab offering open access to digital fabrication tools, a DIY bio lab, and startup incubation."
+  categories:
+    - Makerspace
+    - Innovation
+  tags:
+    - fablab
+    - institutional
+
+- name: "Curiosity Gym"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "296, Shahid Bhagat Singh Road, Ballard Estate, Fort"
+  pincode: "400001"
+  coords: [18.9363, 72.8373]
+  url: "https://curiositygym.com"
+  description: "A STEM education and innovation hub providing experiential learning in coding, robotics, AI, and 3D printing for children and youth."
+  categories:
+    - Education
+    - Science
+  tags:
+    - stem
+    - children
+
+- name: "Kitab Khana"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "45-47, Somaiya Bhavan, Mahatma Gandhi Road, Fort"
+  pincode: "400001"
+  coords: [18.9319, 72.8319]
+  url: "https://www.kitabkhana.in"
+  description: "An independent bookshop in a 150-year-old heritage building, with a curated collection, in-house café, and community literary events."
+  categories:
+    - Culture
+    - Community
+  tags:
+    - literature
+    - heritage-building
+    - cafe
+
+- name: "Asiatic Society of Mumbai"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "Town Hall, Shahid Bhagat Singh Road, Fort"
+  pincode: "400001"
+  coords: [18.9318, 72.8358]
+  url: "https://www.asiaticsociety.org.in"
+  description: "One of India's oldest learned societies (est. 1804), housed in the landmark Town Hall, with a public library of over 100,000 books and rare manuscripts."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - heritage-building
+    - membership-required
+
+- name: "People's Free Reading Room and Library"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "Jagannath Shankar Seth Road, Dhobi Talao, Marine Lines"
+  pincode: "400002"
+  coords: [18.9437, 72.8286]
+  url: ""
+  description: "One of Mumbai's oldest public libraries, founded in 1845, offering free reading room access and low-cost borrowing membership."
+  categories:
+    - Library
+  tags:
+    - free-entry
+    - heritage-building
+
+- name: "David Sassoon Library and Reading Room"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "152, Mahatma Gandhi Road, Kala Ghoda, Fort"
+  pincode: "400032"
+  coords: [18.9277, 72.8311]
+  url: "https://www.davidsassoonlibrary.com"
+  description: "A Victorian Neo-Gothic heritage library established in 1870 in the Kala Ghoda arts district, recently restored and reopened in 2023."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - heritage-building
+    - membership-required
+
+- name: "Mumbai Marathi Grantha Sangrahalaya"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "MMGS Marg, Naigaon, Dadar East"
+  pincode: "400014"
+  coords: [19.0138, 72.8464]
+  url: "http://www.mumbaimgs.org"
+  description: "One of India's oldest public libraries, founded in 1898, dedicated to Marathi literature and language with multiple branches across Mumbai."
+  categories:
+    - Library
+  tags:
+    - literature
+    - free-entry
+
+- name: "National Centre for the Performing Arts"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "NCPA Marg, Nariman Point"
+  pincode: "400021"
+  coords: [18.9252, 72.8197]
+  url: "https://www.ncpamumbai.com"
+  description: "India's premier multi-venue performing arts centre, hosting over 700 events annually across music, dance, theatre, and film."
+  categories:
+    - Performing Arts
+    - Culture
+
+- name: "Film Heritage Foundation"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "Veer Nariman Road, Churchgate"
+  pincode: "400020"
+  coords: [18.9332, 72.8267]
+  url: "https://filmheritagefoundation.co.in"
+  description: "A non-profit dedicated to film preservation and restoration, hosting free public screenings of classic and restored films and annual workshops."
+  categories:
+    - Culture
+    - Education
+  tags:
+    - film
+    - free-entry
+
+- name: "Toon Club"
+  city: "Mumbai"
+  state: "Maharashtra"
+  address: "Gharaonda, 1st Floor, 558, National College Lane, Bandra West"
+  pincode: "400050"
+  coords: [19.0635, 72.8370]
+  url: "https://toonclub.net"
+  description: "An animation and visual storytelling education space for children and young adults, where participants create original cartoon films."
+  categories:
+    - Arts
+    - Education
+  tags:
+    - children
