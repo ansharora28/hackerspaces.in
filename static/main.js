@@ -220,6 +220,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   elShowMap?.addEventListener('change', () => {
     if (!elMap) return;
+    localStorage.setItem('showMap', elShowMap.checked);
     if (elShowMap.checked) {
       elMap.style.display = '';
       isMapLoaded ? (map?.invalidateSize(), updateMap()) : loadMap();
@@ -234,6 +235,12 @@ document.addEventListener('DOMContentLoaded', () => {
     boxes.forEach(c => c.checked = !all);
     updateToggleLabels(); filter();
   }));
+
+  // Restore map preference from localStorage.
+  if (elShowMap && localStorage.getItem('showMap') === 'false') {
+    elShowMap.checked = false;
+    if (elMap) elMap.style.display = 'none';
+  }
 
   // On mobile, just don't show the map.
   if (isMobile) {
