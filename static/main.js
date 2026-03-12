@@ -58,6 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!$('#map') || typeof L === 'undefined') return;
 
     map = L.map('map', { maxBounds: [[5, 67], [38, 98]], maxBoundsViscosity: 1, minZoom: 4 }).setView([22, 79], 5);
+    map.on('moveend', onMapMove);
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
       attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/">CARTO</a>',
       subdomains: 'abcd'
@@ -150,7 +151,27 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     if (!bounds.length) return;
 
+    map.off('moveend', onMapMove);
     map.fitBounds(bounds, { padding: [30, 30], maxZoom: 12 });
+    map.once('moveend', () => map.on('moveend', onMapMove));
+  }
+
+  function onMapMove() {
+    if (!map) return;
+    const bounds = map.getBounds();
+    let n = 0;
+    items.forEach(item => {
+      if (!item._filterMatch) return;
+      const marker = markerItems.get(item);
+      if (marker) {
+        const inView = bounds.contains(marker.getLatLng());
+        item.hidden = !inView;
+        if (inView) n++;
+      } else {
+        n++;
+      }
+    });
+    elCount.textContent = n;
   }
 
   // Filtering logic.
@@ -202,6 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
         k === 'category' ? v.some(x => item.dataset.categories.split(',').includes(x)) : v.includes(item.dataset[k])
       );
       item.hidden = !show;
+      item._filterMatch = show;
 
       if (show) {
         n++;
