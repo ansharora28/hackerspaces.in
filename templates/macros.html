@@ -1,8 +1,11 @@
 {% macro filter_group(name, label, values, taxonomy) %}
 <fieldset>
   <legend>{{ label }} <a class="light" data-toggle="{{ name }}">Unselect all</a></legend>
-  {% for v in values | sort %}
-    <label><input type="checkbox" name="{{ name }}" value="{{ v }}" data-filter checked> {{ v }}<a class="filter-link light" href="{{ get_taxonomy_url(kind=taxonomy, name=v) }}">View</a></label>
+  {% set tax = get_taxonomy(kind=taxonomy) %}
+  {% for term in tax.items | sort(attribute="name") %}
+    {% if term.name in values %}
+    <label><input type="checkbox" name="{{ name }}" value="{{ term.name }}" data-filter checked> {{ term.name }} <span class="light">({{ term.pages | length }})</span><a class="filter-link light" href="{{ term.permalink }}">View</a></label>
+    {% endif %}
   {% endfor %}
 </fieldset>
 {% endmacro %}
