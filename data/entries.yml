@@ -3885,3 +3885,17 @@
   tags:
     - cafe
     - heritage-building
+
+- name: "Makerspace Belgaum"
+  city: ["Belagavi", "Belgaum"]
+  state: "Karnataka"
+  address: "RPD College Rd, Bhagya Nagar, Vadagoan, Belagavi"
+  pincode: "590006"
+  coords: [15.8342, 74.5069]
+  url: "https://makerspacebgm.in"
+  description: "A community-driven makerspace offering hands-on learning through workshops in electronics, soldering, 3D modeling, coding, and open-source scientific instruments."
+  categories:
+    - Makerspace
+    - Education
+  tags:
+    - stem
