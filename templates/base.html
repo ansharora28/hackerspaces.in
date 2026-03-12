@@ -13,7 +13,10 @@
   <header>
     <h1><a href="{{ get_url(path='/') }}">ooru.space</a></h1>
     {% block subtitle %}{% endblock %}
-    <span class="header-mail">Add or correct something? <a href="https://docs.google.com/forms/d/1I6JjCiQ4_wVXgY1Y9EbpmJht4T6D714QIEDnAAR-nOk">Send suggestions</a></span>
+    <nav class="header-right">
+      <a href="https://gitea.samagata.org/ooru.space/ooru.space">Source</a>
+      <span>Add or correct something? <a href="https://docs.google.com/forms/d/1I6JjCiQ4_wVXgY1Y9EbpmJht4T6D714QIEDnAAR-nOk">Send suggestions</a></span>
+    </nav>
   </header>
   {% block content %}{% endblock %}
   {% block scripts %}<script src="{{ get_url(path='main.js') }}" defer></script>{% endblock %}

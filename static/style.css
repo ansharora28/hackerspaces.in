@@ -80,10 +80,12 @@ header {
   & p { font-size: var(--text-small); }
 }
 
-.header-mail {
+.header-right {
   margin-left: auto;
   font-size: var(--text-xsmall);
   color: var(--color-muted);
+  display: inline-flex;
+  gap: 1rem;
 }
 
 /* Three-column layout */
@@ -246,7 +248,14 @@ main.detail {
   body { display: block; }
 
   header { flex-direction: column; align-items: flex-start; }
-  .header-mail { margin-left: 0; }
+  .header-right {
+    margin-left: 0;
+    display: block;
+
+    > * {
+      display: block;
+    }
+  }
 
   .layout { flex-direction: column; flex: none; }
 
