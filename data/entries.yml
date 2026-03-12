@@ -989,7 +989,7 @@
   state: "Telangana"
   address: "Plot 1/D, 1/E, 1/F, Survey No. 83/1, Raidurgam, Ranga Reddy District, Bhagyalaxmi Nagar, Hyderabad"
   pincode: "500081"
-  coords: [17.5043, 78.4604]
+  coords: [17.4363, 78.3783]
   url: "https://tworks.telangana.gov.in"
   description: "Government-backed open-for-all prototyping centre designed to reduce barriers to hardware building and support innovators, students, startups, and makers."
   categories:
@@ -3766,3 +3766,122 @@
     - Arts
     - Community
   tags: []
+
+- name: "Bookworm Trust"
+  city: ["Panaji", "Panjim"]
+  state: "Goa"
+  address: "House No. 127, Mala, Fontainhas, Panaji"
+  pincode: "403001"
+  coords: [15.4941, 73.8305]
+  url: "https://www.bookwormgoa.in"
+  description: "A charitable trust promoting literacy through community libraries, school library programs, and mobile outreach across Goa."
+  categories:
+    - Library
+    - Community
+    - Education
+  tags:
+    - children
+    - free-entry
+
+- name: "Third Space"
+  city: ["Udaipur"]
+  state: "Rajasthan"
+  address: "Shyam Nagar, Pulla Bhuwana, Udaipur"
+  pincode: "313001"
+  coords: [24.62, 73.7208]
+  url: "https://third-space.in"
+  description: "A community cultural and learning centre by nonprofit Dharohar, with a library, cinema, theatre, science exhibition, makerspaces, cafe, and co-working areas."
+  categories:
+    - Community
+    - Culture
+    - Education
+  tags:
+    - free-entry
+
+- name: "Jajam"
+  city: ["Udaipur"]
+  state: "Rajasthan"
+  address: "6, Panchwati, Road No. 1, Madhuban, Udaipur"
+  pincode: "313004"
+  coords: [24.5962, 73.6906]
+  url: "https://www.instagram.com/jajam_udaipur/"
+  description: "An open, inclusive arts and community space in a converted old house, hosting cultural events, artisan bazaars, live music, and artist talks alongside a cafe."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - cafe
+
+- name: "Lagori Collective"
+  city: ["Bengaluru", "Bangalore"]
+  state: "Karnataka"
+  address: "1st Floor, 9/13-1, Lloyd Rd, Cooke Town, Bengaluru"
+  pincode: "560005"
+  coords: [13.0018, 77.6229]
+  url: "https://lagoricollective.com"
+  description: "A social design lab and member-run community space offering co-working, studios, workshops, talks, screenings, and exhibitions."
+  categories:
+    - Community
+    - Arts
+  tags:
+    - coworking
+
+- name: "Lamakaan"
+  city: ["Hyderabad"]
+  state: "Telangana"
+  address: "Off Road No. 1, Banjara Hills, Opposite GVK One, Hyderabad"
+  pincode: "500034"
+  coords: [17.4141, 78.4514]
+  url: "https://digital.lamakaan.com"
+  description: "A free, open, and inclusive cultural space hosting regular theatre, comedy, music, film screenings, art workshops, and community discussions."
+  categories:
+    - Performing Arts
+    - Community
+    - Culture
+  tags:
+    - free-entry
+    - cafe
+
+- name: "Kerala Sahitya Akademi"
+  city: ["Thrissur", "Trichur"]
+  state: "Kerala"
+  address: "Palace Road, Chembukkav, Thrissur"
+  pincode: "680020"
+  coords: [10.5296, 76.2182]
+  url: "https://keralasahityaakademi.org"
+  description: "Autonomous body for the promotion and development of Malayalam literature and language, housing a vast library and research centre."
+  categories:
+    - Library
+    - Culture
+  tags:
+    - government
+    - literature
+
+- name: "Kerala Sangeetha Nataka Akademi"
+  city: ["Thrissur", "Trichur"]
+  state: "Kerala"
+  address: "Regional Theatre Road, Chembukkav, Thrissur"
+  pincode: "680020"
+  coords: [10.5327, 76.2185]
+  url: "https://keralasangeethanatakaakademi.in"
+  description: "Government academy for the conservation and promotion of Kerala's music, dance, drama, and folk arts through concerts, performances, and training."
+  categories:
+    - Performing Arts
+    - Culture
+  tags:
+    - government
+
+- name: "8 Point Art Cafe"
+  city: ["Kollam", "Quilon"]
+  state: "Kerala"
+  address: "Asramam Picnic Village Campus, Asramam, Kollam"
+  pincode: "691002"
+  coords: [8.8965, 76.5861]
+  url: "http://8pointartcafe.in"
+  description: "Art gallery and cafe in a restored heritage building by Ashtamudi Lake, hosting exhibitions, cultural events, and a free community book exchange library."
+  categories:
+    - Arts
+    - Community
+  tags:
+    - cafe
+    - heritage-building
