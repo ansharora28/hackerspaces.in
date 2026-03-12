@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="og:image" content="{{ get_url(path='thumb.jpg') }}">
   <link rel="shortcut icon" href="{{ get_url(path='favicon.svg') }}" />
-  <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+  <link rel="stylesheet" href="{{ get_url(path='style.css', cachebust=true) }}">
   {% block meta %}{% endblock %}
 </head>
 <body>
@@ -19,6 +19,6 @@
     </nav>
   </header>
   {% block content %}{% endblock %}
-  {% block scripts %}<script src="{{ get_url(path='main.js') }}" defer></script>{% endblock %}
+  {% block scripts %}<script src="{{ get_url(path='main.js', cachebust=true) }}" defer></script>{% endblock %}
 </body>
 </html>
