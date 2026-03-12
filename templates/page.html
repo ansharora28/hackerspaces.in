@@ -26,6 +26,7 @@
     data-lng="{{ page.extra.lng }}"
     data-name="{{ page.title }}"
     data-address="{{ page.extra.address | default(value='') }}{% if page.extra.pincode %}, {{ page.extra.pincode }}{% endif %}"
+    {% if page.extra.city_aliases %}data-city-aliases="{{ page.extra.city_aliases | join(sep=',') | lower }}"{% endif %}
   >
     <h3>{{ page.title }}</h3>
     <p class="meta">

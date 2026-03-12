@@ -7,6 +7,7 @@ import csv
 import os
 import re
 import sys
+
 import yaml
 
 
@@ -45,23 +46,23 @@ def main():
     # Detect duplicate name slugs and disambiguate with city
     from collections import Counter
     slug_counts = Counter(slugify(e["name"]) for e in entries)
-    slug_seen = Counter()
 
     for entry in entries:
+        city = entry['city'][0]
         base_slug = slugify(entry["name"])
         if slug_counts[base_slug] > 1:
-            slug = f"{base_slug}-{slugify(entry['city'])}"
+            slug = f"{base_slug}-{slugify(city)}"
         else:
             slug = base_slug
         coords = entry.get("coords", [0, 0])
 
         frontmatter = f"""+++
 title = "{entry['name'].replace('"', '\\"')}"
-description = "{entry.get('description', '').replace('"', '\\"')}, {entry['city']}"
+description = "{entry.get('description', '').replace('"', '\\"')}, {city}"
 
 [taxonomies]
 states = ["{entry['state']}"]
-cities = ["{entry['city']}"]
+cities = ["{city}"]
 categories = {to_toml_array(entry.get('categories', []))}
 
 [extra]
@@ -71,8 +72,11 @@ lat = {coords[0]}
 lng = {coords[1]}
 url = "{entry.get('url', '')}"
 tags = {to_toml_array(entry.get('tags', []))}
-+++
+city = "{city}"
 """
+        if len(entry['city']) > 1:
+            frontmatter += f'city_aliases = {to_toml_array(entry["city"])}\n'
+        frontmatter += "+++\n"
         body = entry.get('description', '')
         filepath = os.path.join(content_dir, f"{slug}.md")
         with open(filepath, "w") as f:
@@ -83,6 +87,7 @@ tags = {to_toml_array(entry.get('tags', []))}
     static_dir = os.path.join(site_root, "static")
     os.makedirs(static_dir, exist_ok=True)
     csv_path = os.path.join(static_dir, "spaces.csv")
+
     with open(csv_path, "w", newline="") as f:
         writer = csv.writer(f)
         writer.writerow(["name", "city", "state", "address", "pincode", "lat", "lng", "url", "description", "categories", "tags"])
@@ -90,7 +95,7 @@ tags = {to_toml_array(entry.get('tags', []))}
             coords = entry.get("coords", [0, 0])
             writer.writerow([
                 entry["name"],
-                entry["city"],
+                city,
                 entry["state"],
                 entry.get("address", ""),
                 entry.get("pincode", ""),

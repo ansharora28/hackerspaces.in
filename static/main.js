@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const cityToState = {}, stateToCities = {};
   items.forEach(i => {
     i._text = i.textContent.toLowerCase();
+    i._aliases = (i.dataset.cityAliases || '').toLowerCase();
     const { city, state } = i.dataset;
     if (city && state) {
       cityToState[city] = state;
@@ -197,7 +198,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let n = 0;
     items.forEach(item => {
-      const show = (!q || item._text.includes(q)) && Object.entries(active).every(([k, v]) =>
+      const show = (!q || item._text.includes(q) || item._aliases.includes(q)) && Object.entries(active).every(([k, v]) =>
         k === 'category' ? v.some(x => item.dataset.categories.split(',').includes(x)) : v.includes(item.dataset[k])
       );
       item.hidden = !show;
