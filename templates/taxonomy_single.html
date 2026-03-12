@@ -1,16 +1,14 @@
 {% extends "layout.html" %}
 {% import "macros.html" as m %}
 
-{% block title %}{{ term.name }} / {{ config.title }}{% endblock %}
+{% block title %}{{ term.name }} {{ config.title }}{% endblock %}
 
 {% block meta %}<meta name="description" content="{{ term.name }} - {{ config.description }}">{% endblock %}
 
 {% block subtitle %}
-  {% if taxonomy.name == "categories" %}
-    <p><strong>{{ term.name }}</strong> spaces</p>
-  {% else %}
-    <p>Spaces in <strong>{{ term.name }}</strong></p>
-  {% endif %}
+  <p>
+    <a href="{{ get_url(path='/') }}">Home</a> / <strong>{{ term.name }}</strong>
+  </p>
 {% endblock %}
 
 {% block sidebar %}

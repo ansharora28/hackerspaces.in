@@ -4,7 +4,10 @@
   {% set tax = get_taxonomy(kind=taxonomy) %}
   {% for term in tax.items | sort(attribute="name") %}
     {% if term.name in values %}
-    <label><input type="checkbox" name="{{ name }}" value="{{ term.name }}" data-filter checked> {{ term.name }} <span class="light">({{ term.pages | length }})</span><a class="filter-link light" href="{{ term.permalink }}">View</a></label>
+    <label>
+      <input type="checkbox" name="{{ name }}" value="{{ term.name }}" data-filter checked> {{ term.name }}
+      <a class="filter-link" href="{{ term.permalink }}">({{ term.pages | length }})</a>
+    </label>
     {% endif %}
   {% endfor %}
 </fieldset>
