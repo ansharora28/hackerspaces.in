@@ -3726,3 +3726,43 @@
     - Arts
     - Performing Arts
     - Community
+
+- name: "Shri Ram Centre for Performing Arts"
+  city: ["New Delhi", "Delhi"]
+  state: "Delhi"
+  address: "4, Safdar Hashmi Marg, Mandi House"
+  pincode: "110001"
+  coords: [28.6270, 77.2329]
+  url: "https://www.srcpa.in"
+  description: "A premier cultural institution established in 1958, dedicated to promoting theatre, dance, and music, with a 403-seat auditorium and training programs."
+  categories:
+    - Performing Arts
+    - Arts
+  tags: []
+
+- name: "Karnataka Chitrakala Parishath (CKP)"
+  city: ["Bengaluru", "Bangalore"]
+  state: "Karnataka"
+  address: "Art Complex, 1, Kumarakrupa Road, Seshadripuram"
+  pincode: "560001"
+  coords: [12.9893, 77.5807]
+  url: "https://chitrakalaparishath.org"
+  description: "A visual arts complex established in 1960, housing 18 galleries of paintings, sculptures, and folk art, along with a college of fine arts."
+  categories:
+    - Arts
+    - Culture
+    - Education
+  tags: []
+
+- name: "The HIVE"
+  city: ["Ahmedabad"]
+  state: "Gujarat"
+  address: "11, Ashwamegh Bungalows Part 2, Near Shivranjani, Satellite Road, Jodhpur Village"
+  pincode: "380015"
+  coords: [23.0207, 72.5306]
+  url: "https://www.the-hive.in"
+  description: "A creative community space for learning, expression, and gathering, offering workshops and activities across fine, performing, and visual arts."
+  categories:
+    - Arts
+    - Community
+  tags: []
