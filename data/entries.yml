@@ -3899,3 +3899,76 @@
     - Education
   tags:
     - stem
+
+- name: "Loco Community & Co-working Space"
+  city: ["Secunderabad", "Hyderabad"]
+  state: "Telangana"
+  address: "SBH Colony, Tirumalagiri"
+  pincode: "500015"
+  coords: [17.4703, 78.5078]
+  description: "A community-oriented co-working space in Secunderabad offering shared desks and collaborative work environment."
+  categories:
+    - Community
+    - Innovation
+  tags:
+    - coworking
+
+- name: "Kalimpong Science Centre"
+  city: ["Kalimpong"]
+  state: "West Bengal"
+  address: "Deolo"
+  pincode: "734316"
+  coords: [27.0888, 88.5026]
+  url: "https://kalimpongsciencecentre.org"
+  description: "A National Council of Science Museums facility spread over 7 acres, with interactive science galleries, a 3D theatre, and an outdoor park."
+  categories:
+    - Science
+    - Education
+  tags:
+    - ncsm
+    - government
+    - free-entry
+
+- name: "Theatre Flamingo - TF Actors Lab"
+  city: ["Canacona"]
+  state: "Goa"
+  address: "Mhalwada, Poinguinim"
+  pincode: "403702"
+  coords: [14.9675, 74.0866]
+  url: "https://www.facebook.com/theatreflamingo"
+  description: "A village residency space for experimental theatre and research in performing arts, hosting workshops, shows, and art-integrated teacher training programmes."
+  categories:
+    - Performing Arts
+    - Education
+  tags:
+    - residency
+    - theatre-flamingo
+
+- name: "TF Studios"
+  city: ["Panaji", "Panjim"]
+  state: "Goa"
+  address: "Kadamba Plateau, Above Bagayatdar Bazar, Panelim"
+  pincode: "403402"
+  coords: [15.4893, 73.8911]
+  url: "https://www.facebook.com/theatreflamingo"
+  description: "Theatre Flamingo's studio space in Panaji for theatre rehearsals, workshops, and productions."
+  categories:
+    - Performing Arts
+  tags:
+    - studios
+    - theatre-flamingo
+
+- name: "Thrissur Public Library"
+  city: ["Thrissur", "Trichur"]
+  state: "Kerala"
+  address: "Town Hall Complex, Palace Road, Chembukkavu"
+  pincode: "680020"
+  coords: [10.5297, 76.2180]
+  url: "https://trichurpubliclibrary.org"
+  description: "One of Kerala's oldest public libraries, established in 1873, housed in the historic Town Hall and the first fully computerised library in the state."
+  categories:
+    - Library
+    - Community
+  tags:
+    - heritage-building
+    - free-entry
