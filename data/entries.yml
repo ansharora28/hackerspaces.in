@@ -11,7 +11,6 @@
   description: "A self-designed learning centre for remote agricultural and fruit-farming communities."
   categories:
     - Education
-    - Community
   tags:
     - project-defy
     - rural
@@ -27,7 +26,6 @@
   description: "A rural makerspace focused on experiential learning and vocational tinkering."
   categories:
     - Makerspace
-    - Education
   tags:
     - project-defy
     - rural
@@ -42,7 +40,6 @@
   url: "https://projectdefy.org"
   description: "A community-led hub for creative projects, science, and traditional crafts."
   categories:
-    - Community
     - Education
   tags:
     - project-defy
@@ -59,7 +56,6 @@
   description: "Provides urban youth in marginalized areas a space for creative making."
   categories:
     - Makerspace
-    - Community
   tags:
     - project-defy
     - youth
@@ -75,7 +71,6 @@
   description: "A hub for technical tinkering and project building in a peri-urban context."
   categories:
     - Makerspace
-    - Education
   tags:
     - project-defy
     - rural
@@ -90,7 +85,6 @@
   description: "A centre for democratic learning and constitutional literacy for rural citizens, providing political and social education for villagers."
   categories:
     - Education
-    - Community
   tags:
     - rural
     - social-justice
@@ -106,7 +100,6 @@
   description: "An alternative art space providing residencies, mentorship, and workshops."
   categories:
     - Arts
-    - Culture
   tags:
     - residency
 
@@ -119,9 +112,7 @@
   url: "http://www.conflictorium.org"
   description: "A participatory museum addressing conflict and empathy through art and archives."
   categories:
-    - Arts
-    - Culture
-    - Community
+    - Museum
   tags:
     - social-justice
     - heritage-building
@@ -136,7 +127,6 @@
   description: "An autonomous non-profit contemporary arts organisation supporting experimental, interdisciplinary, and socially engaged art. The building includes exhibition spaces, studios, library, media lab, café, and terrace."
   categories:
     - Arts
-    - Community
   tags:
     - residency
     - cafe
@@ -152,8 +142,6 @@
   description: "A non-profit arts initiative with galleries, workshops, lectures, library, amphitheatre, and support for art students and exchange."
   categories:
     - Arts
-    - Culture
-    - Education
   tags:
     - outdoor-venue
     - free-entry
@@ -167,7 +155,6 @@
   description: "A repository of South Asian art and living traditions focused on education."
   categories:
     - Arts
-    - Culture
   tags: []
 
 - name: "Method Gallery"
@@ -180,7 +167,6 @@
   description: "An art space hosting storytelling, poetry nights, and community dinners."
   categories:
     - Arts
-    - Community
   tags:
     - literature
 
@@ -193,7 +179,6 @@
   description: "A multidisciplinary space for writing labs, poetry circles, and creative labs."
   categories:
     - Arts
-    - Culture
   tags:
     - literature
 
@@ -205,8 +190,6 @@
   url: "https://attagalatta.com"
   description: "A bookstore-turned-cultural-hub for literature, poetry, and theatre workshops."
   categories:
-    - Arts
-    - Performing Arts
     - Library
   tags:
     - literature
@@ -220,8 +203,6 @@
   description: "A heritage waterfront cultural complex with studios, café, gallery, art library, residency, and exhibition space."
   categories:
     - Arts
-    - Culture
-    - Library
   tags:
     - heritage-building
     - residency
@@ -238,7 +219,6 @@
   description: "A restored bungalow hosting contemporary art and cultural performances."
   categories:
     - Arts
-    - Culture
   tags:
     - heritage-building
 
@@ -251,8 +231,6 @@
   description: "A free, community-led library movement serving the urban and rural poor."
   categories:
     - Library
-    - Education
-    - Community
   tags:
     - free-entry
     - social-justice
@@ -266,7 +244,6 @@
   description: "A rural library providing educational resources and a safe gathering space for villagers."
   categories:
     - Library
-    - Community
   tags:
     - rural
     - free-entry
@@ -279,7 +256,6 @@
   url: "https://fln.org.in"
   description: "Focuses on capacity building and literacy in rural Assamese communities."
   categories:
-    - Education
     - Library
   tags:
     - rural
@@ -306,7 +282,6 @@
   url: "https://shareabookindia.org"
   description: "A foundation that sets up libraries in government schools and remote areas."
   categories:
-    - Education
     - Library
   tags:
     - rural
@@ -323,7 +298,6 @@
   description: "Creates libraries and spaces for expression for young people in institutions."
   categories:
     - Library
-    - Community
   tags:
     - youth
     - social-justice
@@ -338,7 +312,6 @@
   description: "A community space for marginalized women to gather and share stories through art."
   categories:
     - Arts
-    - Community
   tags:
     - women
     - social-justice
@@ -353,8 +326,6 @@
   description: "A globally recognized community makerspace and learning hub for innovation, prototyping, STEAM, and sustainable design. Artists, designers, engineers, and hobbyists build and share knowledge."
   categories:
     - Makerspace
-    - Innovation
-    - Community
   tags:
     - sustainability
     - coworking
@@ -369,7 +340,6 @@
   description: "A pioneer in rural innovation, focusing on engineering, energy, and agri-tech."
   categories:
     - Makerspace
-    - Education
   tags:
     - rural
     - sustainability
@@ -384,7 +354,6 @@
   description: "A cross-disciplinary design research space for collaborative project-making."
   categories:
     - Makerspace
-    - Innovation
   tags: []
 
 - name: "Fab Lab Kerala - Kochi"
@@ -397,7 +366,6 @@
   description: "Kerala Startup Mission fablab for advanced digital fabrication, prototyping, and entrepreneurship."
   categories:
     - Makerspace
-    - Innovation
   tags:
     - fablab
     - government
@@ -412,7 +380,6 @@
   description: "A co-working and prototyping space focused on hardware and public engineering."
   categories:
     - Makerspace
-    - Innovation
   tags:
     - coworking
 
@@ -425,8 +392,6 @@
   description: "Blurs the lines between a makerspace, co-working, and community hub."
   categories:
     - Makerspace
-    - Innovation
-    - Community
   tags:
     - coworking
 
@@ -438,7 +403,6 @@
   url: "https://ikpeden.com"
   description: "A hardware incubator and makerspace focusing on medical devices and engineering."
   categories:
-    - Makerspace
     - Innovation
   tags: []
 
@@ -451,7 +415,6 @@
   description: "Provides tools and mentorship for hands-on learning in STEM for all ages."
   categories:
     - Makerspace
-    - Education
   tags:
     - stem
     - children
@@ -466,7 +429,6 @@
   description: "A digital fabrication lab hosted by CEPT that allows users to work for free if they bring materials. Serves makers, researchers, and creative thinkers."
   categories:
     - Makerspace
-    - Innovation
   tags:
     - fablab
     - free-entry
@@ -480,7 +442,6 @@
   description: "A budget-friendly makerspace providing student-level access to 3D printers."
   categories:
     - Makerspace
-    - Education
   tags:
     - youth
 
@@ -493,7 +454,6 @@
   description: "A premier national science centre featuring an Innovation Hub and major galleries."
   categories:
     - Science
-    - Innovation
   tags:
     - ncsm
     - government
@@ -524,7 +484,6 @@
   description: "India's largest interactive science centre with over 500 hands-on exhibits."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -540,7 +499,7 @@
   description: "A landmark national centre focused on industrial history and modern technological innovation."
   categories:
     - Science
-    - Education
+    - Museum
   tags:
     - ncsm
     - government
@@ -556,7 +515,7 @@
   description: "The first science museum in India, featuring a specialized Innovation Hub."
   categories:
     - Science
-    - Innovation
+    - Museum
   tags:
     - ncsm
     - government
@@ -571,7 +530,6 @@
   description: "An expansive science park and innovation hub serving Northern India."
   categories:
     - Science
-    - Innovation
   tags:
     - ncsm
     - government
@@ -586,7 +544,6 @@
   description: "A massive science complex covering biotechnology, robotics, and space exploration."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -601,8 +558,6 @@
   description: "A community science centre promoting scientific temper among students and the public."
   categories:
     - Science
-    - Community
-    - Education
   tags:
     - stem
     - free-entry
@@ -617,7 +572,6 @@
   description: "A centre focusing on the ecology and science of the Himalayan region."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -632,7 +586,6 @@
   description: "Focuses on oceanography and environmental sciences relevant to the coastal region."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -647,7 +600,6 @@
   description: "The primary science education hub for the North Eastern states."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -662,7 +614,6 @@
   description: "Focused on promoting scientific literacy in Central India through interactive exhibits."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -678,7 +629,6 @@
   description: "A key centre for the promotion of science and technology in Nagaland."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -693,7 +643,6 @@
   description: "Focuses on high-altitude ecology and physical sciences for the Himalayas."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -707,7 +656,6 @@
   description: "Integrated within a biological park, focusing on biodiversity and physical science."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -721,7 +669,6 @@
   description: "Major public science centre in the NCSM network with exhibitions and science-learning programming."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -736,7 +683,6 @@
   description: "Public science centre in the NCSM network."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -750,7 +696,6 @@
   description: "Regional public science centre under NCSM."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -764,7 +709,6 @@
   description: "District-level public science centre in the NCSM network."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -778,7 +722,6 @@
   description: "Public science centre serving local learning and exhibition functions."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -792,7 +735,6 @@
   description: "Coastal public science centre in the NCSM network."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -820,7 +762,6 @@
   description: "Public science centre under NCSM."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -834,7 +775,6 @@
   description: "Public science-learning centre in the NCSM system, with the adjoining Kapilas Science Park."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -848,7 +788,6 @@
   description: "Regional public science centre under NCSM."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -863,7 +802,6 @@
   description: "District science centre in the NCSM network."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -877,8 +815,6 @@
   description: "Panorama-plus-science centre combining heritage interpretation and science education."
   categories:
     - Science
-    - Culture
-    - Education
   tags:
     - ncsm
     - government
@@ -892,7 +828,6 @@
   description: "Public science centre in Himachal Pradesh within the NCSM system."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -906,7 +841,6 @@
   description: "Regional science centre serving the wider region."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -920,7 +854,6 @@
   description: "District science centre in Karnataka under NCSM."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -934,7 +867,6 @@
   description: "Public district science centre in south Tamil Nadu."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -948,7 +880,6 @@
   description: "Regional science centre and planetarium under NCSM."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -964,8 +895,6 @@
   description: "Public innovation hub inside the Tamil Nadu Science and Technology Centre network, focused on hands-on problem solving and science learning."
   categories:
     - Science
-    - Innovation
-    - Education
   tags:
     - government
     - stem
@@ -980,7 +909,6 @@
   description: "Immersive science gallery and living lab for hands-on learning, exhibits, workshops, and public engagement."
   categories:
     - Science
-    - Education
   tags:
     - stem
 
@@ -994,7 +922,6 @@
   description: "Government-backed open-for-all prototyping centre designed to reduce barriers to hardware building and support innovators, students, startups, and makers."
   categories:
     - Makerspace
-    - Innovation
   tags:
     - government
 
@@ -1008,7 +935,6 @@
   description: "Large innovation hub for startups, open innovation, community events, and entrepreneurial ecosystem building."
   categories:
     - Innovation
-    - Community
   tags: []
 
 - name: "Samagata Space"
@@ -1021,7 +947,6 @@
   description: "Non-profit community venue for meetups, workshops, and cross-disciplinary conversations spanning social sector, academia, science, arts, technology, and culture."
   categories:
     - Community
-    - Culture
   tags:
     - free-entry
 
@@ -1034,7 +959,6 @@
   url: "https://bangaloreinternationalcentre.org"
   description: "Non-profit public institution for dialogue, culture, talks, screenings, and performances; many programmes are free and open to non-members."
   categories:
-    - Culture
     - Community
   tags:
     - free-entry
@@ -1049,7 +973,6 @@
   description: "Collaborative community platform working across arts research, public arts, tech-arts, and urban/community issues."
   categories:
     - Arts
-    - Community
     - Innovation
   tags: []
 
@@ -1062,8 +985,6 @@
   description: "Community of makers running open workshops and activities around electronics, robotics, fabrication, and open-source creativity."
   categories:
     - Makerspace
-    - Education
-    - Community
   tags:
     - stem
 
@@ -1077,7 +998,6 @@
   description: "Contemporary art space fostering exhibitions, discussion, mentorship, and cultural dialogue in Hyderabad."
   categories:
     - Arts
-    - Culture
   tags: []
 
 - name: "Dhi Contemporary"
@@ -1090,7 +1010,6 @@
   description: "Sister initiative of Dhi Artspace focused on younger artistic talent through exhibitions, performances, screenings, and commissions."
   categories:
     - Arts
-    - Culture
   tags:
     - youth
     - film
@@ -1104,8 +1023,6 @@
   description: "Community-oriented makerspace initiative for learning and making."
   categories:
     - Makerspace
-    - Education
-    - Community
   tags: []
 
 - name: "SPACE @ ICCI"
@@ -1118,8 +1035,6 @@
   description: "Dedicated art, culture, and events platform created by ICCI as part of its culture-and-community focus."
   categories:
     - Arts
-    - Culture
-    - Community
   tags: []
 
 - name: "Chavara Cultural Centre"
@@ -1130,7 +1045,6 @@
   url: "https://chavaraculturalcentre.com"
   description: "Long-running cultural institution described as a secular space where art, faith, culture, and community come together."
   categories:
-    - Culture
     - Community
   tags: []
 
@@ -1143,7 +1057,6 @@
   url: "https://puneinternationalcentre.org"
   description: "Public-facing centre for intellectual exchange, culture, dialogue, and interdisciplinary programming with auditorium, amphitheatre, library, and art gallery."
   categories:
-    - Culture
     - Community
   tags:
     - outdoor-venue
@@ -1157,8 +1070,6 @@
   url: "https://raah.org.in"
   description: "Community platform for artistic and intellectual expression, literacy, events, and neighbourhood engagement."
   categories:
-    - Culture
-    - Community
     - Education
   tags:
     - literature
@@ -1173,8 +1084,6 @@
   description: "Intimate art and cultural space for classes, workshops, performances, and community-oriented creative learning."
   categories:
     - Arts
-    - Culture
-    - Community
   tags: []
 
 - name: "Lila Arts Centre"
@@ -1187,8 +1096,6 @@
   description: "Performance space and studio for dance, music, theatre, classes, and shared practice."
   categories:
     - Performing Arts
-    - Culture
-    - Education
   tags:
     - studios
 
@@ -1202,8 +1109,6 @@
   description: "Repurposed ice-factory cultural centre for architecture, design, art, dialogue, and community-building."
   categories:
     - Arts
-    - Culture
-    - Community
   tags:
     - heritage-building
 
@@ -1216,7 +1121,7 @@
   url: "https://indiahabitat.org"
   description: "One of Delhi's major cultural hubs with regular programmes in music, theatre, film, talks, poetry, book launches, and exhibitions. Includes multiple performance venues such as the Stein Auditorium."
   categories:
-    - Culture
+    - Arts
     - Performing Arts
   tags:
     - film
@@ -1233,7 +1138,7 @@
   description: "Premier cultural and intellectual institution where public lectures, seminars, conferences, and arts programmes are open to the wider city."
   categories:
     - Culture
-    - Community
+    - Library
   tags:
     - membership-required
 
@@ -1247,7 +1152,6 @@
   description: "Non-profit creativity centre with library, conservation lab, gallery store, talks, workshops, performances, and interdisciplinary arts programming."
   categories:
     - Arts
-    - Culture
     - Library
   tags: []
 
@@ -1261,7 +1165,6 @@
   description: "Nonprofit multidisciplinary centre with free public galleries, performances, public programmes, and exhibitions spanning visual, performing, literary, and research practices."
   categories:
     - Arts
-    - Culture
     - Performing Arts
   tags:
     - free-entry
@@ -1276,7 +1179,6 @@
   description: "Visual-arts venue used for exhibitions and artistic programming on the CEPT/KL campus."
   categories:
     - Arts
-    - Culture
   tags: []
 
 - name: "Goethe-Institut / Max Mueller Bhavan Bengaluru"
@@ -1289,7 +1191,6 @@
   description: "Cultural institute with library, courses, screenings, exhibitions, workshops, and collaborations in art, science, and media."
   categories:
     - Culture
-    - Arts
     - Library
   tags:
     - goethe-institut
@@ -1305,7 +1206,6 @@
   description: "Cultural institute with library, courses, and programmes across film, new media, arts, theatre, dance, music, literature, and architecture."
   categories:
     - Culture
-    - Arts
     - Library
   tags:
     - goethe-institut
@@ -1321,7 +1221,6 @@
   description: "Cultural institute with gallery, library, courses, and interdisciplinary programmes in art, cinema, theatre, dance, and literature."
   categories:
     - Culture
-    - Arts
     - Library
   tags:
     - goethe-institut
@@ -1351,7 +1250,6 @@
   description: "Cultural institute with library, exhibitions, courses, and ongoing cultural exchange programming."
   categories:
     - Culture
-    - Arts
     - Library
   tags:
     - goethe-institut
@@ -1393,7 +1291,6 @@
   description: "Indo-French cultural centre with screenings, performances, exhibitions, classes, and a long-standing public cultural programme."
   categories:
     - Culture
-    - Performing Arts
   tags:
     - alliance-francaise
     - film
@@ -1409,7 +1306,6 @@
   categories:
     - Culture
     - Library
-    - Community
   tags:
     - alliance-francaise
     - film
@@ -1424,7 +1320,6 @@
   description: "Vadodara branch of Alliance Française d'Ahmedabad; public cultural and language centre."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1451,7 +1346,6 @@
   description: "Branch of Alliance Française de Bhopal serving Indore with courses and cultural activities."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1464,7 +1358,6 @@
   description: "Official Alliance Française centre in Chandigarh."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1477,7 +1370,6 @@
   description: "Official Alliance Française centre in Chennai."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1490,7 +1382,6 @@
   description: "Official Alliance Française centre in Goa."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1503,7 +1394,6 @@
   description: "Official Alliance Française centre in Hyderabad."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1516,7 +1406,6 @@
   description: "Official Alliance Française centre in Jaipur."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1529,7 +1418,6 @@
   description: "Branch of Alliance Française under the Jaipur centre."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1543,7 +1431,6 @@
   categories:
     - Culture
     - Library
-    - Community
   tags:
     - alliance-francaise
     - film
@@ -1557,7 +1444,6 @@
   description: "Branch of Alliance Française under the Bengale centre."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1570,7 +1456,6 @@
   description: "Official Alliance Française centre in Puducherry."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1583,7 +1468,6 @@
   description: "Official Alliance Française centre in Karaikal."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1596,7 +1480,6 @@
   description: "Official Alliance Française centre in Pune."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1609,7 +1492,6 @@
   description: "Non-profit French cultural centre with regular screenings, concerts, exhibitions, and workshops."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
     - film
@@ -1623,7 +1505,6 @@
   description: "Annex centre under Alliance Française de Trivandrum."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1637,7 +1518,6 @@
   description: "Official French centre with auditorium, gallery, media centre, classes, and cultural events."
   categories:
     - Culture
-    - Arts
     - Library
   tags:
     - alliance-francaise
@@ -1653,7 +1533,6 @@
   description: "Official Alliance Française centre in Mahe."
   categories:
     - Culture
-    - Community
   tags:
     - alliance-francaise
 
@@ -1666,8 +1545,8 @@
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
-    - Library
     - Culture
+    - Library
   tags:
     - british-council
     - membership-required
@@ -1681,8 +1560,8 @@
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
-    - Library
     - Culture
+    - Library
   tags:
     - british-council
     - membership-required
@@ -1696,8 +1575,8 @@
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
-    - Library
     - Culture
+    - Library
   tags:
     - british-council
     - membership-required
@@ -1711,8 +1590,8 @@
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
-    - Library
     - Culture
+    - Library
   tags:
     - british-council
     - membership-required
@@ -1726,8 +1605,8 @@
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
-    - Library
     - Culture
+    - Library
   tags:
     - british-council
     - membership-required
@@ -1741,8 +1620,8 @@
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
-    - Library
     - Culture
+    - Library
   tags:
     - british-council
     - membership-required
@@ -1756,8 +1635,8 @@
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
-    - Library
     - Culture
+    - Library
   tags:
     - british-council
     - membership-required
@@ -1771,8 +1650,8 @@
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
-    - Library
     - Culture
+    - Library
   tags:
     - british-council
     - membership-required
@@ -1786,8 +1665,8 @@
   url: "https://www.britishcouncil.in"
   description: "Public library and cultural programming venue operated by the British Council."
   categories:
-    - Library
     - Culture
+    - Library
   tags:
     - british-council
     - membership-required
@@ -1802,8 +1681,6 @@
   description: "Public-facing fabrication lab created with Kerala Startup Mission to support entrepreneurship, learning, and innovation."
   categories:
     - Makerspace
-    - Innovation
-    - Education
   tags:
     - fablab
     - government
@@ -1818,7 +1695,6 @@
   description: "Fabrication lab and community innovation hub with workshops, training, and collaborative projects."
   categories:
     - Makerspace
-    - Education
   tags:
     - fablab
 
@@ -1832,7 +1708,6 @@
   description: "Community innovation lab for hands-on learning, prototyping, and local maker activity."
   categories:
     - Makerspace
-    - Education
   tags:
     - fablab
 
@@ -1846,7 +1721,6 @@
   description: "Digital fabrication lab aimed at engineering students and community innovation in NCR."
   categories:
     - Makerspace
-    - Education
   tags:
     - fablab
 
@@ -1860,7 +1734,6 @@
   description: "Part of the Fab Lab Chandigarh network; focused on hardware development and startup prototyping."
   categories:
     - Makerspace
-    - Innovation
   tags:
     - fablab
 
@@ -1873,7 +1746,6 @@
   description: "Fab lab intended to expand access to digital-fabrication technologies across the northern region."
   categories:
     - Makerspace
-    - Education
   tags:
     - fablab
 
@@ -1887,7 +1759,6 @@
   description: "Community digital fabrication lab and coworking-style maker environment open to varied age groups."
   categories:
     - Makerspace
-    - Community
   tags:
     - fablab
     - coworking
@@ -1902,8 +1773,6 @@
   description: "Rural fablab for tribal youth, local artisans, makers, and village-level problem solving."
   categories:
     - Makerspace
-    - Education
-    - Community
   tags:
     - fablab
     - rural
@@ -1919,7 +1788,6 @@
   description: "Large college-hosted makerspace with 3D printing, CNC, electronics, talks, hackathons, and makeathons."
   categories:
     - Makerspace
-    - Education
   tags:
     - youth
 
@@ -1933,8 +1801,6 @@
   description: "Public/open-access digital fabrication workshop welcoming everyone from children to entrepreneurs."
   categories:
     - Makerspace
-    - Innovation
-    - Education
   tags:
     - fablab
     - children
@@ -1949,8 +1815,6 @@
   description: "Multi-arts centre with galleries, auditorium, terrace, pop-up areas, and community programming across art, architecture, design, and craft."
   categories:
     - Arts
-    - Culture
-    - Community
   tags:
     - craft
 
@@ -1964,8 +1828,7 @@
   description: "Art institution with galleries, theatre, and open cultural programming."
   categories:
     - Arts
-    - Culture
-    - Education
+    - Performing Arts
   tags: []
 
 - name: "KNMA Saket"
@@ -1977,7 +1840,7 @@
   description: "Contemporary art museum with exhibitions, lectures, and education programmes."
   categories:
     - Arts
-    - Culture
+    - Museum
   tags:
     - knma
     - free-entry
@@ -1992,7 +1855,7 @@
   description: "Second KNMA location hosting exhibitions and public events."
   categories:
     - Arts
-    - Culture
+    - Museum
   tags:
     - knma
     - free-entry
@@ -2006,7 +1869,6 @@
   description: "Private art foundation and gallery space hosting exhibitions and residencies."
   categories:
     - Arts
-    - Community
   tags:
     - residency
 
@@ -2018,7 +1880,6 @@
   url: ""
   description: "Cultural venue hosting talks, seminars, and exhibitions."
   categories:
-    - Culture
     - Community
   tags: []
 
@@ -2031,7 +1892,6 @@
   description: "Foundation promoting arts, lectures, and literary dialogues."
   categories:
     - Arts
-    - Culture
   tags:
     - literature
 
@@ -2044,7 +1904,6 @@
   url: "https://delhitourism.gov.in"
   description: "Heritage building used for exhibitions, food festivals, and arts programming."
   categories:
-    - Culture
     - Arts
   tags:
     - heritage-building
@@ -2059,7 +1918,7 @@
   url: "https://delhitourism.gov.in"
   description: "Heritage cultural venue hosting exhibitions and cultural events."
   categories:
-    - Culture
+    - Performing Arts
   tags:
     - heritage-building
     - government
@@ -2073,8 +1932,6 @@
   description: "Independent art and theatre space supporting political and experimental performance."
   categories:
     - Performing Arts
-    - Arts
-    - Community
   tags:
     - social-justice
 
@@ -2087,7 +1944,6 @@
   url: "https://ignca.gov.in"
   description: "Indira Gandhi National Centre for the Arts - national cultural research centre with exhibitions, lectures, and performances."
   categories:
-    - Culture
     - Arts
   tags:
     - government
@@ -2101,8 +1957,7 @@
   url: "https://gandhismriti.gov.in"
   description: "Museum with workshops, dialogues, and cultural events."
   categories:
-    - Culture
-    - Education
+    - Museum
   tags:
     - government
     - heritage-building
@@ -2115,8 +1970,7 @@
   url: "https://ncraftsmuseum.nic.in"
   description: "Museum and craft hub with exhibitions, workshops, and festivals."
   categories:
-    - Culture
-    - Arts
+    - Museum
   tags:
     - government
     - craft
@@ -2131,7 +1985,6 @@
   description: "ICCR's flagship cultural centre in Kolkata with galleries, auditorium, seminar rooms, cultural events, workshops, and theatre."
   categories:
     - Culture
-    - Performing Arts
   tags:
     - iccr
     - government
@@ -2146,7 +1999,6 @@
   description: "ICCR sub-zonal cultural centre supporting cultural programming and exchange in Ahmedabad and Gujarat."
   categories:
     - Culture
-    - Community
   tags:
     - iccr
     - government
@@ -2161,7 +2013,6 @@
   description: "Cultural office embedded in the Shilpgram complex, with regular support for cultural organisations and monthly Horizon programmes."
   categories:
     - Culture
-    - Community
   tags:
     - iccr
     - government
@@ -2176,7 +2027,6 @@
   description: "Cultural centre in Brookside Cottage, active in promoting folk festivals, local music and dance, and wider Northeast cultural programming."
   categories:
     - Culture
-    - Community
     - Performing Arts
   tags:
     - iccr
@@ -2192,7 +2042,6 @@
   description: "Public-facing ICCR regional centre coordinating exhibitions, seminars, performances, and collaborations with local cultural organisations."
   categories:
     - Culture
-    - Community
   tags:
     - iccr
     - government
@@ -2207,7 +2056,6 @@
   description: "Mumbai ICCR regional centre coordinating exhibitions, cultural presentations, and exchange programmes."
   categories:
     - Culture
-    - Community
   tags:
     - iccr
     - government
@@ -2222,7 +2070,6 @@
   description: "Regional cultural centre coordinating exhibitions, seminars, and cultural delegations in Bihar and Jharkhand."
   categories:
     - Culture
-    - Community
   tags:
     - iccr
     - government
@@ -2238,7 +2085,6 @@
   categories:
     - Culture
     - Performing Arts
-    - Community
   tags:
     - iccr
     - government
@@ -2251,9 +2097,7 @@
   url: "https://kolkatainternationalfoundation.org"
   description: "Culture foundation operating a space with gallery, book corner, and space for seminars, readings, film shows, and creative activities."
   categories:
-    - Culture
     - Arts
-    - Community
   tags:
     - literature
     - film
@@ -2267,7 +2111,6 @@
   url: "https://nmacc.com"
   description: "Large multidisciplinary cultural centre with performing arts, visual arts, public art, and public-facing spaces including the Art House, Dhirubhai Ambani Square, and The Cube experimental performance venue."
   categories:
-    - Culture
     - Arts
     - Performing Arts
   tags: []
@@ -2281,9 +2124,7 @@
   url: "https://nehrucentremumbai.in"
   description: "Major cultural centre with art gallery, library, exposition galleries, exhibitions, and a culture wing promoting music, dance, drama, and lectures."
   categories:
-    - Culture
     - Arts
-    - Library
   tags:
     - government
 
@@ -2297,8 +2138,6 @@
   description: "Alternative arts and performance space hosting film, theatre, music, movement, and experimental community programming."
   categories:
     - Performing Arts
-    - Arts
-    - Community
   tags:
     - film
 
@@ -2312,8 +2151,6 @@
   description: "Collaborative gallery-stage-living-room style cultural space for events, workshops, mural activities, and emerging artistic voices."
   categories:
     - Arts
-    - Culture
-    - Community
   tags: []
 
 - name: "The Guild Art Gallery"
@@ -2325,7 +2162,6 @@
   description: "Contemporary art gallery that hosts exhibitions and discussions."
   categories:
     - Arts
-    - Culture
   tags: []
 
 - name: "Bhau Daji Lad Museum"
@@ -2336,8 +2172,7 @@
   url: "https://bdlamuseum.org"
   description: "Museum with active workshops, festivals, and community heritage programmes."
   categories:
-    - Culture
-    - Education
+    - Museum
   tags:
     - heritage-building
     - government
@@ -2351,8 +2186,6 @@
   description: "Historic theatre hub with festivals, cafés, workshops, and public programming."
   categories:
     - Performing Arts
-    - Culture
-    - Community
   tags:
     - cafe
 
@@ -2365,7 +2198,6 @@
   description: "Contemporary performance and arts space focused on experimental theatre and dance."
   categories:
     - Performing Arts
-    - Community
   tags: []
 
 - name: "Sabha"
@@ -2376,9 +2208,7 @@
   url: "https://sabhablr.in"
   description: "Inclusive public cultural space in a restored heritage building, designed for art, craft, culture, creative voices, and community reflection."
   categories:
-    - Culture
     - Arts
-    - Community
   tags:
     - heritage-building
     - craft
@@ -2392,8 +2222,6 @@
   description: "Community-oriented creative hub positioning itself as a sanctuary for artists and curious learners through workshops, events, and gatherings."
   categories:
     - Arts
-    - Community
-    - Education
   tags: []
 
 - name: "Jaipur Center of Culture and Arts"
@@ -2406,8 +2234,6 @@
   description: "Four-storey cultural centre created to support art engagement, exhibitions, workshops, and public cultural participation."
   categories:
     - Arts
-    - Culture
-    - Community
   tags: []
 
 - name: "Jaipur Centre for Art"
@@ -2420,7 +2246,6 @@
   description: "Contemporary art space in the City Palace precinct with platform programming for exhibitions and cross-disciplinary dialogue."
   categories:
     - Arts
-    - Culture
   tags:
     - heritage-building
 
@@ -2432,7 +2257,6 @@
   url: "https://jkk.artandculture.rajasthan.gov.in"
   description: "Major cultural complex with theatres, galleries, and public arts events."
   categories:
-    - Culture
     - Arts
     - Performing Arts
   tags:
@@ -2448,7 +2272,6 @@
   description: "Theatre and cultural venue used for festivals and performances."
   categories:
     - Performing Arts
-    - Culture
   tags:
     - government
 
@@ -2461,7 +2284,7 @@
   url: "https://rajasthan.gov.in"
   description: "Heritage venue occasionally used for cultural programming."
   categories:
-    - Culture
+    - Arts
   tags:
     - heritage-building
     - government
@@ -2475,7 +2298,6 @@
   url: "https://westzoneculturecentre.gov.in"
   description: "Crafts village and cultural hub hosting festivals and exhibitions."
   categories:
-    - Culture
     - Arts
   tags:
     - craft
@@ -2492,8 +2314,6 @@
   description: "Community-friendly art house for workshops, student showcases, and creative learning for different age groups."
   categories:
     - Arts
-    - Community
-    - Education
   tags:
     - children
 
@@ -2506,8 +2326,6 @@
   description: "India's largest self-supporting artists' village, with galleries, resident artistic community, and open-air theatre for discussions and conferences."
   categories:
     - Arts
-    - Community
-    - Culture
   tags:
     - residency
     - outdoor-venue
@@ -2521,8 +2339,7 @@
   url: "https://dakshinachitra.net"
   description: "Living heritage museum with workshops and cultural festivals."
   categories:
-    - Culture
-    - Education
+    - Museum
   tags:
     - heritage-building
     - craft
@@ -2549,8 +2366,6 @@
   description: "Outreach and cultural centre connecting traditional Kerala arts with schools, workshops, and weekend performances."
   categories:
     - Performing Arts
-    - Culture
-    - Education
   tags: []
 
 - name: "Kochi-Muziris Biennale Pavilion Spaces"
@@ -2562,7 +2377,6 @@
   description: "Network of exhibition venues activated during the biennale and residencies."
   categories:
     - Arts
-    - Community
   tags:
     - limited-access
     - residency
@@ -2576,7 +2390,6 @@
   description: "State gallery used for exhibitions and cultural programmes."
   categories:
     - Arts
-    - Culture
   tags:
     - government
 
@@ -2590,8 +2403,6 @@
   description: "Cultural organisation behind the Serendipity Arts Festival; runs year-round arts initiatives and collaborations."
   categories:
     - Arts
-    - Culture
-    - Community
   tags: []
 
 - name: "Museum of Goa"
@@ -2604,8 +2415,7 @@
   description: "Contemporary art museum with workshops, talks, and community art programming."
   categories:
     - Arts
-    - Community
-    - Education
+    - Museum
   tags: []
 
 - name: "Bharat Bhavan"
@@ -2617,7 +2427,6 @@
   description: "Landmark multi-arts complex with museums, theatre, and artist residencies."
   categories:
     - Arts
-    - Culture
     - Performing Arts
   tags:
     - government
@@ -2631,7 +2440,6 @@
   url: "https://mp.gov.in"
   description: "Cultural centre used for exhibitions and performing arts."
   categories:
-    - Culture
     - Performing Arts
   tags:
     - government
@@ -2646,7 +2454,6 @@
   description: "Government-run contemporary art centre and gallery with exhibitions and workshops."
   categories:
     - Arts
-    - Culture
   tags:
     - lalit-kala-akademi
     - government
@@ -2660,7 +2467,6 @@
   description: "National academy gallery hosting exhibitions, artists' events, and artist development."
   categories:
     - Arts
-    - Culture
   tags:
     - lalit-kala-akademi
     - government
@@ -2674,7 +2480,6 @@
   description: "Public art gallery and workshop space."
   categories:
     - Arts
-    - Culture
   tags:
     - lalit-kala-akademi
     - government
@@ -2688,7 +2493,6 @@
   description: "Art exhibitions and cultural programming."
   categories:
     - Arts
-    - Culture
   tags:
     - lalit-kala-akademi
     - government
@@ -2717,8 +2521,7 @@
   url: "https://heritagetransportmuseum.org"
   description: "Museum with interactive exhibits and education programmes."
   categories:
-    - Education
-    - Culture
+    - Museum
   tags: []
 
 - name: "Ravindra Bhavan"
@@ -2730,7 +2533,6 @@
   description: "State cultural centre used for theatre and public events."
   categories:
     - Performing Arts
-    - Culture
   tags:
     - government
 
@@ -2742,7 +2544,6 @@
   url: "https://wzculturecentre.gov.in"
   description: "Crafts and cultural complex hosting festivals and exhibitions."
   categories:
-    - Culture
     - Arts
   tags:
     - craft
@@ -2757,7 +2558,6 @@
   url: "https://northzoneculturecentre.gov.in"
   description: "Cultural complex hosting festivals, exhibitions, and craft fairs."
   categories:
-    - Culture
     - Arts
   tags:
     - craft
@@ -2774,7 +2574,6 @@
   description: "Cultural space hosting talks, exhibitions, and community events."
   categories:
     - Culture
-    - Community
   tags:
     - american-center
 
@@ -2788,7 +2587,6 @@
   description: "Public programming space for lectures, arts, and cultural exchange."
   categories:
     - Culture
-    - Community
   tags:
     - american-center
 
@@ -2802,7 +2600,6 @@
   description: "Kerala's first 24/7 public makerspace, a community-funded hub for hands-on learning and future technologies."
   categories:
     - Makerspace
-    - Community
   tags:
     - free-entry
     - stem
@@ -2818,7 +2615,6 @@
   description: "An intimate arts and community space hosting theatre, music, film screenings, and literary events."
   categories:
     - Arts
-    - Community
     - Performing Arts
   tags:
     - literature
@@ -2834,8 +2630,6 @@
   description: "A family-run cultural courtyard hosting live music, theatre, pop-up food, flea markets, and community gatherings."
   categories:
     - Arts
-    - Community
-    - Culture
   tags:
     - cafe
     - film
@@ -2850,7 +2644,6 @@
   description: "A community art space in a repurposed godown near the beach, hosting exhibitions, performances, and flea markets."
   categories:
     - Arts
-    - Community
   tags:
     - heritage-building
 
@@ -2864,7 +2657,6 @@
   description: "A dedicated theatre space hosting 400+ plays a year, with a 320-seat auditorium and outreach programmes."
   categories:
     - Performing Arts
-    - Community
   tags:
     - cafe
 
@@ -2919,7 +2711,6 @@
   description: "Award-winning performing arts centre with daily Kathakali, Kalaripayattu, and Mohiniyattam shows."
   categories:
     - Performing Arts
-    - Culture
   tags: []
 
 - name: "Kerala Kalamandalam"
@@ -2933,7 +2724,6 @@
   categories:
     - Performing Arts
     - Education
-    - Culture
   tags:
     - institutional
     - heritage-building
@@ -2948,8 +2738,6 @@
   description: "A 20-acre riverside crafts village with 60 artisan cottages, live workshops, and an annual international crafts festival."
   categories:
     - Arts
-    - Community
-    - Culture
   tags:
     - craft
     - government
@@ -2965,7 +2753,6 @@
   description: "Kerala's oldest theatre organisation with the Thoppil Bhasi Auditorium, pioneering socially conscious drama since the 1950s."
   categories:
     - Performing Arts
-    - Community
   tags: []
 
 - name: "Lokadharmi Nadakaveedu"
@@ -2978,8 +2765,6 @@
   description: "A theatre campus with rehearsal halls, open-air stages, and residential facilities for a 500-member artist community."
   categories:
     - Performing Arts
-    - Community
-    - Education
   tags:
     - residency
 
@@ -2993,7 +2778,6 @@
   description: "A community theatre space offering drama training, workshops, and performances."
   categories:
     - Performing Arts
-    - Community
   tags: []
 
 - name: "A Ware Community Space"
@@ -3006,7 +2790,6 @@
   description: "A membership-based pottery and ceramics studio space for creators to work collaboratively."
   categories:
     - Arts
-    - Community
   tags:
     - membership-required
     - craft
@@ -3021,8 +2804,7 @@
   url: "https://indianmusicexperience.org"
   description: "India's first interactive music museum with nine galleries, a sound garden, and a learning centre."
   categories:
-    - Culture
-    - Education
+    - Museum
   tags: []
 
 - name: "Indian Institute of World Culture"
@@ -3034,9 +2816,7 @@
   url: "https://iiwc.in"
   description: "A cultural institution with a library, art gallery, and lecture hall hosting ~150 programs annually."
   categories:
-    - Culture
     - Library
-    - Arts
   tags:
     - heritage-building
 
@@ -3050,7 +2830,6 @@
   description: "An independent bookstore, lending library, and cafe with a curated collection and regular literary events."
   categories:
     - Library
-    - Culture
   tags:
     - cafe
     - literature
@@ -3065,7 +2844,6 @@
   description: "A 21-acre public park and former colonial prison with a jail museum, book museum, and space for public gatherings."
   categories:
     - Community
-    - Culture
   tags:
     - free-entry
     - outdoor-venue
@@ -3082,7 +2860,6 @@
   description: "A nonprofit STEM makerspace with 3D printers, laser cutters, and tools, open to the public via day passes."
   categories:
     - Makerspace
-    - Education
   tags:
     - stem
     - children
@@ -3097,7 +2874,6 @@
   description: "A nonprofit creative arts space in a duplex house, hosting performances, art events, and coworking."
   categories:
     - Arts
-    - Community
   tags:
     - coworking
     - film
@@ -3112,8 +2888,6 @@
   description: "A 20,000 sqft repurposed warehouse with a sustainability museum, edible gardens, and arts and community event space."
   categories:
     - Arts
-    - Community
-    - Innovation
   tags:
     - sustainability
     - craft
@@ -3128,7 +2902,6 @@
   description: "A 100-year-old heritage house turned community space with an art gallery, library, coworking studio, and regular cultural events."
   categories:
     - Arts
-    - Community
   tags:
     - coworking
     - heritage-building
@@ -3145,7 +2918,6 @@
   description: "A contemporary art gallery founded in 2010, serving as an incubator for young South Asian artists with regular public exhibitions and events."
   categories:
     - Arts
-    - Culture
 
 - name: "Chemould Prescott Road"
   city: ["Mumbai", "Bombay"]
@@ -3157,7 +2929,6 @@
   description: "One of India's oldest contemporary art galleries, founded in 1963, instrumental in building the careers of major Indian artists."
   categories:
     - Arts
-    - Culture
 
 - name: "Chatterjee & Lal"
   city: ["Mumbai", "Bombay"]
@@ -3169,7 +2940,6 @@
   description: "A Colaba gallery founded in 2003, focusing on emerging and mid-career artists with strong conceptual practices."
   categories:
     - Arts
-    - Culture
 
 - name: "Jhaveri Contemporary"
   city: ["Mumbai", "Bombay"]
@@ -3181,7 +2951,6 @@
   description: "A gallery representing artists across generations whose practices are informed by South Asian connections and traditions."
   categories:
     - Arts
-    - Culture
 
 - name: "Akara Art"
   city: ["Mumbai", "Bombay"]
@@ -3193,7 +2962,6 @@
   description: "Two gallery spaces - Akara Modern and Akara Contemporary - showcasing modern Indian art and next-generation South Asian artists."
   categories:
     - Arts
-    - Culture
 
 - name: "Project 88"
   city: ["Mumbai", "Bombay"]
@@ -3205,7 +2973,6 @@
   description: "A gallery in a restored century-old metal printing press, specialising in experimental and conceptually rigorous contemporary art."
   categories:
     - Arts
-    - Culture
   tags:
     - heritage-building
 
@@ -3219,7 +2986,6 @@
   description: "One of Mumbai's longest-running contemporary art galleries, founded in 1986, with a record of showing major Indian artists."
   categories:
     - Arts
-    - Culture
 
 - name: "Gallery Maskara"
   city: ["Mumbai", "Bombay"]
@@ -3231,7 +2997,6 @@
   description: "A contemporary art gallery in a restored pre-independence cotton warehouse, exhibiting Indian and international artists."
   categories:
     - Arts
-    - Culture
   tags:
     - heritage-building
 
@@ -3245,7 +3010,6 @@
   description: "A curatorial collaborative and union of artists hosting exhibitions, residencies, and discursive programmes rooted in communitarianism."
   categories:
     - Arts
-    - Community
   tags:
     - residency
 
@@ -3259,7 +3023,6 @@
   description: "India's first gallery at the intersection of art, craft, and design, hosting exhibitions, workshops, talks, and artisan marketplaces."
   categories:
     - Arts
-    - Community
   tags:
     - craft
 
@@ -3272,8 +3035,7 @@
   url: "https://hackmum.in"
   description: "Mumbai's largest open-source tech community, bringing together developers, designers, and makers for meetups, workshops, and hackathons."
   categories:
-    - Innovation
-    - Community
+    - Makerspace
 
 - name: "Somaiya RiiDL"
   city: ["Mumbai", "Bombay"]
@@ -3284,7 +3046,6 @@
   url: "https://riidl.org"
   description: "A multidisciplinary innovation hub and FabLab offering open access to digital fabrication tools, a DIY bio lab, and startup incubation."
   categories:
-    - Makerspace
     - Innovation
   tags:
     - fablab
@@ -3300,7 +3061,6 @@
   description: "A STEM education and innovation hub providing experiential learning in coding, robotics, AI, and 3D printing for children and youth."
   categories:
     - Education
-    - Science
   tags:
     - stem
     - children
@@ -3314,8 +3074,7 @@
   url: "https://www.kitabkhana.in"
   description: "An independent bookshop in a 150-year-old heritage building, with a curated collection, in-house café, and community literary events."
   categories:
-    - Culture
-    - Community
+    - Library
   tags:
     - literature
     - heritage-building
@@ -3331,7 +3090,6 @@
   description: "One of India's oldest learned societies (est. 1804), housed in the landmark Town Hall, with a public library of over 100,000 books and rare manuscripts."
   categories:
     - Library
-    - Culture
   tags:
     - heritage-building
     - membership-required
@@ -3360,7 +3118,6 @@
   description: "A Victorian Neo-Gothic heritage library established in 1870 in the Kala Ghoda arts district, recently restored and reopened in 2023."
   categories:
     - Library
-    - Culture
   tags:
     - heritage-building
     - membership-required
@@ -3389,7 +3146,6 @@
   description: "India's premier multi-venue performing arts centre, hosting over 700 events annually across music, dance, theatre, and film."
   categories:
     - Performing Arts
-    - Culture
 
 - name: "Film Heritage Foundation"
   city: ["Mumbai", "Bombay"]
@@ -3400,8 +3156,7 @@
   url: "https://filmheritagefoundation.co.in"
   description: "A non-profit dedicated to film preservation and restoration, hosting free public screenings of classic and restored films and annual workshops."
   categories:
-    - Culture
-    - Education
+    - Arts
   tags:
     - film
     - free-entry
@@ -3430,7 +3185,6 @@
   description: "India's first outdoor museum park featuring waste-to-art sculptures and installations depicting Indian freedom fighters and historical eras, built from 250 tonnes of scrap."
   categories:
     - Arts
-    - Culture
   tags:
     - outdoor-venue
     - government
@@ -3445,7 +3199,6 @@
   description: "An open-air art gallery and creative platform at Nehru Park, featuring curated exhibitions, live demos, workshops, and community art events with free public entry."
   categories:
     - Arts
-    - Community
   tags:
     - outdoor-venue
     - free-entry
@@ -3461,7 +3214,6 @@
   description: "Delhi's first bamboo-themed park spanning 10 hectares on the Yamuna floodplains, with over 30,000 bamboo plants of 15 varieties and a musical fountain."
   categories:
     - Community
-    - Culture
   tags:
     - outdoor-venue
     - sustainability
@@ -3477,7 +3229,6 @@
   description: "One of Asia's largest public libraries with over 1.2 million books across multiple floors, established by the Government of Tamil Nadu."
   categories:
     - Library
-    - Education
   tags:
     - government
     - free-entry
@@ -3492,7 +3243,6 @@
   description: "A modern public library inaugurated in 2023, one of the largest in South India, named after former Chief Minister M. Karunanidhi."
   categories:
     - Library
-    - Education
   tags:
     - government
     - free-entry
@@ -3507,7 +3257,6 @@
   description: "Established in 1890, one of India's four National Depository Libraries housed in a heritage building, receiving a copy of all publications in India."
   categories:
     - Library
-    - Education
   tags:
     - government
     - heritage-building
@@ -3523,7 +3272,6 @@
   description: "A research library specializing in Tamil studies, housing over 500,000 items across the humanities, social sciences, and sciences."
   categories:
     - Library
-    - Education
   tags:
     - free-entry
 
@@ -3536,7 +3284,6 @@
   description: "A government research library within the Connemara campus, named after Tamil scholar and social reformer Maraimalai Adigal."
   categories:
     - Library
-    - Education
   tags:
     - government
     - heritage-building
@@ -3552,7 +3299,6 @@
   description: "Established in 1943 in memory of the eminent Tamil scholar, housing his personal collection of rare manuscripts, diaries, and classical Tamil literature."
   categories:
     - Library
-    - Culture
   tags:
     - heritage-building
 
@@ -3566,7 +3312,6 @@
   description: "A premier research centre for Eastern philosophy, religion, and culture within the Theosophical Society campus, holding rare manuscripts and palm-leaf collections."
   categories:
     - Library
-    - Culture
   tags:
     - heritage-building
 
@@ -3579,7 +3324,6 @@
   description: "Founded in 1817, one of India's oldest literary societies and functioning libraries, housed in a heritage red sandstone building with around 50,000 books."
   categories:
     - Library
-    - Culture
   tags:
     - heritage-building
     - membership-required
@@ -3620,7 +3364,6 @@
   description: "Contemporary art gallery founded in 1997, offering exhibitions, art education, and art therapy programmes including outreach to underserved communities."
   categories:
     - Arts
-    - Community
   tags:
     - free-entry
 
@@ -3685,7 +3428,6 @@
   description: "Exhibition complex within the historic artists' village, housing the Museum of the Madras Movement, two commercial galleries, and a sculpture park."
   categories:
     - Arts
-    - Culture
 
 - name: "Backyard"
   city: ["Chennai", "Madras"]
@@ -3697,7 +3439,6 @@
   description: "A creative hub and anti-café in Adyar hosting live music, open mics, comedy shows, art workshops, and community gatherings with a pay-per-time model."
   categories:
     - Arts
-    - Community
   tags:
     - cafe
     - coworking
@@ -3712,8 +3453,6 @@
   description: "A black box theatre dedicated to performing arts, hosting dance, music, theatre, comedy, and workshops with capacity for 200–300 people."
   categories:
     - Performing Arts
-    - Arts
-    - Community
 
 - name: "Spaces"
   city: ["Chennai", "Madras"]
@@ -3725,7 +3464,6 @@
   categories:
     - Arts
     - Performing Arts
-    - Community
 
 - name: "Shri Ram Centre for Performing Arts"
   city: ["New Delhi", "Delhi"]
@@ -3737,7 +3475,6 @@
   description: "A premier cultural institution established in 1958, dedicated to promoting theatre, dance, and music, with a 403-seat auditorium and training programs."
   categories:
     - Performing Arts
-    - Arts
   tags: []
 
 - name: "Karnataka Chitrakala Parishath (CKP)"
@@ -3750,8 +3487,6 @@
   description: "A visual arts complex established in 1960, housing 18 galleries of paintings, sculptures, and folk art, along with a college of fine arts."
   categories:
     - Arts
-    - Culture
-    - Education
   tags: []
 
 - name: "The HIVE"
@@ -3764,7 +3499,6 @@
   description: "A creative community space for learning, expression, and gathering, offering workshops and activities across fine, performing, and visual arts."
   categories:
     - Arts
-    - Community
   tags: []
 
 - name: "Bookworm Trust"
@@ -3777,7 +3511,6 @@
   description: "A charitable trust promoting literacy through community libraries, school library programs, and mobile outreach across Goa."
   categories:
     - Library
-    - Community
     - Education
   tags:
     - children
@@ -3793,8 +3526,6 @@
   description: "A community cultural and learning centre by nonprofit Dharohar, with a library, cinema, theatre, science exhibition, makerspaces, cafe, and co-working areas."
   categories:
     - Community
-    - Culture
-    - Education
   tags:
     - free-entry
 
@@ -3808,7 +3539,6 @@
   description: "An open, inclusive arts and community space in a converted old house, hosting cultural events, artisan bazaars, live music, and artist talks alongside a cafe."
   categories:
     - Arts
-    - Community
   tags:
     - cafe
 
@@ -3821,7 +3551,6 @@
   url: "https://lagoricollective.com"
   description: "A social design lab and member-run community space offering co-working, studios, workshops, talks, screenings, and exhibitions."
   categories:
-    - Community
     - Arts
   tags:
     - coworking
@@ -3836,8 +3565,6 @@
   description: "A free, open, and inclusive cultural space hosting regular theatre, comedy, music, film screenings, art workshops, and community discussions."
   categories:
     - Performing Arts
-    - Community
-    - Culture
   tags:
     - free-entry
     - cafe
@@ -3852,7 +3579,6 @@
   description: "Autonomous body for the promotion and development of Malayalam literature and language, housing a vast library and research centre."
   categories:
     - Library
-    - Culture
   tags:
     - government
     - literature
@@ -3867,7 +3593,6 @@
   description: "Government academy for the conservation and promotion of Kerala's music, dance, drama, and folk arts through concerts, performances, and training."
   categories:
     - Performing Arts
-    - Culture
   tags:
     - government
 
@@ -3881,7 +3606,6 @@
   description: "Art gallery and cafe in a restored heritage building by Ashtamudi Lake, hosting exhibitions, cultural events, and a free community book exchange library."
   categories:
     - Arts
-    - Community
   tags:
     - cafe
     - heritage-building
@@ -3896,7 +3620,6 @@
   description: "A community-driven makerspace offering hands-on learning through workshops in electronics, soldering, 3D modeling, coding, and open-source scientific instruments."
   categories:
     - Makerspace
-    - Education
   tags:
     - stem
 
@@ -3909,7 +3632,6 @@
   description: "A community-oriented co-working space in Secunderabad offering shared desks and collaborative work environment."
   categories:
     - Community
-    - Innovation
   tags:
     - coworking
 
@@ -3923,7 +3645,6 @@
   description: "A National Council of Science Museums facility spread over 7 acres, with interactive science galleries, a 3D theatre, and an outdoor park."
   categories:
     - Science
-    - Education
   tags:
     - ncsm
     - government
@@ -3968,10 +3689,23 @@
   description: "One of Kerala's oldest public libraries, established in 1873, housed in the historic Town Hall and the first fully computerised library in the state."
   categories:
     - Library
-    - Community
   tags:
     - heritage-building
     - free-entry
+
+- name: "Aikyam Space"
+  city: ["Kochi", "Cochin"]
+  state: "Kerala"
+  address: "CC7/1469, Kadeeja Manzil, Lalan Road, Mattancherry, Fort Kochi"
+  pincode: "682002"
+  coords: [9.9561, 76.2569]
+  url: "https://aikyam.space"
+  description: "A not-for-profit community space for changemakers, hosting workshops on social impact, gender justice, education, and arts alongside a shared living space."
+  categories:
+    - Community
+  tags:
+    - social-justice
+    - residency
 
 - name: "Deshpande Startups"
   city: ["Hubballi", "Hubli"]
@@ -3983,6 +3717,5 @@
   description: "A large startup incubation centre, offering co-working spaces, prototyping labs, mentorship, and seed funding on a 6-acre campus to support entrepreneurs in semi-urban India."
   categories:
     - Innovation
-    - Community
   tags:
     - coworking

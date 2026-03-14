@@ -7,9 +7,11 @@ import csv
 import os
 import re
 import sys
-
 import yaml
 
+
+# "spaces" collides with the section directory name
+RESERVED_SLUGS = {"spaces"}
 
 def slugify(text):
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
@@ -34,6 +36,11 @@ def main():
     site_root = os.path.dirname(os.path.dirname(content_dir))
     os.makedirs(content_dir, exist_ok=True)
 
+    # Remove any pre-existing .md files.
+    for f in os.listdir(content_dir):
+        if f.endswith(".md") and f != "_index.md":
+            os.remove(os.path.join(content_dir, f))
+
     # Main section index
     parent_content_dir = os.path.dirname(content_dir)
     with open(os.path.join(parent_content_dir, "_index.md"), "w") as f:
@@ -50,7 +57,7 @@ def main():
     for entry in entries:
         city = entry['city'][0]
         base_slug = slugify(entry["name"])
-        if slug_counts[base_slug] > 1:
+        if slug_counts[base_slug] > 1 or base_slug in RESERVED_SLUGS:
             slug = f"{base_slug}-{slugify(city)}"
         else:
             slug = base_slug
