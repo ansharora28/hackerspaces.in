@@ -3972,3 +3972,17 @@
   tags:
     - heritage-building
     - free-entry
+
+- name: "Deshpande Startups"
+  city: ["Hubballi", "Hubli"]
+  state: "Karnataka"
+  address: "Gokul Road, Gokul"
+  pincode: "580027"
+  coords: [15.3542, 75.0788]
+  url: "https://deshpandestartups.org"
+  description: "A large startup incubation centre, offering co-working spaces, prototyping labs, mentorship, and seed funding on a 6-acre campus to support entrepreneurs in semi-urban India."
+  categories:
+    - Innovation
+    - Community
+  tags:
+    - coworking
