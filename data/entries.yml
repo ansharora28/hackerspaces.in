@@ -3719,3 +3719,67 @@
     - Innovation
   tags:
     - coworking
+
+- name: "Forplay Society"
+  city: ["Kochi", "Cochin"]
+  state: "Kerala"
+  address: "Opposite Kaycee Corporation, Bazaar Road, Mattancherry"
+  pincode: "682002"
+  coords: [9.9623, 76.2578]
+  url: "https://forplay-society.org"
+  description: "A non-commercial, artist-run performance space, residency, and community experiment hosting dance, theatre, music, visual art, and workshops in Fort Kochi."
+  categories:
+    - Performing Arts
+  tags:
+    - residency
+
+- name: "Mehboob Memorial Orchestra"
+  city: ["Kochi", "Cochin"]
+  state: "Kerala"
+  address: "Calvathy Road, Aspinwall Junction, Fort Kochi"
+  pincode: "682001"
+  coords: [9.9680, 76.2471]
+  description: "A community music space preserving Deccani Muslim musical heritage through weekly open karaoke gatherings and annual tributes to classic playback singers."
+  categories:
+    - Performing Arts
+  tags:
+    - heritage-building
+    - free-entry
+
+- name: "Suchitra Cinema and Cultural Academy"
+  city: ["Bengaluru", "Bangalore"]
+  state: "Karnataka"
+  address: "36, 9th Main Road, B V Karanth Road, Banashankari 2nd Stage"
+  pincode: "560070"
+  coords: [12.9262, 77.5699]
+  url: "https://suchitra.org"
+  description: "A pioneering film society turned cultural academy hosting screenings, theatre, music, dance, and arts education programmes since 1971."
+  categories:
+    - Culture
+  tags:
+    - film
+    - membership-required
+
+- name: "The Coforge Public Library"
+  city: ["Gurugram", "Gurgaon"]
+  state: "Haryana"
+  address: "Bestech Business Tower, Ground Floor, Sector 48, Sohna Road"
+  pincode: "122018"
+  coords: [28.4044, 77.0430]
+  url: "https://thecoforgepubliclibrary.org"
+  description: "A free-access public library with 16,000+ books, digital resources, and a children's zone in a spacious 15,000 sq ft space."
+  categories:
+    - Library
+  tags:
+    - free-entry
+
+- name: "Museo Camera - Centre for the Photographic Arts"
+  city: ["Gurugram", "Gurgaon"]
+  state: "Haryana"
+  address: "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV"
+  pincode: "122009"
+  coords: [28.4696, 77.0804]
+  url: "https://www.museocamera.org"
+  description: "South Asia's largest non-profit photography museum housing 2,500+ antique cameras from over 100 countries, with exhibitions, workshops, and archival services."
+  categories:
+    - Museum
