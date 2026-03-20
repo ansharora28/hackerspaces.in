@@ -170,15 +170,16 @@
   tags:
     - literature
 
-- name: "Underline Centre"
+- name: "Underline Center"
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
-  address: "Jayanagar, Bengaluru"
-  coords: [12.9308, 77.5839]
-  url: "https://theunderline.in"
-  description: "A multidisciplinary space for writing labs, poetry circles, and creative labs."
+  address: "3rd Floor, #24, 3rd A Cross, 1st Main Rd, Indiranagar"
+  pincode: "560071"
+  coords: [12.9672, 77.6367]
+  url: "https://underline.center"
+  description: "A community center for thoughtful, kind, and interesting events including board game nights, music sessions, and IndieWeb meetups."
   categories:
-    - Arts
+    - Community
   tags:
     - literature
 
@@ -3783,3 +3784,29 @@
   description: "South Asia's largest non-profit photography museum housing 2,500+ antique cameras from over 100 countries, with exhibitions, workshops, and archival services."
   categories:
     - Museum
+
+- name: "Vintage Hub"
+  city: ["Jorhat"]
+  state: "Assam"
+  address: "Puja Mandir, Sonali Jayanti Nagar, Bhatemora Gaon, Near Tarajan"
+  pincode: "785001"
+  coords: [26.7561, 94.1961]
+  description: "Assam's first music-themed cafe doubling as a cultural hub with a vintage book collection, tea varieties, and community events."
+  categories:
+    - Arts
+  tags:
+    - cafe
+    - literature
+
+- name: "Kadhaigal"
+  city: ["Bengaluru", "Bangalore"]
+  state: "Karnataka"
+  address: "Trinity Square 2, Ground Floor, A Block, Sahakarnagar"
+  pincode: "560092"
+  coords: [13.0631, 77.5866]
+  description: "A cosy cafe, bookstore, and small community space for readers and storytelling enthusiasts."
+  categories:
+    - Community
+  tags:
+    - cafe
+    - literature
