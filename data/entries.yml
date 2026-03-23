@@ -3810,3 +3810,31 @@
   tags:
     - cafe
     - literature
+
+- name: "Science Centre, Surat"
+  city: ["Surat"]
+  state: "Gujarat"
+  address: "City Light Road, Maheshwari Circle, Athwa"
+  pincode: "395007"
+  coords: [21.1702, 72.7956]
+  url: "https://www.suratmunicipal.gov.in/services/sciencecentre/sciencecentrehome"
+  description: "A multi-facility complex with interactive science galleries, a digital planetarium, a museum with 8,400+ artifacts, an art gallery, and an amphitheatre."
+  categories:
+    - Science
+    - Museum
+  tags:
+    - planetarium
+    - government
+
+- name: "Kavi Narmad Central Library"
+  city: ["Surat"]
+  state: "Gujarat"
+  address: "Plot No. M-9, Scheme No. 5, Ghod Dod Road, Athwalines, Athwa"
+  pincode: "395001"
+  coords: [21.1759, 72.8055]
+  url: "https://www.suratmunicipal.gov.in/Services/NarmadCentralLibrary"
+  description: "Surat's largest public library with over 2,26,000 books, a rare book collection, reading rooms, and dedicated sections for senior citizens."
+  categories:
+    - Library
+  tags:
+    - government
