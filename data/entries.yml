@@ -2,6 +2,7 @@
 # https://ooru.space
 
 - name: "Nongwah Nook"
+  active: true
   city: ["Mawsynram"]
   state: "Meghalaya"
   address: "Nongwah Village, East Khasi Hills, Māwsynrām"
@@ -17,6 +18,7 @@
     - free-entry
 
 - name: "Sathanur Nook"
+  active: true
   city: ["Sathanur"]
   state: "Karnataka"
   address: "Sathanur, Ramanagara District"
@@ -32,6 +34,7 @@
     - free-entry
 
 - name: "Wahlyngkhat Nook"
+  active: true
   city: ["Pynursla"]
   state: "Meghalaya"
   address: "Wahlyngkhat, East Khasi Hills"
@@ -48,6 +51,7 @@
     - free-entry
 
 - name: "Kashewadi Nook"
+  active: true
   city: ["Pune", "Poona"]
   state: "Maharashtra"
   address: "Kashewadi, Pune"
@@ -62,6 +66,7 @@
     - social-justice
 
 - name: "Katchipedu Nook"
+  active: true
   city: ["Sriperumbudur"]
   state: "Tamil Nadu"
   address: "Katchipedu, Sriperumbudur"
@@ -76,6 +81,7 @@
     - rural
 
 - name: "Loktantrashala - School For Democracy"
+  active: true
   city: ["Bhim"]
   state: "Rajasthan"
   address: "Rajsamand District"
@@ -91,6 +97,7 @@
     - free-entry
 
 - name: "1Shanthiroad Studio"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "1, Shanthiroad, Shanthinagar, Shanti Nagar, Bengaluru"
@@ -104,6 +111,7 @@
     - residency
 
 - name: "Conflictorium"
+  active: true
   city: ["Ahmedabad"]
   state: "Gujarat"
   address: "Gool Lodge, Mirzapur, Bhadra, Ahmedabad"
@@ -118,6 +126,7 @@
     - heritage-building
 
 - name: "Khoj International Artists' Association"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "S-17, Khirkee Extension, Malviya Nagar, New Delhi"
@@ -133,6 +142,7 @@
     - studios
 
 - name: "Sunaparanta Goa Centre for the Arts"
+  active: true
   city: ["Panaji", "Panjim"]
   state: "Goa"
   address: "63/C-8, Near Army House, Altinho, Panaji"
@@ -147,6 +157,7 @@
     - free-entry
 
 - name: "Sarmaya Arts"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Fort, Mumbai"
@@ -158,6 +169,7 @@
   tags: []
 
 - name: "Method Gallery"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Kala Ghoda, Fort, Mumbai"
@@ -171,6 +183,7 @@
     - literature
 
 - name: "Underline Center"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "3rd Floor, #24, 3rd A Cross, 1st Main Rd, Indiranagar"
@@ -184,6 +197,7 @@
     - literature
 
 - name: "Atta Galatta"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Indiranagar, Bengaluru"
@@ -196,6 +210,7 @@
     - literature
 
 - name: "Pepper House"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Fort Kochi"
@@ -211,6 +226,7 @@
     - studios
 
 - name: "David Hall"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Parade Ground, Fort Kochi"
@@ -224,6 +240,7 @@
     - heritage-building
 
 - name: "The Community Library Project"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Multiple locations (Sikanderpur, Khirki), New Delhi"
@@ -237,6 +254,7 @@
     - social-justice
 
 - name: "Bansa Community Library"
+  active: true
   city: ["Bansa"]
   state: "Uttar Pradesh"
   address: "Bansa Village, Hardoi District"
@@ -250,6 +268,7 @@
     - free-entry
 
 - name: "Akam Foundation"
+  active: true
   city: ["Various"]
   state: "Assam"
   address: "Multiple locations in Assam"
@@ -262,6 +281,7 @@
     - rural
 
 - name: "LECIN"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Various communities, New Delhi"
@@ -276,6 +296,7 @@
     - free-entry
 
 - name: "Share A Book India"
+  active: true
   city: ["Various"]
   state: "Delhi"
   address: "Pan-India"
@@ -290,6 +311,7 @@
     - free-entry
 
 - name: "Adhvan"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Childcare Institutions, Godrej Hillside Colony, Vikhroli West, Mumbai"
@@ -304,6 +326,7 @@
     - social-justice
 
 - name: "Rafooghar"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Shaheen Bagh, Jamia Nagar, Okhla, New Delhi"
@@ -318,6 +341,7 @@
     - social-justice
 
 - name: "Makers Asylum"
+  active: true
   city: ["Moira"]
   state: "Goa"
   address: "House No 661, Mapusa-Moira Road, Moide"
@@ -332,6 +356,7 @@
     - coworking
 
 - name: "Vigyan Ashram"
+  active: true
   city: ["Pabal"]
   state: "Maharashtra"
   address: "Pabal, Pune District"
@@ -347,6 +372,7 @@
     - stem
 
 - name: "THE Workshop"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "HAL 2nd Stage, Indiranagar, Bengaluru"
@@ -358,6 +384,7 @@
   tags: []
 
 - name: "Fab Lab Kerala - Kochi"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Integrated Startup Complex, Kinfra Hi-Tech Park, Kalamassery, Kochi"
@@ -372,6 +399,7 @@
     - government
 
 - name: "Workbench Projects"
+  active: false
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Halasuru Metro Station, Gupta Layout, Bengaluru"
@@ -385,6 +413,7 @@
     - coworking
 
 - name: "Collab House"
+  active: true
   city: ["Hyderabad"]
   state: "Telangana"
   address: "Jubilee Hills, Hyderabad"
@@ -397,6 +426,7 @@
     - coworking
 
 - name: "IKP-EDEN"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Koramangala, Bengaluru"
@@ -408,6 +438,7 @@
   tags: []
 
 - name: "MakersBox"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Multiple locations (Noida, Karnal)"
@@ -421,6 +452,7 @@
     - children
 
 - name: "FabLab CEPT"
+  active: true
   city: ["Ahmedabad"]
   state: "Gujarat"
   address: "FabLab CEPT, Workshop, CEPT University, University Road, Navrangpura, Ahmedabad"
@@ -435,6 +467,7 @@
     - free-entry
 
 - name: "Heramb Maker Lab"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Various locations, Mumbai"
@@ -447,6 +480,7 @@
     - youth
 
 - name: "National Science Centre"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Pragati Maidan, Bhairon Road, New Delhi"
@@ -461,6 +495,7 @@
     - stem
 
 - name: "Science Gallery Bengaluru"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "10–11, Bellary Road, Sanjaynagar, Dena Bank Colony, Bengaluru"
@@ -476,6 +511,7 @@
     - stem
 
 - name: "Nehru Science Centre"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Dr. E. Moses Road, Worli, रॉयल वेस्टर्न इंडिया टर्फ क्लब, Mumbai"
@@ -491,6 +527,7 @@
     - stem
 
 - name: "Visvesvaraya Industrial and Technological Museum"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Kasturba Road, Bengaluru"
@@ -507,6 +544,7 @@
     - stem
 
 - name: "Birla Industrial & Technological Museum"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "19A, Gurusaday Road, Beck Bagan, Kolkata"
@@ -523,6 +561,7 @@
     - stem
 
 - name: "Regional Science City"
+  active: true
   city: ["Lucknow"]
   state: "Uttar Pradesh"
   address: "Aliganj, Lucknow"
@@ -537,6 +576,7 @@
     - stem
 
 - name: "Pushpa Gujral Science City"
+  active: true
   city: ["Kapurthala"]
   state: "Punjab"
   address: "Jalandhar-Kapurthala Road"
@@ -551,6 +591,7 @@
     - stem
 
 - name: "Vikram A Sarabhai Community Science Centre"
+  active: true
   city: ["Ahmedabad"]
   state: "Gujarat"
   address: "Navrangpura, Ahmedabad"
@@ -564,6 +605,7 @@
     - free-entry
 
 - name: "Manaskhand Science Centre"
+  active: true
   city: ["Almora"]
   state: "Uttarakhand"
   address: "Syunrakot, Sunara Kot, Almora"
@@ -578,6 +620,7 @@
     - government
 
 - name: "Goa Science Centre"
+  active: true
   city: ["Panaji", "Panjim"]
   state: "Goa"
   address: "Marine Drive, Miramar, Panaji"
@@ -592,6 +635,7 @@
     - government
 
 - name: "Regional Science Centre"
+  active: true
   city: ["Guwahati", "Gauhati"]
   state: "Assam"
   address: "Jawaharnagar, Khanapara, Jawahar Nagar, Guwahati"
@@ -607,6 +651,7 @@
     - stem
 
 - name: "Raman Science Centre & Planetarium"
+  active: true
   city: ["Nagpur"]
   state: "Maharashtra"
   address: "Opp. Gandhi Sagar, Nagpur"
@@ -621,6 +666,7 @@
     - planetarium
 
 - name: "Nagaland Science Centre"
+  active: true
   city: ["Dimapur"]
   state: "Nagaland"
   address: "Behind Super Market, Half Nagarjan, Dimapur"
@@ -635,6 +681,7 @@
     - government
 
 - name: "Sikkim Science Centre"
+  active: true
   city: ["Gangtok"]
   state: "Sikkim"
   address: "Marchak, East Sikkim"
@@ -649,6 +696,7 @@
     - government
 
 - name: "Pilikula Science Centre"
+  active: true
   city: ["Mangaluru", "Mangalore"]
   state: "Karnataka"
   address: "Vamanjoor, Mangaluru"
@@ -662,6 +710,7 @@
     - government
 
 - name: "Science City"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "JBS Haldane Avenue, Kolkata"
@@ -676,6 +725,7 @@
     - stem
 
 - name: "ShriKrishna Science Centre"
+  active: true
   city: ["Patna"]
   state: "Bihar"
   address: "Patna"
@@ -689,6 +739,7 @@
     - government
 
 - name: "North Bengal Science Centre"
+  active: true
   city: ["Siliguri"]
   state: "West Bengal"
   address: "Siliguri"
@@ -702,6 +753,7 @@
     - government
 
 - name: "Bardhaman Science Centre"
+  active: true
   city: ["Bardhaman", "Burdwan"]
   state: "West Bengal"
   address: "Bardhaman"
@@ -715,6 +767,7 @@
     - government
 
 - name: "District Science Centre Purulia"
+  active: true
   city: ["Purulia"]
   state: "West Bengal"
   address: "Purulia"
@@ -728,6 +781,7 @@
     - government
 
 - name: "Digha Science Centre"
+  active: true
   city: ["Digha"]
   state: "West Bengal"
   address: "Digha"
@@ -741,6 +795,7 @@
     - government
 
 - name: "Central Research and Training Laboratory"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "Kolkata"
@@ -755,6 +810,7 @@
     - institutional
 
 - name: "Regional Science Centre"
+  active: true
   city: ["Bhubaneswar", "Bhubaneshwar"]
   state: "Odisha"
   address: "Bhubaneswar"
@@ -768,6 +824,7 @@
     - government
 
 - name: "Dhenkanal Science Centre & Kapilas Science Park"
+  active: true
   city: ["Dhenkanal"]
   state: "Odisha"
   address: "Dhenkanal"
@@ -781,6 +838,7 @@
     - government
 
 - name: "Regional Science Centre"
+  active: true
   city: ["Bhopal"]
   state: "Madhya Pradesh"
   address: "Bhopal"
@@ -794,6 +852,7 @@
     - government
 
 - name: "District Science Centre Dharampur"
+  active: true
   city: ["Dharampur"]
   state: "Gujarat"
   address: "Dharampur"
@@ -808,6 +867,7 @@
     - government
 
 - name: "Kurukshetra Panorama and Science Centre"
+  active: true
   city: ["Kurukshetra"]
   state: "Haryana"
   address: "Kurukshetra"
@@ -821,6 +881,7 @@
     - government
 
 - name: "Palampur Science Centre"
+  active: true
   city: ["Palampur"]
   state: "Himachal Pradesh"
   address: "Palampur"
@@ -834,6 +895,7 @@
     - government
 
 - name: "Regional Science Centre"
+  active: true
   city: ["Tirupati"]
   state: "Andhra Pradesh"
   address: "Tirupati"
@@ -847,6 +909,7 @@
     - government
 
 - name: "District Science Centre"
+  active: true
   city: ["Kalaburagi", "Gulbarga"]
   state: "Karnataka"
   address: "Kalaburagi"
@@ -860,6 +923,7 @@
     - government
 
 - name: "District Science Centre"
+  active: true
   city: ["Tirunelveli"]
   state: "Tamil Nadu"
   address: "Tirunelveli"
@@ -873,6 +937,7 @@
     - government
 
 - name: "Regional Science Centre & Planetarium"
+  active: true
   city: ["Kozhikode", "Calicut"]
   state: "Kerala"
   address: "Kozhikode"
@@ -887,6 +952,7 @@
     - planetarium
 
 - name: "Innovation Hub, Periyar Science & Technology Centre"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "Periyar Science and Technology Centre, Surya Nagar, Kotturpuram, Chennai"
@@ -901,6 +967,7 @@
     - stem
 
 - name: "ParSEC Jayanagar"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "4, 31st Cross, 16th Main, 4th Block, Jayanagar, Bengaluru"
@@ -914,6 +981,7 @@
     - stem
 
 - name: "T-Works"
+  active: true
   city: ["Hyderabad"]
   state: "Telangana"
   address: "Plot 1/D, 1/E, 1/F, Survey No. 83/1, Raidurgam, Ranga Reddy District, Bhagyalaxmi Nagar, Hyderabad"
@@ -927,6 +995,7 @@
     - government
 
 - name: "T-Hub"
+  active: true
   city: ["Hyderabad"]
   state: "Telangana"
   address: "Plot No 1/C, Sy No 83/1, Raidurgam Panmaktha, Hyderabad Knowledge City, Serilingampally, Prashant Hills"
@@ -939,6 +1008,7 @@
   tags: []
 
 - name: "Samagata Space"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "4th Floor, Cobalt Building (above Church Street Social), Shanthala Nagar, Bengaluru"
@@ -952,6 +1022,7 @@
     - free-entry
 
 - name: "Bangalore International Centre (BIC)"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "7, 4th Main Road, Domlur II Stage, Saraswathipura, Bengaluru"
@@ -966,6 +1037,7 @@
     - film
 
 - name: "Jaaga"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Bengaluru"
@@ -978,6 +1050,7 @@
   tags: []
 
 - name: "Bangalore Makespace"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Bengaluru, Karnataka (pop-up / distributed model)"
@@ -990,6 +1063,7 @@
     - stem
 
 - name: "Dhi Artspace"
+  active: true
   city: ["Hyderabad"]
   state: "Telangana"
   address: "7-1-54/2/C, Sri Guru Krupa, Near Kanya Gurukul School, Opp. Servo Towers, Dharam Karan Road, Ameerpet, Hyderabad"
@@ -1002,6 +1076,7 @@
   tags: []
 
 - name: "Dhi Contemporary"
+  active: true
   city: ["Hyderabad"]
   state: "Telangana"
   address: "Bodhi House, Plot No 552, Road No 11, Kakatiya Hills, Madhapur, Hyderabad"
@@ -1016,6 +1091,7 @@
     - film
 
 - name: "The Makerspace Initiative"
+  active: true
   city: ["Hyderabad"]
   state: "Telangana"
   address: "Hyderabad"
@@ -1027,6 +1103,7 @@
   tags: []
 
 - name: "SPACE @ ICCI"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "ICCI, Chullickal, Kochi"
@@ -1039,6 +1116,7 @@
   tags: []
 
 - name: "Chavara Cultural Centre"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Kochi"
@@ -1050,6 +1128,7 @@
   tags: []
 
 - name: "Pune International Centre"
+  active: true
   city: ["Pune", "Poona"]
   state: "Maharashtra"
   address: "SN 34/A, Behind C-DAC, Panchavati, Pashan, N.C.L, Pune"
@@ -1063,6 +1142,7 @@
     - outdoor-venue
 
 - name: "Raah - A Literacy & Cultural Centre"
+  active: true
   city: ["Pune", "Poona"]
   state: "Maharashtra"
   address: "Office No. 730, 7th/8th Floor, Marvel Vista, Above PNG Brothers, Lullanagar Junction, Pune"
@@ -1076,6 +1156,7 @@
     - literature
 
 - name: "IDAM - The Art & Cultural Space"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "7, Viswanathapuram 2nd Street, Kodambakkam, Viswanatha Puram, Chennai"
@@ -1088,6 +1169,7 @@
   tags: []
 
 - name: "Lila Arts Centre"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "5/6, Thirumalai Pillai Road, Satyamurthy Nagar, T. Nagar, Chennai"
@@ -1101,6 +1183,7 @@
     - studios
 
 - name: "IFBE"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "10–12, Calicut Road, Ballard Estate, Fort, Mumbai"
@@ -1114,6 +1197,7 @@
     - heritage-building
 
 - name: "India Habitat Centre"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Lodhi Road, New Delhi"
@@ -1130,6 +1214,7 @@
     - outdoor-venue
 
 - name: "India International Centre"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "40, Max Mueller Marg, Lodhi Gardens, New Delhi"
@@ -1144,6 +1229,7 @@
     - membership-required
 
 - name: "Kolkata Centre for Creativity"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "777, Anandapur EM Bypass, Sector I, Kolkata"
@@ -1157,6 +1243,7 @@
   tags: []
 
 - name: "TRI Art & Culture"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "53/2/2 Hazra Road, Ballygunge, Kolkata"
@@ -1171,6 +1258,7 @@
     - free-entry
 
 - name: "Hutheesing Visual Art Centre"
+  active: true
   city: ["Ahmedabad"]
   state: "Gujarat"
   address: "Kasturbhai Lalbhai Campus, Navrangpura, Ahmedabad"
@@ -1183,6 +1271,7 @@
   tags: []
 
 - name: "Goethe-Institut / Max Mueller Bhavan Bengaluru"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "716, CMH Road, Indiranagar 1st Stage, Bengaluru"
@@ -1198,6 +1287,7 @@
     - film
 
 - name: "Goethe-Institut / Max Mueller Bhavan Chennai"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "No. 4, 5th Street, Rutland Gate, Thousand Lights West, Chennai"
@@ -1213,6 +1303,7 @@
     - film
 
 - name: "Goethe-Institut / Max Mueller Bhavan Mumbai"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "CSMVS, 159–161, Mahatma Gandhi Road, Fort, Kala Ghoda, Mumbai"
@@ -1228,6 +1319,7 @@
     - film
 
 - name: "Goethe-Institut / Max Mueller Bhavan New Delhi"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "3, Kasturba Gandhi Marg, Vakil Lane, New Delhi"
@@ -1242,6 +1334,7 @@
     - goethe-institut
 
 - name: "Goethe-Institut / Max Mueller Bhavan Kolkata"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "Park Mansions, Gate 4, 57A, Park Street, Taltala, Kolkata"
@@ -1256,6 +1349,7 @@
     - goethe-institut
 
 - name: "Goethe-Institut / Max Mueller Bhavan Pune"
+  active: true
   city: ["Pune", "Poona"]
   state: "Maharashtra"
   address: "Pune"
@@ -1269,6 +1363,7 @@
     - goethe-institut
 
 - name: "Alliance Française de Bombay"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Mumbai"
@@ -1283,6 +1378,7 @@
     - film
 
 - name: "Alliance Française de Delhi"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "K.K. Birla Lane, 72, Lodi Estate, Lodhi Gardens, New Delhi"
@@ -1297,6 +1393,7 @@
     - film
 
 - name: "Alliance Française d'Ahmedabad"
+  active: true
   city: ["Ahmedabad"]
   state: "Gujarat"
   address: "B/S Food Corporation of India, Himali Tower Lane, Manekbaug-Shyamal Road, Satellite, Ahmedabad"
@@ -1312,6 +1409,7 @@
     - film
 
 - name: "Alliance Française Baroda Branch"
+  active: true
   city: ["Vadodara", "Baroda"]
   state: "Gujarat"
   address: "Skip Floor-2, B Wing, Blue Diamond Complex, Behind Fatehgunj Petrol Pump, Vadodara"
@@ -1325,6 +1423,7 @@
     - alliance-francaise
 
 - name: "Alliance Française de Bhopal"
+  active: true
   city: ["Bhopal"]
   state: "Madhya Pradesh"
   address: "Bhopal"
@@ -1339,6 +1438,7 @@
     - film
 
 - name: "Alliance Française d'Indore"
+  active: true
   city: ["Indore"]
   state: "Madhya Pradesh"
   address: "Indore"
@@ -1351,6 +1451,7 @@
     - alliance-francaise
 
 - name: "Alliance Française de Chandigarh"
+  active: true
   city: ["Chandigarh"]
   state: "Chandigarh"
   address: ""
@@ -1363,6 +1464,7 @@
     - alliance-francaise
 
 - name: "Alliance Française of Madras"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "Chennai"
@@ -1375,6 +1477,7 @@
     - alliance-francaise
 
 - name: "Alliance Française de Goa"
+  active: true
   city: ["Panaji", "Panjim"]
   state: "Goa"
   address: ""
@@ -1387,6 +1490,7 @@
     - alliance-francaise
 
 - name: "Alliance Française d'Hyderabad"
+  active: true
   city: ["Hyderabad"]
   state: "Telangana"
   address: "Hyderabad"
@@ -1399,6 +1503,7 @@
     - alliance-francaise
 
 - name: "Alliance Française de Jaipur"
+  active: true
   city: ["Jaipur"]
   state: "Rajasthan"
   address: "Jaipur"
@@ -1411,6 +1516,7 @@
     - alliance-francaise
 
 - name: "Alliance Française Udaipur Branch"
+  active: true
   city: ["Udaipur"]
   state: "Rajasthan"
   address: "Udaipur"
@@ -1423,6 +1529,7 @@
     - alliance-francaise
 
 - name: "Alliance Française du Bengale"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "Kolkata"
@@ -1437,6 +1544,7 @@
     - film
 
 - name: "Alliance Française Bhubaneswar Branch"
+  active: true
   city: ["Bhubaneswar", "Bhubaneshwar"]
   state: "Odisha"
   address: "Bhubaneswar"
@@ -1449,6 +1557,7 @@
     - alliance-francaise
 
 - name: "Alliance Française de Pondichéry"
+  active: true
   city: ["Puducherry", "Pondicherry"]
   state: "Puducherry"
   address: ""
@@ -1461,6 +1570,7 @@
     - alliance-francaise
 
 - name: "Alliance Française de Karikal"
+  active: true
   city: ["Karaikal"]
   state: "Puducherry"
   address: "Karaikal"
@@ -1473,6 +1583,7 @@
     - alliance-francaise
 
 - name: "Alliance Française de Pune"
+  active: true
   city: ["Pune", "Poona"]
   state: "Maharashtra"
   address: "Pune"
@@ -1485,6 +1596,7 @@
     - alliance-francaise
 
 - name: "Alliance Française de Trivandrum"
+  active: true
   city: ["Thiruvananthapuram", "Trivandrum"]
   state: "Kerala"
   address: "Thiruvananthapuram"
@@ -1498,6 +1610,7 @@
     - film
 
 - name: "Alliance Française Kochi Annex"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Kochi"
@@ -1510,6 +1623,7 @@
     - alliance-francaise
 
 - name: "Alliance Française de Bangalore"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Thimmaiah Road, Kaverappa Layout, Vasanth Nagar, Bengaluru"
@@ -1525,6 +1639,7 @@
     - film
 
 - name: "Alliance Française de Mahe"
+  active: true
   city: ["Mahe"]
   state: "Puducherry"
   address: "Mahé, Mahe"
@@ -1538,6 +1653,7 @@
     - alliance-francaise
 
 - name: "British Council Library"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "17 Kasturba Gandhi Marg, Janpath, Connaught Place, New Delhi"
@@ -1553,6 +1669,7 @@
     - membership-required
 
 - name: "British Council Library"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "16 Camac Street, Kankaria Estates, Kolkata"
@@ -1568,6 +1685,7 @@
     - membership-required
 
 - name: "British Council Library"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "737 Anna Salai, Chennai"
@@ -1583,6 +1701,7 @@
     - membership-required
 
 - name: "British Council Library"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "23, 1st Cross, Kasturba Road, Shanthala Nagar, Bengaluru"
@@ -1598,6 +1717,7 @@
     - membership-required
 
 - name: "British Council Library"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Mittal Tower, Nariman Point, Mumbai"
@@ -1613,6 +1733,7 @@
     - membership-required
 
 - name: "British Council Library"
+  active: true
   city: ["Ahmedabad"]
   state: "Gujarat"
   address: "Amrapali Lakeview Tower, Vastrapur, Ahmedabad"
@@ -1628,6 +1749,7 @@
     - membership-required
 
 - name: "British Council Library"
+  active: true
   city: ["Chandigarh"]
   state: "Chandigarh"
   address: "Elante Office, Industrial Area Phase 1"
@@ -1643,6 +1765,7 @@
     - membership-required
 
 - name: "British Council Library"
+  active: true
   city: ["Hyderabad"]
   state: "Telangana"
   address: "SL Jubilee, Road No 36, Jubilee Hills, Hyderabad"
@@ -1658,6 +1781,7 @@
     - membership-required
 
 - name: "British Council Library"
+  active: true
   city: ["Pune", "Poona"]
   state: "Maharashtra"
   address: "Ramsukh House, Ganeshkhind Road, Narveer Tanaji Wadi, Pune"
@@ -1673,6 +1797,7 @@
     - membership-required
 
 - name: "FABLAB Kerala - Trivandrum"
+  active: true
   city: ["Thiruvananthapuram", "Trivandrum"]
   state: "Kerala"
   address: "Kerala Startup Mission, Ground Floor, IIITM-K Building, Technopark Campus, Trivandrum, Karyavattom"
@@ -1687,6 +1812,7 @@
     - government
 
 - name: "FabLab Trichy"
+  active: true
   city: ["Tiruchirappalli", "Trichy"]
   state: "Tamil Nadu"
   address: "Government College of Engineering, Sethurappatti, Srirangam, Trichy, Sethurapatti"
@@ -1700,6 +1826,7 @@
     - fablab
 
 - name: "FabLab Nellai"
+  active: true
   city: ["Tirunelveli"]
   state: "Tamil Nadu"
   address: "Government College of Engineering, Trivandrum Road, Marshal Nagar, Tirunelveli"
@@ -1713,6 +1840,7 @@
     - fablab
 
 - name: "FabLab Noida"
+  active: true
   city: ["Noida"]
   state: "Uttar Pradesh"
   address: "C-56/47, Sector 62, Industrial Area, Noida"
@@ -1726,6 +1854,7 @@
     - fablab
 
 - name: "FabLab Mohali"
+  active: true
   city: ["Mohali"]
   state: "Punjab"
   address: "New Chandigarh"
@@ -1739,6 +1868,7 @@
     - fablab
 
 - name: "Fab Lab Chandigarh"
+  active: true
   city: ["Chandigarh"]
   state: "Chandigarh"
   address: ""
@@ -1751,6 +1881,7 @@
     - fablab
 
 - name: "FabLab Nagpur"
+  active: true
   city: ["Nagpur"]
   state: "Maharashtra"
   address: "36, Atrey Layout, Pratap Nagar, Nagpur"
@@ -1765,6 +1896,7 @@
     - coworking
 
 - name: "FabLab Narmadalaya"
+  active: true
   city: ["Kasrawad"]
   state: "Madhya Pradesh"
   address: "Vivekananda Institute of Rural Technology, Lepa Punarvas, Kasrawad, Khargone"
@@ -1780,6 +1912,7 @@
     - craft
 
 - name: "Makerspace@CMRIT"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "CMR Institute of Technology, 132 AECS Layout, ITPL Main Road, Kundalahalli, Brookefield, Bengaluru"
@@ -1793,6 +1926,7 @@
     - youth
 
 - name: "Fab Lab - AIC ADT Baramati Foundation"
+  active: true
   city: ["Baramati"]
   state: "Maharashtra"
   address: "Post Box No. 35, Malegaon Colony, Sharadanagar, Baramati, Pune district"
@@ -1807,6 +1941,7 @@
     - children
 
 - name: "Arthshila Delhi"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "B-19/1, Pocket B, Okhla Phase II, Okhla Industrial Estate, New Delhi"
@@ -1820,6 +1955,7 @@
     - craft
 
 - name: "Triveni Kala Sangam"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Mandi House, Mahatma Jyoti Rao Phule Marg Area, New Delhi"
@@ -1833,6 +1969,7 @@
   tags: []
 
 - name: "KNMA Saket"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Saket, New Delhi"
@@ -1847,6 +1984,7 @@
     - free-entry
 
 - name: "KNMA Noida"
+  active: true
   city: ["Noida"]
   state: "Uttar Pradesh"
   address: "Sector 126, Noida"
@@ -1862,6 +2000,7 @@
     - free-entry
 
 - name: "Niv Art Centre"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Neb Sarai, Sainik Farm, New Delhi"
@@ -1874,6 +2013,7 @@
     - residency
 
 - name: "India Islamic Cultural Centre"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Lodhi Road area, New Delhi"
@@ -1885,6 +2025,7 @@
   tags: []
 
 - name: "Raza Foundation Space"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "New Delhi"
@@ -1897,6 +2038,7 @@
     - literature
 
 - name: "Bikaner House Cultural Centre"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Pandara Road, India Gate, New Delhi"
@@ -1911,6 +2053,7 @@
     - government
 
 - name: "Travancore House Cultural Venue"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Kasturba Gandhi Marg, New Delhi"
@@ -1925,6 +2068,7 @@
     - government
 
 - name: "Studio Safdar"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Shadi Khampur, Shadipur, New Delhi"
@@ -1937,6 +2081,7 @@
     - social-justice
 
 - name: "IGNCA"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Janpath, Connaught Place, New Delhi"
@@ -1950,6 +2095,7 @@
     - government
 
 - name: "Gandhi Smriti Cultural Programmes"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Tees January Marg, New Delhi"
@@ -1964,6 +2110,7 @@
     - heritage-building
 
 - name: "National Crafts Museum & Hastkala Academy"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Pragati Maidan, New Delhi"
@@ -1977,6 +2124,7 @@
     - craft
 
 - name: "Rabindranath Tagore Centre (ICCR)"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "9A, Ho Chi Minh Sarani, Kankaria Estates, Kolkata"
@@ -1991,6 +2139,7 @@
     - government
 
 - name: "ICCR Ahmedabad Regional Centre"
+  active: true
   city: ["Ahmedabad"]
   state: "Gujarat"
   address: "Beside PhD Facilitation Centre, Above University Canteen, Gujarat University Campus, Navrangpura, Ahmedabad"
@@ -2005,6 +2154,7 @@
     - government
 
 - name: "ICCR Guwahati at Shilpgram"
+  active: true
   city: ["Guwahati", "Gauhati"]
   state: "Assam"
   address: "Annexure Pavilion, Shilpgram, Panjabari Road, Khanapara, Guwahati"
@@ -2019,6 +2169,7 @@
     - government
 
 - name: "ICCR Shillong at Brookside Cottage"
+  active: true
   city: ["Shillong"]
   state: "Meghalaya"
   address: "Brookside Cottage, New Assembly Compound, Laitumkhrah, Shillong"
@@ -2034,6 +2185,7 @@
     - government
 
 - name: "ICCR Pune Regional Centre"
+  active: true
   city: ["Pune", "Poona"]
   state: "Maharashtra"
   address: "Savitribai Phule University, Ganeshkhind, Pune"
@@ -2048,6 +2200,7 @@
     - government
 
 - name: "ICCR Mumbai Regional Centre"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Videsh Bhavan, Plot No. C-45, Block G, Bandra-Kurla Complex, Bandra East, Mumbai"
@@ -2062,6 +2215,7 @@
     - government
 
 - name: "ICCR Patna Regional Centre"
+  active: true
   city: ["Patna"]
   state: "Bihar"
   address: "67-68/40, Officers Flat, Nehru Path, Opp. Suchna Bhavan, Rajbansi Nagar, Patna"
@@ -2076,6 +2230,7 @@
     - government
 
 - name: "ICCR Bengaluru Regional Centre"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Ground Floor, Regional Passport Office, 8th Block, 80 Feet Road, Koramangala, Bengaluru"
@@ -2091,6 +2246,7 @@
     - government
 
 - name: "Kolkata International Foundation for Arts, Literature & Culture"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "Raja Basanta Roy Road, Kolkata"
@@ -2104,6 +2260,7 @@
     - film
 
 - name: "Nita Mukesh Ambani Cultural Centre"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "G Block, Bandra Kurla Complex, Mumbai"
@@ -2117,6 +2274,7 @@
   tags: []
 
 - name: "Nehru Centre"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Dr Annie Besant Road, Worli, Mumbai"
@@ -2130,6 +2288,7 @@
     - government
 
 - name: "Harkat Studios"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Bungalow No. 17, Aram Nagar II, Off JP Road, Versova, Andheri West, Mumbai"
@@ -2143,6 +2302,7 @@
     - film
 
 - name: "3 Art House"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Unit 1, Mohini Heights, 5th Road, Govind Dham, Khar West, Ram Krishna Nagar, Mumbai"
@@ -2155,6 +2315,7 @@
   tags: []
 
 - name: "The Guild Art Gallery"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Colaba, Mumbai"
@@ -2166,6 +2327,7 @@
   tags: []
 
 - name: "Bhau Daji Lad Museum"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Byculla East, Mumbai"
@@ -2179,6 +2341,7 @@
     - government
 
 - name: "Prithvi House / Prithvi Theatre"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Juhu, Mumbai"
@@ -2191,6 +2354,7 @@
     - cafe
 
 - name: "G5A Warehouse"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Mahalaxmi, Mahalakshmi, Mumbai"
@@ -2202,6 +2366,7 @@
   tags: []
 
 - name: "Sabha"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Bengaluru"
@@ -2215,6 +2380,7 @@
     - craft
 
 - name: "Agamashaala"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Yelahanka New Town, Bengaluru"
@@ -2226,6 +2392,7 @@
   tags: []
 
 - name: "Jaipur Center of Culture and Arts"
+  active: true
   city: ["Jaipur"]
   state: "Rajasthan"
   address: "872, Gautam Marg, Rani Sati Nagar, Nirman Nagar, Brijlalpura, Jaipur"
@@ -2238,6 +2405,7 @@
   tags: []
 
 - name: "Jaipur Centre for Art"
+  active: true
   city: ["Jaipur"]
   state: "Rajasthan"
   address: "Gate No. 1, City Palace, Tripolia Bazar, Jaipur"
@@ -2251,6 +2419,7 @@
     - heritage-building
 
 - name: "Jawahar Kala Kendra"
+  active: true
   city: ["Jaipur"]
   state: "Rajasthan"
   address: "Jawahar Lal Nehru Marg, Jaipur"
@@ -2265,6 +2434,7 @@
     - outdoor-venue
 
 - name: "Ravindra Manch"
+  active: true
   city: ["Jaipur"]
   state: "Rajasthan"
   address: "Ram Niwas Garden, Kailash Puri, Adarsh Nagar, Jaipur"
@@ -2277,6 +2447,7 @@
     - government
 
 - name: "Hawa Mahal Cultural Programming Space"
+  active: true
   city: ["Jaipur"]
   state: "Rajasthan"
   address: "Hawa Mahal, J.D.A. Market, Kanwar Nagar, Jaipur"
@@ -2292,6 +2463,7 @@
     - limited-access
 
 - name: "Shilpgram"
+  active: true
   city: ["Udaipur"]
   state: "Rajasthan"
   address: "Udaipur"
@@ -2306,6 +2478,7 @@
     - outdoor-venue
 
 - name: "3AM Art House"
+  active: true
   city: ["Ahmedabad"]
   state: "Gujarat"
   address: "A/39, Ground Floor, Celebration City Center, South Bopal, Ahmedabad"
@@ -2319,6 +2492,7 @@
     - children
 
 - name: "Cholamandal Artists' Village"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "Injambakkam / East Coast Road area, Chennai"
@@ -2333,6 +2507,7 @@
     - studios
 
 - name: "DakshinaChitra Museum"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "ECR Road, Chennai"
@@ -2346,6 +2521,7 @@
     - craft
 
 - name: "Kalakshetra Foundation"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "Thiruvanmiyur, Chennai"
@@ -2359,6 +2535,7 @@
     - government
 
 - name: "Kerala Kalamandalam Fort Kochi Centre"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Fort Kochi"
@@ -2370,6 +2547,7 @@
   tags: []
 
 - name: "Kochi-Muziris Biennale Pavilion Spaces"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Fort Kochi"
@@ -2383,6 +2561,7 @@
     - residency
 
 - name: "Durbar Hall Art Gallery"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Kochi"
@@ -2395,6 +2574,7 @@
     - government
 
 - name: "Serendipity Arts Foundation"
+  active: true
   city: ["Panaji", "Panjim"]
   state: "Goa"
   address: "Campal, Panaji"
@@ -2407,6 +2587,7 @@
   tags: []
 
 - name: "Museum of Goa"
+  active: true
   city: ["Pilerne"]
   state: "Goa"
   address: "Pilerne Industrial Estate"
@@ -2420,6 +2601,7 @@
   tags: []
 
 - name: "Bharat Bhavan"
+  active: true
   city: ["Bhopal"]
   state: "Madhya Pradesh"
   address: "Shamla Hills, Bhopal"
@@ -2434,6 +2616,7 @@
     - residency
 
 - name: "Ravindra Bhavan"
+  active: true
   city: ["Bhopal"]
   state: "Madhya Pradesh"
   address: "Bhopal"
@@ -2446,6 +2629,7 @@
     - government
 
 - name: "Lalit Kala Akademi Regional Centre"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "Greams Road, Thousand Lights, Chennai"
@@ -2460,6 +2644,7 @@
     - government
 
 - name: "Lalit Kala Akademi Regional Centre"
+  active: true
   city: ["Bhubaneswar", "Bhubaneshwar"]
   state: "Odisha"
   address: "Bhubaneswar"
@@ -2473,6 +2658,7 @@
     - government
 
 - name: "Lalit Kala Akademi Regional Centre"
+  active: true
   city: ["Lucknow"]
   state: "Uttar Pradesh"
   address: "Lucknow"
@@ -2486,6 +2672,7 @@
     - government
 
 - name: "Lalit Kala Akademi Regional Centre"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "Kolkata"
@@ -2499,6 +2686,7 @@
     - government
 
 - name: "Lalit Kala Akademi - Garhi Artists' Studios"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Garhi Village, East of Kailash, New Delhi"
@@ -2515,6 +2703,7 @@
     - studios
 
 - name: "Heritage Transport Museum"
+  active: true
   city: ["Gurugram", "Gurgaon"]
   state: "Haryana"
   address: "Tauru Road, Gurugram"
@@ -2526,6 +2715,7 @@
   tags: []
 
 - name: "Ravindra Bhavan"
+  active: true
   city: ["Guwahati", "Gauhati"]
   state: "Assam"
   address: "Guwahati"
@@ -2538,6 +2728,7 @@
     - government
 
 - name: "Shilpgram"
+  active: true
   city: ["Guwahati", "Gauhati"]
   state: "Assam"
   address: "Panjabari Road, Guwahati"
@@ -2552,6 +2743,7 @@
     - outdoor-venue
 
 - name: "Kalagram"
+  active: true
   city: ["Chandigarh"]
   state: "Chandigarh"
   address: "Manimajra, Sector 13"
@@ -2566,6 +2758,7 @@
     - outdoor-venue
 
 - name: "American Center"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "KG Marg, New Delhi"
@@ -2579,6 +2772,7 @@
     - american-center
 
 - name: "American Center"
+  active: true
   city: ["Kolkata", "Calcutta"]
   state: "West Bengal"
   address: "Ho Chi Minh Sarani, Kankaria Estates, Park Street area, Kolkata"
@@ -2592,6 +2786,7 @@
     - american-center
 
 - name: "TinkerSpace"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "21/258, Seaport-Airport Rd, Vidya Nagar Colony, Kalamassery"
@@ -2607,6 +2802,7 @@
     - youth
 
 - name: "Courtyard Koota"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "GoodEarth Tarana, Malhar Road, Kengeri"
@@ -2622,6 +2818,7 @@
     - film
 
 - name: "The Courtyard"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "105, Kengal Hanumanthaiah Rd, Shanti Nagar"
@@ -2636,6 +2833,7 @@
     - film
 
 - name: "The Long House Collective"
+  active: true
   city: ["Kozhikode", "Calicut"]
   state: "Kerala"
   address: "9/288, Coconut Bazaar, South Beach Rd, Mananchira"
@@ -2649,6 +2847,7 @@
     - heritage-building
 
 - name: "Ranga Shankara"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "36/2, 8th Cross Rd, 2nd Phase, J. P. Nagar"
@@ -2662,6 +2861,7 @@
     - cafe
 
 - name: "Local Sustainable Living"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Tharavadu, Mangayil Ave, Poonithura, Maradu"
@@ -2675,6 +2875,7 @@
     - sustainability
 
 - name: "Kerala Lalithakala Akademi Art Gallery"
+  active: true
   city: ["Thiruvananthapuram", "Trivandrum"]
   state: "Kerala"
   address: "Vyloppilli Samskrithi Bhavan, Nalanda Ln, Plammoodu"
@@ -2689,6 +2890,7 @@
     - lalithakala-akademi
 
 - name: "Kerala Lalithakala Akademi Art Gallery"
+  active: true
   city: ["Kozhikode", "Calicut"]
   state: "Kerala"
   address: "Town Hall Rd, Mananchira"
@@ -2703,6 +2905,7 @@
     - lalithakala-akademi
 
 - name: "Cochin Cultural Centre"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "KB Jacob Rd, Fort Kochi"
@@ -2715,6 +2918,7 @@
   tags: []
 
 - name: "Kerala Kalamandalam"
+  active: true
   city: ["Cheruthuruthy"]
   state: "Kerala"
   address: "Vallathol Nagar, Thrissur-Shoranur Rd"
@@ -2730,6 +2934,7 @@
     - heritage-building
 
 - name: "Sargaalaya Kerala Arts and Crafts Village"
+  active: true
   city: ["Iringal"]
   state: "Kerala"
   address: "Sargalaya Rd, Kottakkal"
@@ -2745,6 +2950,7 @@
     - outdoor-venue
 
 - name: "KPAC - Kerala People's Arts Club"
+  active: true
   city: ["Kayamkulam"]
   state: "Kerala"
   address: "Kallummoodu Junction, NH 47"
@@ -2757,6 +2963,7 @@
   tags: []
 
 - name: "Lokadharmi Nadakaveedu"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Nayarambalam, Vypin"
@@ -2770,6 +2977,7 @@
     - residency
 
 - name: "Space of ACT Theater Collective"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Post Office Rd, Vaduthala, Pachalam"
@@ -2782,6 +2990,7 @@
   tags: []
 
 - name: "A Ware Community Space"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "3rd Floor, Gurudev Chambers, 7th Cross, 3rd Main, Indiranagar 1st Stage, Binnamangala"
@@ -2797,6 +3006,7 @@
     - studios
 
 - name: "Indian Music Experience Museum"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Brigade Millennium Avenue, JP Nagar 7th Phase"
@@ -2809,6 +3019,7 @@
   tags: []
 
 - name: "Indian Institute of World Culture"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "6, BP Wadia Road, Basavanagudi"
@@ -2822,6 +3033,7 @@
     - heritage-building
 
 - name: "Champaca Bookstore, Library & Cafe"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "7/1, Edward Road, off Queens Road, Vasanth Nagar"
@@ -2836,6 +3048,7 @@
     - literature
 
 - name: "Freedom Park"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Seshadri Road, Gandhi Nagar"
@@ -2852,6 +3065,7 @@
     - government
 
 - name: "Paper Crane Lab"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "6th Cross, 10th Main, Indiranagar"
@@ -2866,6 +3080,7 @@
     - children
 
 - name: "KaTTe - The Creative Community"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "545, 4th Cross, 6th Main Road, HAL 2nd Stage, Indiranagar"
@@ -2880,6 +3095,7 @@
     - film
 
 - name: "Bangalore Creative Circus"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "12/2, Yeshwanthpur Industrial Suburb"
@@ -2894,6 +3110,7 @@
     - craft
 
 - name: "Design Ashram"
+  active: true
   city: ["Kozhikode", "Calicut"]
   state: "Kerala"
   address: "Gujarathi Street, Kuttichira"
@@ -2910,6 +3127,7 @@
     - film
   
 - name: "TARQ"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Ground Floor, KK Navsari Chambers, 39, AK Nayak Marg, Fort"
@@ -2921,6 +3139,7 @@
     - Arts
 
 - name: "Chemould Prescott Road"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "3rd Floor, Queens Mansion, Ghanshyam Talwatkar Marg, Fort"
@@ -2932,6 +3151,7 @@
     - Arts
 
 - name: "Chatterjee & Lal"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Kamal Mansion, Arthur Bunder Road, Colaba"
@@ -2943,6 +3163,7 @@
     - Arts
 
 - name: "Jhaveri Contemporary"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "3rd Floor, Devidas Mansion, B K Boman Behram Marg, Colaba"
@@ -2954,6 +3175,7 @@
     - Arts
 
 - name: "Akara Art"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Amarchand Mansion, Madame Cama Road, Colaba"
@@ -2965,6 +3187,7 @@
     - Arts
 
 - name: "Project 88"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Ground Floor, BMP Building, Narayan A Sawant Road, Colaba"
@@ -2978,6 +3201,7 @@
     - heritage-building
 
 - name: "Sakshi Gallery"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "3rd Pasta Lane, Colaba"
@@ -2989,6 +3213,7 @@
     - Arts
 
 - name: "Gallery Maskara"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "6/7, 3rd Pasta Lane, Colaba"
@@ -3002,6 +3227,7 @@
     - heritage-building
 
 - name: "Clark House Initiative"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Ground Floor, 8 Nathalal Parekh Marg, Wodehouse Road, Colaba"
@@ -3015,6 +3241,7 @@
     - residency
 
 - name: "ARTISANS' Centre"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "52-56, Dr Forbes Street, Kala Ghoda, Fort"
@@ -3028,6 +3255,7 @@
     - craft
 
 - name: "Hackerspace Mumbai"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Bandra Kurla Complex, Bandra East"
@@ -3039,6 +3267,7 @@
     - Makerspace
 
 - name: "Somaiya RiiDL"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Bhaskaracharya Building, Somaiya Vidyavihar, Vidyavihar East"
@@ -3053,6 +3282,7 @@
     - institutional
 
 - name: "Curiosity Gym"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "296, Shahid Bhagat Singh Road, Ballard Estate, Fort"
@@ -3067,6 +3297,7 @@
     - children
 
 - name: "Kitab Khana"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "45-47, Somaiya Bhavan, Mahatma Gandhi Road, Fort"
@@ -3082,6 +3313,7 @@
     - cafe
 
 - name: "Asiatic Society of Mumbai"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Town Hall, Shahid Bhagat Singh Road, Fort"
@@ -3096,6 +3328,7 @@
     - membership-required
 
 - name: "People's Free Reading Room and Library"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Jagannath Shankar Seth Road, Dhobi Talao, Marine Lines"
@@ -3110,6 +3343,7 @@
     - heritage-building
 
 - name: "David Sassoon Library and Reading Room"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "152, Mahatma Gandhi Road, Kala Ghoda, Fort"
@@ -3124,6 +3358,7 @@
     - membership-required
 
 - name: "Mumbai Marathi Grantha Sangrahalaya"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "MMGS Marg, Naigaon, Dadar East"
@@ -3138,6 +3373,7 @@
     - free-entry
 
 - name: "National Centre for the Performing Arts"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "NCPA Marg, Nariman Point"
@@ -3149,6 +3385,7 @@
     - Performing Arts
 
 - name: "Film Heritage Foundation"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Veer Nariman Road, Churchgate"
@@ -3163,6 +3400,7 @@
     - free-entry
 
 - name: "Toon Club"
+  active: true
   city: ["Mumbai", "Bombay"]
   state: "Maharashtra"
   address: "Gharaonda, 1st Floor, 558, National College Lane, Bandra West"
@@ -3177,6 +3415,7 @@
     - children
 
 - name: "Shaheedi Park"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Bahadur Shah Zafar Marg, Vikram Nagar"
@@ -3191,6 +3430,7 @@
     - government
 
 - name: "Srijan Art Gallery"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Nehru Park, Chanakyapuri"
@@ -3206,6 +3446,7 @@
     - government
 
 - name: "Baansera Park"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "Yamuna Floodplains, Sarai Kale Khan"
@@ -3221,6 +3462,7 @@
     - government
 
 - name: "Anna Centenary Library"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "Gandhi Mandapam Road, Kotturpuram"
@@ -3235,6 +3477,7 @@
     - free-entry
 
 - name: "Kalaignar Centenary Library"
+  active: true
   city: ["Madurai"]
   state: "Tamil Nadu"
   address: "Natham Road, Race Course Colony"
@@ -3249,6 +3492,7 @@
     - free-entry
 
 - name: "Connemara Public Library"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "Pantheon Road, Egmore"
@@ -3264,6 +3508,7 @@
     - free-entry
 
 - name: "Roja Muthiah Research Library"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "3rd Cross Street, CIT Campus, Taramani"
@@ -3277,6 +3522,7 @@
     - free-entry
 
 - name: "Maraimalai Adigal Library"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "Connemara Public Library Campus, Pantheon Road, Egmore"
@@ -3291,6 +3537,7 @@
     - free-entry
 
 - name: "Dr. U.Ve. Swaminatha Iyer Library"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "Arundale Beach Road, Kalakshetra Colony, Besant Nagar"
@@ -3304,6 +3551,7 @@
     - heritage-building
 
 - name: "Adyar Library and Research Centre"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "The Theosophical Society, Besant Avenue Road, Adyar"
@@ -3317,6 +3565,7 @@
     - heritage-building
 
 - name: "Madras Literary Society"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "College Road, DPI Campus, Thousand Lights"
@@ -3330,6 +3579,7 @@
     - membership-required
 
 - name: "InKo Centre"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "18, Adyar Club Gate Road, Raja Annamalaipuram"
@@ -3344,6 +3594,7 @@
     - free-entry
 
 - name: "Apparao Galleries"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "7, Wallace Gardens 3rd Street, Nungambakkam"
@@ -3356,6 +3607,7 @@
     - free-entry
 
 - name: "Forum Art Gallery"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "57, 5th Street, Padmanabha Nagar, Adyar"
@@ -3369,6 +3621,7 @@
     - free-entry
 
 - name: "Focus Art Gallery"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "11, Kasturi Estate 2nd Street, Alwarpet"
@@ -3382,6 +3635,7 @@
     - free-entry
 
 - name: "Art Houz"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "123, Sterling Road, Nungambakkam"
@@ -3394,6 +3648,7 @@
     - free-entry
 
 - name: "Gallery Veda"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "4/22, Rutland Gate 5th Street, Nungambakkam"
@@ -3407,6 +3662,7 @@
     - free-entry
 
 - name: "The Faraway Tree"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "Sterling Road 3rd Cross Street, Nungambakkam"
@@ -3420,6 +3676,7 @@
     - limited-access
 
 - name: "Cholamandal Centre for Contemporary Art"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "Cholamandal Artists' Village, East Coast Road, Injambakkam"
@@ -3431,6 +3688,7 @@
     - Arts
 
 - name: "Backyard"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "53/23, 3rd Main Road, Gandhi Nagar, Adyar"
@@ -3445,6 +3703,7 @@
     - coworking
 
 - name: "Medai - The Stage"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "3rd Floor, 16, 1st Cross Street, Sri Ram Nagar, Alwarpet"
@@ -3456,6 +3715,7 @@
     - Performing Arts
 
 - name: "Spaces"
+  active: true
   city: ["Chennai", "Madras"]
   state: "Tamil Nadu"
   address: "1, Elliot's Beach Road, Besant Nagar"
@@ -3467,6 +3727,7 @@
     - Performing Arts
 
 - name: "Shri Ram Centre for Performing Arts"
+  active: true
   city: ["New Delhi", "Delhi"]
   state: "Delhi"
   address: "4, Safdar Hashmi Marg, Mandi House"
@@ -3479,6 +3740,7 @@
   tags: []
 
 - name: "Karnataka Chitrakala Parishath (CKP)"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Art Complex, 1, Kumarakrupa Road, Seshadripuram"
@@ -3491,6 +3753,7 @@
   tags: []
 
 - name: "The HIVE"
+  active: true
   city: ["Ahmedabad"]
   state: "Gujarat"
   address: "11, Ashwamegh Bungalows Part 2, Near Shivranjani, Satellite Road, Jodhpur Village"
@@ -3503,6 +3766,7 @@
   tags: []
 
 - name: "Bookworm Trust"
+  active: true
   city: ["Panaji", "Panjim"]
   state: "Goa"
   address: "House No. 127, Mala, Fontainhas, Panaji"
@@ -3518,6 +3782,7 @@
     - free-entry
 
 - name: "Third Space"
+  active: true
   city: ["Udaipur"]
   state: "Rajasthan"
   address: "Shyam Nagar, Pulla Bhuwana, Udaipur"
@@ -3531,6 +3796,7 @@
     - free-entry
 
 - name: "Jajam"
+  active: true
   city: ["Udaipur"]
   state: "Rajasthan"
   address: "6, Panchwati, Road No. 1, Madhuban, Udaipur"
@@ -3544,6 +3810,7 @@
     - cafe
 
 - name: "Lagori Collective"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "1st Floor, 9/13-1, Lloyd Rd, Cooke Town, Bengaluru"
@@ -3557,6 +3824,7 @@
     - coworking
 
 - name: "Lamakaan"
+  active: true
   city: ["Hyderabad"]
   state: "Telangana"
   address: "Off Road No. 1, Banjara Hills, Opposite GVK One, Hyderabad"
@@ -3571,6 +3839,7 @@
     - cafe
 
 - name: "Kerala Sahitya Akademi"
+  active: true
   city: ["Thrissur", "Trichur"]
   state: "Kerala"
   address: "Palace Road, Chembukkav, Thrissur"
@@ -3585,6 +3854,7 @@
     - literature
 
 - name: "Kerala Sangeetha Nataka Akademi"
+  active: true
   city: ["Thrissur", "Trichur"]
   state: "Kerala"
   address: "Regional Theatre Road, Chembukkav, Thrissur"
@@ -3598,6 +3868,7 @@
     - government
 
 - name: "8 Point Art Cafe"
+  active: true
   city: ["Kollam", "Quilon"]
   state: "Kerala"
   address: "Asramam Picnic Village Campus, Asramam, Kollam"
@@ -3612,6 +3883,7 @@
     - heritage-building
 
 - name: "Makerspace Belgaum"
+  active: true
   city: ["Belagavi", "Belgaum"]
   state: "Karnataka"
   address: "RPD College Rd, Bhagya Nagar, Vadagoan, Belagavi"
@@ -3625,6 +3897,7 @@
     - stem
 
 - name: "Loco Community & Co-working Space"
+  active: true
   city: ["Secunderabad", "Hyderabad"]
   state: "Telangana"
   address: "SBH Colony, Tirumalagiri"
@@ -3637,6 +3910,7 @@
     - coworking
 
 - name: "Kalimpong Science Centre"
+  active: true
   city: ["Kalimpong"]
   state: "West Bengal"
   address: "Deolo"
@@ -3652,6 +3926,7 @@
     - free-entry
 
 - name: "Theatre Flamingo - TF Actors Lab"
+  active: true
   city: ["Canacona"]
   state: "Goa"
   address: "Mhalwada, Poinguinim"
@@ -3667,6 +3942,7 @@
     - theatre-flamingo
 
 - name: "TF Studios"
+  active: true
   city: ["Panaji", "Panjim"]
   state: "Goa"
   address: "Kadamba Plateau, Above Bagayatdar Bazar, Panelim"
@@ -3681,6 +3957,7 @@
     - theatre-flamingo
 
 - name: "Thrissur Public Library"
+  active: true
   city: ["Thrissur", "Trichur"]
   state: "Kerala"
   address: "Town Hall Complex, Palace Road, Chembukkavu"
@@ -3695,6 +3972,7 @@
     - free-entry
 
 - name: "Aikyam Space"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "CC7/1469, Kadeeja Manzil, Lalan Road, Mattancherry, Fort Kochi"
@@ -3709,6 +3987,7 @@
     - residency
 
 - name: "Deshpande Startups"
+  active: true
   city: ["Hubballi", "Hubli"]
   state: "Karnataka"
   address: "Gokul Road, Gokul"
@@ -3722,6 +4001,7 @@
     - coworking
 
 - name: "Forplay Society"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Opposite Kaycee Corporation, Bazaar Road, Mattancherry"
@@ -3735,6 +4015,7 @@
     - residency
 
 - name: "Mehboob Memorial Orchestra"
+  active: true
   city: ["Kochi", "Cochin"]
   state: "Kerala"
   address: "Calvathy Road, Aspinwall Junction, Fort Kochi"
@@ -3748,6 +4029,7 @@
     - free-entry
 
 - name: "Suchitra Cinema and Cultural Academy"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "36, 9th Main Road, B V Karanth Road, Banashankari 2nd Stage"
@@ -3762,6 +4044,7 @@
     - membership-required
 
 - name: "The Coforge Public Library"
+  active: true
   city: ["Gurugram", "Gurgaon"]
   state: "Haryana"
   address: "Bestech Business Tower, Ground Floor, Sector 48, Sohna Road"
@@ -3775,6 +4058,7 @@
     - free-entry
 
 - name: "Museo Camera - Centre for the Photographic Arts"
+  active: true
   city: ["Gurugram", "Gurgaon"]
   state: "Haryana"
   address: "Shri Ganesh Mandir Marg, Sector 28, DLF Phase IV"
@@ -3786,6 +4070,7 @@
     - Museum
 
 - name: "Vintage Hub"
+  active: true
   city: ["Jorhat"]
   state: "Assam"
   address: "Puja Mandir, Sonali Jayanti Nagar, Bhatemora Gaon, Near Tarajan"
@@ -3799,6 +4084,7 @@
     - literature
 
 - name: "Kadhaigal"
+  active: true
   city: ["Bengaluru", "Bangalore"]
   state: "Karnataka"
   address: "Trinity Square 2, Ground Floor, A Block, Sahakarnagar"
@@ -3812,6 +4098,7 @@
     - literature
 
 - name: "Science Centre, Surat"
+  active: true
   city: ["Surat"]
   state: "Gujarat"
   address: "City Light Road, Maheshwari Circle, Athwa"
@@ -3827,6 +4114,7 @@
     - government
 
 - name: "Kavi Narmad Central Library"
+  active: true
   city: ["Surat"]
   state: "Gujarat"
   address: "Plot No. M-9, Scheme No. 5, Ghod Dod Road, Athwalines, Athwa"
@@ -3838,3 +4126,17 @@
     - Library
   tags:
     - government
+
+- name: "Designer's Community"
+  active: true
+  city: ["Thiruvananthapuram", "Trivandrum"]
+  state: "Kerala"
+  address: "TC 5/1717, First Floor, Parvathy Mangalam, Vazhuthacaud"
+  pincode: "695010"
+  coords: [8.5048, 76.9600]
+  url: "https://www.qdesq.com/brand/designers-community/vazhuthacaud-thiruvananthapuram-ttp001"
+  description: "A coworking and community space in Vazhuthacaud offering flexible desks and collaborative work environment for freelancers, startups, and creative professionals."
+  categories:
+    - Community
+  tags:
+    - coworking

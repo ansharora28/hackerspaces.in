@@ -30,7 +30,10 @@ def main():
     content_dir = sys.argv[2]
 
     with open(entries_path) as f:
-        entries = yaml.safe_load(f)
+        all_entries = yaml.safe_load(f)
+
+    entries = [e for e in all_entries if e.get("active", True)]
+    skipped = len(all_entries) - len(entries)
 
     # Derive sibling paths from content_dir (e.g. content/spaces -> content, static)
     site_root = os.path.dirname(os.path.dirname(content_dir))
@@ -114,7 +117,7 @@ city = "{city}"
                 ", ".join(entry.get("tags", [])),
             ])
 
-    print(f"generated {len(entries)} content pages + {csv_path}")
+    print(f"generated {len(entries)} content pages + {csv_path} ({skipped} inactive skipped)")
 
 
 if __name__ == "__main__":
