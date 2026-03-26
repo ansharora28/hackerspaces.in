@@ -4140,3 +4140,20 @@
     - Community
   tags:
     - coworking
+
+- name: "Navajivan Trust"
+  active: true
+  city: ["Ahmedabad", "Amdavad"]
+  state: "Gujarat"
+  address: "Behind Gujarat Vidyapith, Ashram Road, Usmanpura"
+  pincode: "380009"
+  coords: [23.0434, 72.5659]
+  url: "http://www.navajivantrust.org/"
+  description: "A Gandhian publishing house founded in 1929, now a cultural campus with an art gallery, cafe, bookshop, and event hall hosting Sunday reading clubs and monthly Gujarati literature events."
+  categories:
+    - Culture
+    - Arts
+  tags:
+    - cafe
+    - literature
+    - free-entry
