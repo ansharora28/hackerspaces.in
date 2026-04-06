@@ -1,6 +1,6 @@
 base_url = "https://ooru.space"
-title = "Public community and third spaces in India"
-description = "Directory of public community spaces across India"
+title = "Makerspaces in India"
+description = "Directory of Makerspaces across India"
 compile_sass = false
 minify_html = true
 
