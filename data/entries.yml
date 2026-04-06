@@ -1,5 +1,7 @@
 # Makerspaces, fablabs, and hackerspaces in India.
-# https://YOUR_SITE_URL
+# Categories: Makerspace, Fablab, Hackerspace, Incubator
+# Thematic tags: rural, stem, youth, coworking, government, free-entry, craft, sustainability, restricted-access, institutional
+
 - name: Sathanur Nook
   active: true
   city:
@@ -19,6 +21,7 @@
   - project-defy
   - rural
   - free-entry
+
 - name: Kashewadi Nook
   active: true
   city:
@@ -37,6 +40,7 @@
   - project-defy
   - youth
   - social-justice
+
 - name: Katchipedu Nook
   active: true
   city:
@@ -55,6 +59,7 @@
   tags:
   - project-defy
   - rural
+
 - name: Makers Asylum
   active: true
   city:
@@ -74,6 +79,7 @@
   tags:
   - sustainability
   - coworking
+
 - name: Vigyan Ashram
   active: true
   city:
@@ -93,6 +99,7 @@
   - rural
   - sustainability
   - stem
+
 - name: THE Workshop
   active: true
   city:
@@ -108,6 +115,7 @@
   categories:
   - Makerspace
   tags: []
+
 - name: Fab Lab Kerala - Kochi
   active: true
   city:
@@ -123,10 +131,10 @@
   description: Kerala Startup Mission fablab for advanced digital fabrication, prototyping,
     and entrepreneurship.
   categories:
-  - Makerspace
+  - Fablab
   tags:
-  - fablab
   - government
+
 - name: Workbench Projects
   active: false
   city:
@@ -144,6 +152,7 @@
   - Makerspace
   tags:
   - coworking
+
 - name: Collab House
   active: true
   city:
@@ -159,6 +168,7 @@
   - Makerspace
   tags:
   - coworking
+
 - name: IKP-EDEN
   active: true
   city:
@@ -173,8 +183,10 @@
   description: A hardware incubator and makerspace focusing on medical devices and
     engineering.
   categories:
-  - Innovation
-  tags: []
+  - Incubator
+  tags:
+  - restricted-access
+
 - name: MakersBox
   active: true
   city:
@@ -192,7 +204,8 @@
   - Makerspace
   tags:
   - stem
-  - children
+  - youth
+
 - name: FabLab CEPT
   active: true
   city:
@@ -207,10 +220,11 @@
   description: A digital fabrication lab hosted by CEPT that allows users to work
     for free if they bring materials. Serves makers, researchers, and creative thinkers.
   categories:
-  - Makerspace
+  - Fablab
   tags:
-  - fablab
   - free-entry
+  - institutional
+
 - name: Heramb Maker Lab
   active: true
   city:
@@ -227,13 +241,14 @@
   - Makerspace
   tags:
   - youth
+
 - name: T-Works
   active: true
   city:
   - Hyderabad
   state: Telangana
-  address: Plot 1/D, 1/E, 1/F, Survey No. 83/1, Raidurgam, Ranga Reddy District, Bhagyalaxmi
-    Nagar, Hyderabad
+  address: Plot 1/D, 1/E, 1/F, Survey No. 83/1, Raidurgam, Ranga Reddy District,
+    Bhagyalaxmi Nagar, Hyderabad
   pincode: '500081'
   coords:
   - 17.4363
@@ -246,6 +261,7 @@
   - Makerspace
   tags:
   - government
+
 - name: T-Hub
   active: true
   city:
@@ -261,8 +277,9 @@
   description: Large innovation hub for startups, open innovation, community events,
     and entrepreneurial ecosystem building.
   categories:
-  - Innovation
+  - Incubator
   tags: []
+
 - name: Jaaga
   active: true
   city:
@@ -277,9 +294,10 @@
   description: Collaborative community platform working across arts research, public
     arts, tech-arts, and urban/community issues.
   categories:
-  - Arts
-  - Innovation
-  tags: []
+  - Makerspace
+  tags:
+  - arts
+
 - name: Bangalore Makespace
   active: true
   city:
@@ -297,6 +315,7 @@
   - Makerspace
   tags:
   - stem
+
 - name: The Makerspace Initiative
   active: true
   city:
@@ -311,6 +330,7 @@
   categories:
   - Makerspace
   tags: []
+
 - name: FABLAB Kerala - Trivandrum
   active: true
   city:
@@ -327,10 +347,10 @@
   description: Public-facing fabrication lab created with Kerala Startup Mission to
     support entrepreneurship, learning, and innovation.
   categories:
-  - Makerspace
+  - Fablab
   tags:
-  - fablab
   - government
+
 - name: FabLab Trichy
   active: true
   city:
@@ -346,9 +366,9 @@
   description: Fabrication lab and community innovation hub with workshops, training,
     and collaborative projects.
   categories:
-  - Makerspace
-  tags:
-  - fablab
+  - Fablab
+  tags: []
+
 - name: FabLab Nellai
   active: true
   city:
@@ -363,9 +383,9 @@
   description: Community innovation lab for hands-on learning, prototyping, and local
     maker activity.
   categories:
-  - Makerspace
-  tags:
-  - fablab
+  - Fablab
+  tags: []
+
 - name: FabLab Noida
   active: true
   city:
@@ -380,9 +400,10 @@
   description: Digital fabrication lab aimed at engineering students and community
     innovation in NCR.
   categories:
-  - Makerspace
+  - Fablab
   tags:
-  - fablab
+  - stub
+
 - name: FabLab Mohali
   active: true
   city:
@@ -397,9 +418,10 @@
   description: Part of the Fab Lab Chandigarh network; focused on hardware development
     and startup prototyping.
   categories:
-  - Makerspace
+  - Fablab
   tags:
-  - fablab
+  - stub
+
 - name: Fab Lab Chandigarh
   active: true
   city:
@@ -413,9 +435,10 @@
   description: Fab lab intended to expand access to digital-fabrication technologies
     across the northern region.
   categories:
-  - Makerspace
+  - Fablab
   tags:
-  - fablab
+  - stub
+
 - name: FabLab Nagpur
   active: true
   city:
@@ -430,10 +453,10 @@
   description: Community digital fabrication lab and coworking-style maker environment
     open to varied age groups.
   categories:
-  - Makerspace
+  - Fablab
   tags:
-  - fablab
   - coworking
+
 - name: FabLab Narmadalaya
   active: true
   city:
@@ -448,11 +471,11 @@
   description: Rural fablab for tribal youth, local artisans, makers, and village-level
     problem solving.
   categories:
-  - Makerspace
+  - Fablab
   tags:
-  - fablab
   - rural
   - craft
+
 - name: Makerspace@CMRIT
   active: true
   city:
@@ -471,7 +494,9 @@
   categories:
   - Makerspace
   tags:
+  - institutional
   - youth
+
 - name: Fab Lab - AIC ADT Baramati Foundation
   active: true
   city:
@@ -486,10 +511,10 @@
   description: Public/open-access digital fabrication workshop welcoming everyone
     from children to entrepreneurs.
   categories:
-  - Makerspace
+  - Fablab
   tags:
-  - fablab
-  - children
+  - youth
+
 - name: TinkerSpace
   active: true
   city:
@@ -510,6 +535,7 @@
   - free-entry
   - stem
   - youth
+
 - name: Paper Crane Lab
   active: true
   city:
@@ -528,7 +554,8 @@
   - Makerspace
   tags:
   - stem
-  - children
+  - youth
+
 - name: Hackerspace Mumbai
   active: true
   city:
@@ -544,7 +571,9 @@
   description: Mumbai's largest open-source tech community, bringing together developers,
     designers, and makers for meetups, workshops, and hackathons.
   categories:
-  - Makerspace
+  - Hackerspace
+  tags: []
+
 - name: Somaiya RiiDL
   active: true
   city:
@@ -560,10 +589,10 @@
   description: A multidisciplinary innovation hub and FabLab offering open access
     to digital fabrication tools, a DIY bio lab, and startup incubation.
   categories:
-  - Innovation
+  - Fablab
   tags:
-  - fablab
   - institutional
+
 - name: Makerspace Belgaum
   active: true
   city:
@@ -582,6 +611,7 @@
   - Makerspace
   tags:
   - stem
+
 - name: Deshpande Startups
   active: true
   city:
@@ -598,6 +628,6 @@
     labs, mentorship, and seed funding on a 6-acre campus to support entrepreneurs
     in semi-urban India.
   categories:
-  - Innovation
+  - Incubator
   tags:
   - coworking
