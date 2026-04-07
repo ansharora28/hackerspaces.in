@@ -7,10 +7,13 @@
         <loc>https://ooru.space/categories/</loc>
     </url>
     <url>
-        <loc>https://ooru.space/categories/arts/</loc>
+        <loc>https://ooru.space/categories/fablab/</loc>
     </url>
     <url>
-        <loc>https://ooru.space/categories/innovation/</loc>
+        <loc>https://ooru.space/categories/hackerspace/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/categories/incubator/</loc>
     </url>
     <url>
         <loc>https://ooru.space/categories/makerspace/</loc>
@@ -32,6 +35,9 @@
     </url>
     <url>
         <loc>https://ooru.space/cities/chandigarh/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/cities/gandhinagar/</loc>
     </url>
     <url>
         <loc>https://ooru.space/cities/hubballi/</loc>
@@ -70,7 +76,13 @@
         <loc>https://ooru.space/cities/pune/</loc>
     </url>
     <url>
+        <loc>https://ooru.space/cities/raipur/</loc>
+    </url>
+    <url>
         <loc>https://ooru.space/cities/sathanur/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/cities/sonepat/</loc>
     </url>
     <url>
         <loc>https://ooru.space/cities/sriperumbudur/</loc>
@@ -85,16 +97,37 @@
         <loc>https://ooru.space/cities/tirunelveli/</loc>
     </url>
     <url>
+        <loc>https://ooru.space/cities/tumkur/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/cities/vadodara/</loc>
+    </url>
+    <url>
         <loc>https://ooru.space/spaces/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/spaces/36-inc-fablab/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/spaces/bangalore-alpha-lab/</loc>
     </url>
     <url>
         <loc>https://ooru.space/spaces/bangalore-makespace/</loc>
     </url>
     <url>
+        <loc>https://ooru.space/spaces/centre-of-excellence-coe-makerspace/</loc>
+    </url>
+    <url>
         <loc>https://ooru.space/spaces/collab-house/</loc>
     </url>
     <url>
+        <loc>https://ooru.space/spaces/crafterspace/</loc>
+    </url>
+    <url>
         <loc>https://ooru.space/spaces/deshpande-startups/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/spaces/digital-makerspace-ashoka-university/</loc>
     </url>
     <url>
         <loc>https://ooru.space/spaces/fab-lab-aic-adt-baramati-foundation/</loc>
@@ -107,6 +140,9 @@
     </url>
     <url>
         <loc>https://ooru.space/spaces/fablab-cept/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/spaces/fablab-coep/</loc>
     </url>
     <url>
         <loc>https://ooru.space/spaces/fablab-kerala-trivandrum/</loc>
@@ -136,6 +172,12 @@
         <loc>https://ooru.space/spaces/heramb-maker-lab/</loc>
     </url>
     <url>
+        <loc>https://ooru.space/spaces/iit-delhi-makerspace/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/spaces/iitb-makerspace/</loc>
+    </url>
+    <url>
         <loc>https://ooru.space/spaces/ikp-eden/</loc>
     </url>
     <url>
@@ -154,10 +196,25 @@
         <loc>https://ooru.space/spaces/makersbox/</loc>
     </url>
     <url>
+        <loc>https://ooru.space/spaces/makerspace-at-anant-national-university/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/spaces/makerspace-at-hbcse-tifr/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/spaces/makerspace-at-plaksha-university/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/spaces/makerspace-at-shiv-nadar-university/</loc>
+    </url>
+    <url>
         <loc>https://ooru.space/spaces/makerspace-belgaum/</loc>
     </url>
     <url>
         <loc>https://ooru.space/spaces/makerspace-cmrit/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/spaces/national-innovation-foundation-fablab/</loc>
     </url>
     <url>
         <loc>https://ooru.space/spaces/paper-crane-lab/</loc>
@@ -187,10 +244,16 @@
         <loc>https://ooru.space/spaces/vigyan-ashram/</loc>
     </url>
     <url>
+        <loc>https://ooru.space/spaces/yuvalay-makerspace/</loc>
+    </url>
+    <url>
         <loc>https://ooru.space/states/</loc>
     </url>
     <url>
         <loc>https://ooru.space/states/chandigarh/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/states/chhattisgarh/</loc>
     </url>
     <url>
         <loc>https://ooru.space/states/delhi/</loc>
@@ -200,6 +263,9 @@
     </url>
     <url>
         <loc>https://ooru.space/states/gujarat/</loc>
+    </url>
+    <url>
+        <loc>https://ooru.space/states/haryana/</loc>
     </url>
     <url>
         <loc>https://ooru.space/states/karnataka/</loc>
