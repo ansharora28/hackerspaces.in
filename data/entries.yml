@@ -187,7 +187,7 @@
   tags:
   - restricted-access
 
-- name: MakersBox
+- name: Makersbox
   active: true
   city:
   - New Delhi
@@ -631,3 +631,247 @@
   - Incubator
   tags:
   - coworking
+
+- name: 36 Inc Fablab
+  active: true
+  city:
+  - Raipur
+  state: Chhattisgarh
+  address: City Center Mall, 3rd Floor, Raipur
+  pincode: '492001'
+  coords:
+  - 21.2552
+  - 81.6468
+  url: https://36inc.in/fablab.php
+  description: Digital fabrication lab in Raipur serving the engineering and maker
+    community in central India.
+  categories:
+  - Fablab
+  tags: []
+
+- name: National Innovation Foundation Fablab
+  active: true
+  city:
+  - Gandhinagar
+  state: Gujarat
+  address: National Innovation Foundation, Grambharti, Amarapur, Gujarat 
+  pincode: '382650'
+  coords:
+  - 23.3770
+  - 72.6973
+  url: https://nif.org.in
+  description: Fab lab run by the National Innovation Foundation supporting grassroots
+    innovators, traditional knowledge holders, and student innovators across India.
+  categories:
+  - Fablab
+  tags:
+  - government
+
+- name: FabLab CoEP
+  active: true
+  city:
+  - Pune
+  - Poona
+  state: Maharashtra
+  address: College of Engineering, Wellesley Road, Shivajinagar, Pune
+  pincode: '411005'
+  coords:
+  - 18.5295
+  - 73.8473
+  url: https://fab-coep.vlabs.ac.in/
+  description: FabLab in COEP Pune
+  categories: 
+  - Fablab
+  tags:
+  - institutional
+
+- name: Bangalore Alpha Lab
+  active: true
+  city:
+  - Bengaluru
+  - Bangalore
+  state: Karnataka
+  address: 1316/C, 9th Cross, JP Nagar 2nd Phase, Bengaluru
+  pincode: '560078'
+  coords:
+  - 12.9079
+  - 77.5924
+  url: https://www.f6s.com/bangalorealphalab/about
+  description:  Bangalore Alpha Lab is a vibrant community of entrepreneurs coming together to interact and communicate ideas while they launch their startups at BAL Space. The culture has been carefully cultivated to create an environment where members keep each other inspired, motivated and help each other to move forward!
+  categories:
+  - Incubator
+  tags: []
+
+
+- name: IIT Delhi Makerspace
+  active: true
+  city:
+  - New Delhi
+  - Delhi
+  state: Delhi
+  address: IIT Delhi, Hauz Khas, New Delhi
+  pincode: '110016'
+  coords:
+  - 28.5433
+  - 77.1918
+  url: https://makerspace.iitd.ac.in/
+  description: DIY facility for people who like to make things, are curious about how stuff works, or would like to learn new skills in tinkering. 
+  categories:
+  - Makerspace
+  tags:
+  - institutional
+
+- name: Makerspace at HBCSE, TIFR
+  active: true
+  city:
+  - Mumbai
+  state: Maharashtra
+  address: Anushakti Nagar, Mumbai
+  pincode: '400088'
+  coords:
+  - 19.0429
+  - 72.9287
+  url: https://www.hbcse.tifr.res.in/research/past-projects/maker-space
+  description: The MakerSpace at HBCSE focuses on Do-it-Yourself (DIY), free and open source (FOSS) scientific instruments, hardware or anything that involves making, tinkering and engineering for research and educational purposes.
+  categories:
+  - Makerspace
+  tags:
+  - institutional
+
+    
+- name: IITB Makerspace
+  active: true
+  city:
+  - Mumbai
+  state: Maharashtra
+  address: 1st floor, Transit Building, IIT Bombay
+  pincode: '400076'
+  coords:
+  - 19.1333
+  - 72.9156
+  url: https://makerspace.iitb.ac.in/
+  description: The Institute Makerspace at IIT Bombay is a state-of-the-art facility designed to bridge the gap between theoretical learning and real-world application.
+  categories:
+  - Makerspace
+  tags:
+  - Institutional
+
+- name: Digital Makerspace, Ashoka University
+  active: true
+  city:
+  - Sonepat
+  state: Haryana
+  address: Ashoka University, Rajiv Gandhi Education City, Sonepat 28.963964550291205, 77.13767843302567
+  pincode: '131029'
+  coords:
+  - 28.9639
+  - 77.1376
+  url: https://www.ashoka.edu.in/digital-makerspace/
+  description: The Digital Makerspace at Ashoka Mphasis AI & Applied Tech Lab is a dynamic hub designed to inspire innovation and foster creativity.
+  categories:
+  - Makerspace
+  tags:
+  - Institutional
+
+- name: Makerspace at Shiv Nadar University
+  active: true
+  city:
+  - Noida
+  state: Uttar Pradesh
+  address: Shiv Nadar University,Gautam Buddha Nagar, Uttar Pradesh
+  pincode: '201314'
+  coords:
+  - 28.5267
+  - 77.5755
+  url: https://www.shivnadaruniversity.edu.in/makerspace
+  description: Makerspace is the heart of innovation, uniting students and faculty to explore, create, and turn dreams into tangible, functional projects.
+  categories:
+  - Makerspace
+  tags:
+  - Institutional
+
+- name: CrafterSpace
+  active: true
+  city:
+  - Tumkur
+  state: Karnataka
+  address: Durgadahalli, Devarayanadurga, Tumkur
+  pincode: '572140'
+  coords:
+  - 13.3837
+  - 77.2073
+  url: https://crafts.janastu.org/
+  description: Craft Centre based in Devarayanadurga, executed by Mitan and Janastu, funded by Rotary Dist. 3190. 
+  categories:
+  - Makerspace
+  tags:
+  - rural
+
+- name: Makerspace at Plaksha University
+  active: true
+  city:
+  - Mohali
+  state: Punjab
+  address: Sector 101, IT City Rd, Sahibzada Ajit Singh Nagar, Punjab
+  pincode: '140306'
+  coords:
+  - 30.6312
+  - 76.7259
+  url: https://plaksha.edu.in/gallery/makerspace
+  description: The Makerspace serves as a playground for curious tinkerers. Students and faculty engage in experiments that encourage interaction.
+  categories:
+  - Makerspace
+  tags:
+  - Institutional
+
+- name: Makerspace at Anant National University
+  active: true
+  city:
+  - Ahmedabad
+  state: Gujarat
+  address: Sanskardham Campus, Ahmedabad 
+  pincode: '382115'
+  coords:
+  - 23.0279
+  - 72.4262
+  url: https://www.anu.edu.in/makerspace/
+  description: The Makerspace is a collaborative workshop area open to students, faculty and staff. 
+  categories:
+  - Makerspace
+  tags:
+  - Institutional
+
+- name: Centre of Excellence (CoE) - Makerspace
+  active: true
+  city:
+  - Bengaluru
+  - Bangalore
+  state: Karnataka
+  address: Alliance University - Central Campus, Bengaluru 
+  pincode: '562106'
+  coords:
+  - 12.7326
+  - 77.6865
+  url: https://www.alliance.edu.in/coe-makerspace
+  description: Alliance University Makerspace is a do-it-yourself (DIY) facility for those who enjoy making things, are inquisitive about how products function or want to learn new skills in experimenting.
+  categories:
+  - Makerspace
+  tags:
+  - Institutional
+
+- name: Yuvalay MakerSpace
+  active: true
+  city:
+  - Vadodara
+  state: Gujarat
+  address: Kalyan Nagar, Diwalipura, Vadodara
+  pincode: '390007'
+  coords:
+  - 22.2963
+  - 73.1576
+  url: https://www.alliance.edu.in/coe-makerspace
+  description: Alliance University Makerspace is a do-it-yourself (DIY) facility for those who enjoy making things, are inquisitive about how products function or want to learn new skills in experimenting.
+  categories:
+  - Makerspace
+  tags:
+  - Institutional
