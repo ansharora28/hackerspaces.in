@@ -45,8 +45,8 @@ document.addEventListener('DOMContentLoaded', () => {
     document.head.append(s);
   }
 
-  const defStyle = { radius: 7, color: '#fff', weight: 1.5, fillColor: 'blue', fillOpacity: 0.85 };
-  const hiStyle  = { radius: 10, color: '#fff', weight: 2,   fillColor: 'blue', fillOpacity: 1 };
+  const defStyle = { radius: 7, color: '#fff', weight: 1.5, fillColor: '#c94a00', fillOpacity: 0.85 };
+  const hiStyle  = { radius: 10, color: '#fff', weight: 2,   fillColor: '#c94a00', fillOpacity: 1 };
 
   function styleMarker(m, style, open) {
     m.setStyle(style); m.setRadius(style.radius);
