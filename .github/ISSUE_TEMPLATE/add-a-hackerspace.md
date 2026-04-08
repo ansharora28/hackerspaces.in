@@ -1,6 +1,6 @@
 ---
-name: Add a makerspace
-about: Suggest a makerspace to add to the directory
+name: Add a hackerspace
+about: Suggest a hackerspace to add to the directory
 title: "[makerspace]"
 labels: ''
 assignees: ansharora28
