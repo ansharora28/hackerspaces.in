@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://ansharora28.github.io/makerspace/sitemap.xml
+Sitemap: https://ansharora28.github.io/hackerspaces.in/sitemap.xml
