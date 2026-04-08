@@ -5,17 +5,17 @@
   <title>{% block title %}{{ config.title }}{% endblock %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="og:image" content="{{ get_url(path='thumb.jpg') }}">
-  <link rel="shortcut icon" href="{{ get_url(path='favicon.svg') }}" />
+  <link rel="shortcut icon" href="{{ get_url(path='favicon.ico') }}" />
   <link rel="stylesheet" href="{{ get_url(path='style.css', cachebust=true) }}">
   {% block meta %}{% endblock %}
 </head>
 <body>
   <header>
-    <h1><a href="{{ get_url(path='/') }}">ooru.space</a></h1>
+    <h1><a href="{{ get_url(path='/') }}">hackerspaces.in</a></h1>
     {% block subtitle %}{% endblock %}
     <nav class="header-right">
-      <a href="https://gitea.samagata.org/ooru.space/ooru.space">Source</a>
-      <span>Add or correct something? <a href="https://docs.google.com/forms/d/1I6JjCiQ4_wVXgY1Y9EbpmJht4T6D714QIEDnAAR-nOk">Send suggestions</a></span>
+      <a href="https://github.com/ansharora28/makerspace">Source</a>
+      <span>Add or correct something? <a href="">Send suggestions</a></span>
     </nav>
   </header>
   {% block content %}{% endblock %}

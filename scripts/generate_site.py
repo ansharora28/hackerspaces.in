@@ -35,6 +35,14 @@ def main():
     entries = [e for e in all_entries if e.get("active", True)]
     skipped = len(all_entries) - len(entries)
 
+    for index, entry in enumerate(entries, start=1):
+        name = entry.get("name")
+        if not name:
+            raise ValueError(f"Entry #{index} is missing a name")
+        city = entry.get("city")
+        if not city or not city[0]:
+            raise ValueError(f"Entry {name!r} is missing a primary city")
+
     # Derive sibling paths from content_dir (e.g. content/spaces -> content, static)
     site_root = os.path.dirname(os.path.dirname(content_dir))
     os.makedirs(content_dir, exist_ok=True)
@@ -103,6 +111,7 @@ city = "{city}"
         writer.writerow(["name", "city", "state", "address", "pincode", "lat", "lng", "url", "description", "categories", "tags"])
         for entry in entries:
             coords = entry.get("coords", [0, 0])
+            city = entry["city"][0]
             writer.writerow([
                 entry["name"],
                 city,

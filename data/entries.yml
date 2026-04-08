@@ -571,7 +571,7 @@
   description: Mumbai's largest open-source tech community, bringing together developers,
     designers, and makers for meetups, workshops, and hackathons.
   categories:
-  - Hackerspace
+  - Makerspace
   tags: []
 
 - name: Somaiya RiiDL
@@ -869,9 +869,8 @@
   coords:
   - 22.2963
   - 73.1576
-  url: https://www.alliance.edu.in/coe-makerspace
-  description: Alliance University Makerspace is a do-it-yourself (DIY) facility for those who enjoy making things, are inquisitive about how products function or want to learn new skills in experimenting.
+  url: https://www.yuvalay.org/
+  description: Yuvalay MakerSpace is more than a physical place. It is a spirit of collaboration and discovery. It is where individuals inspire each other, where diverse talents blend to create something greater, and where making is not just an activity but a way of thinking and living. 
   categories:
   - Makerspace
-  tags:
-  - Institutional
+  tags: []

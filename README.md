@@ -1,8 +1,8 @@
-# oooru.space
+# 
 
-"Ooru" (home, place in all four South Indian languages).
 
-ooru.space is an open-source, open-data directory of public community and "third" spaces across India. Visit it at https://ooru.space
+
+ is an open-source, open-data directory of hacker/maker spaces across India. The project is inspired by and is a fork of [ooru.space]() created by [Kailash Nadh](nadh.in)
 
 ## Usage
 
