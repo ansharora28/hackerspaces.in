@@ -1,6 +1,6 @@
-base_url = "https://ooru.space"
-title = "Makerspaces in India"
-description = "Directory of Makerspaces across India"
+base_url = "https://ansharora28.github.io/makerspace"
+title = "Hackerspaces in India"
+description = "Directory of Hackerspaces across India"
 compile_sass = false
 minify_html = true
 
