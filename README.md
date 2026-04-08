@@ -1,6 +1,6 @@
 # hackerspaces.in
 
- hackerspaces.in is an open-source, open-data directory of hacker/maker spaces across India. The project is inspired by and is a fork of [ooru.space]() created by [Kailash Nadh](nadh.in)
+ hackerspaces.in is an open-source, open-data directory of hacker/maker spaces across India. The project is inspired by and is a fork of [ooru.space](ooru.space) created by [Kailash Nadh](nadh.in)
 
 ## Usage
 
